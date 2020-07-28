@@ -12,7 +12,7 @@ url: "signature/working-with-signature-search"
 
 # Search Barcode Signature #
 
-GroupDocs.Signature Cloud REST API supports to search Barcode signatures in supported document formats. It provides method to search Barcode Signature in Document Pages with different options barcodeType, Name, text, matchType and other search features by using [Search Options Object]({{< ref "signature\developer-guide\data-structures\searchsettings.md" >}})) data in request body.
+GroupDocs.Signature Cloud REST API supports to search Barcode signatures in supported document formats. It provides method to search Barcode Signature in Document Pages with different options barcodeType, Name, text, matchType and other search features by using [Search Options Object]({{< ref "signature/developer-guide/data-structures/searchsettings.md" >}})) data in request body.
 
 ## Resource ##
 
@@ -152,7 +152,7 @@ The API is completely independent of your operating system, database system or d
 
 # Search Digital Signature #
 
-GroupDocs.Signature Cloud REST API supports to search Digital signatures in supported document formats. It provides method to search Digital Signature in Document Pages with different options by using [Search Options Object]({{< ref "signature\developer-guide\data-structures\searchsettings.md" >}})) data in request body.
+GroupDocs.Signature Cloud REST API supports to search Digital signatures in supported document formats. It provides method to search Digital Signature in Document Pages with different options by using [Search Options Object]({{< ref "signature/developer-guide/data-structures/searchsettings.md" >}})) data in request body.
 
 ## Resource ##
 
@@ -290,7 +290,7 @@ The API is completely independent of your operating system, database system or d
 
 # Search QRCode Signature #
 
-GroupDocs.Signature Cloud REST API supports to search QRCode signatures in supported document formats. It provides method to search Digital Signature in Document Pages with different options qrCodeTypeName, text, matchType and other search features by using [Search Options Object]({{< ref "signature\developer-guide\data-structures\searchsettings.md" >}})) data in request body.
+GroupDocs.Signature Cloud REST API supports to search QRCode signatures in supported document formats. It provides method to search Digital Signature in Document Pages with different options qrCodeTypeName, text, matchType and other search features by using [Search Options Object]({{< ref "signature/developer-guide/data-structures/searchsettings.md" >}})) data in request body.
 
 ## Resource ##
 
@@ -433,7 +433,7 @@ The API is completely independent of your operating system, database system or d
 
 # Search Multiple Signatures on Document #
 
-GroupDocs.Signature Cloud REST API supports to search multiple signatures in a document. For example, you can search whether a document contains Text and Barcode Signatures at same time. To search list of signatures on document (Cells, Images, PDF, Slides or Words) Signature API provides an object **[SearchOptionsCollectionData]({{< ref "signature\developer-guide\data-structures\searchsettings.md" >}}))** that can contain one or more search options. Please, use search options which appropriate for current document format.
+GroupDocs.Signature Cloud REST API supports to search multiple signatures in a document. For example, you can search whether a document contains Text and Barcode Signatures at same time. To search list of signatures on document (Cells, Images, PDF, Slides or Words) Signature API provides an object **[SearchOptionsCollectionData]({{< ref "signature/developer-guide/data-structures/searchsettings.md" >}}))** that can contain one or more search options. Please, use search options which appropriate for current document format.
 
 ## Resource ##
 

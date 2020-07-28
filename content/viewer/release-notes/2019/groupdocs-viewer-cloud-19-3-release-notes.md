@@ -33,5 +33,5 @@ The difference of V2 version from V1 is more simplified API with less methods an
 
 ## Public API Examples ##
 
-* [GroupDocs Viewer Cloud v2.0 API Examples and documentation]({{< ref "viewer\developer-guide\_index.md" >}})working-with-viewer-api/)
+* [GroupDocs Viewer Cloud v2.0 API Examples and documentation]({{< ref "viewer/developer-guide/_index.md" >}})working-with-viewer-api/)
 |---|---

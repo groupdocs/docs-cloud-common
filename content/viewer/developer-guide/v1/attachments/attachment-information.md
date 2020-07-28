@@ -363,7 +363,7 @@ The API is completely independent of your operating system, database system or d
 
 # HTML Representation of Email Attachment Info with Document Information Options #
 
-You can retrieve attachment information with specified [DocumentInfoOptions]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject) for HTML representation. API expects [DocumentInfoOptions ]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject)object data in request body. It returns an object that contains information about file format and file size. Response also includes information about attachment pages and attachments..
+You can retrieve attachment information with specified [DocumentInfoOptions]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject) for HTML representation. API expects [DocumentInfoOptions ]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject)object data in request body. It returns an object that contains information about file format and file size. Response also includes information about attachment pages and attachments..
 
 ## Resource ##
 
@@ -539,7 +539,7 @@ The API is completely independent of your operating system, database system or d
 
 # Image Representation of Email Attachment Info with Document Information Options #
 
-You can retrieve attachment information with specified [DocumentInfoOptions]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject) for Image representation. API expects [DocumentInfoOptions ]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject)object data in request body. It returns an object that contains information about file format and file size. Response also includes information about attachment pages and attachments..
+You can retrieve attachment information with specified [DocumentInfoOptions]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject) for Image representation. API expects [DocumentInfoOptions ]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject)object data in request body. It returns an object that contains information about file format and file size. Response also includes information about attachment pages and attachments..
 
 ## Resource ##
 

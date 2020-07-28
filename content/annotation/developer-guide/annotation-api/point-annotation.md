@@ -12,7 +12,7 @@ url: "annotation/point-annotation"
 
 # Add Point Annotation #
 
-You can add point annotations to the supported document formats with request body parameters listed in **[AnnotationInfo]({{< ref "annotation\developer-guide\annotationinfo.md" >}}))**.
+You can add point annotations to the supported document formats with request body parameters listed in **[AnnotationInfo]({{< ref "annotation/developer-guide/annotationinfo.md" >}}))**.
 
 ## Resource ##
 

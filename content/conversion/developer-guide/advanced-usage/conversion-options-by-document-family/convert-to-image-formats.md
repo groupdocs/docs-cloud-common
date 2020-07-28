@@ -12,12 +12,12 @@ url: "conversion/convert-to-image-formats"
 
 # Introduction #
 
-GroupDocs.Conversion Cloud REST API allows to convert the [supported document formats]({{< ref "conversion\developer-guide\basic-usage\get-supported-file-formats.md" >}})) to **Image Formats** and returns the output document **storage URL** and also support to get result as a **array of stream**.
+GroupDocs.Conversion Cloud REST API allows to convert the [supported document formats]({{< ref "conversion/developer-guide/basic-usage/get-supported-file-formats.md" >}})) to **Image Formats** and returns the output document **storage URL** and also support to get result as a **array of stream**.
 |---|---
 
 # Convert to Images Formats #
 
-You can convert the [supported document formats]({{< ref "conversion\developer-guide\basic-usage\get-supported-file-formats.md" >}})) to **Images Formats **and get the output as storage URL.
+You can convert the [supported document formats]({{< ref "conversion/developer-guide/basic-usage/get-supported-file-formats.md" >}})) to **Images Formats **and get the output as storage URL.
 |---|---
 
 ## Resource ##
@@ -111,7 +111,7 @@ The API is completely independent of your operating system, database system or d
 
 # Convert to Image Formats with Stream Output #
 
-You can convert the [supported document formats]({{< ref "conversion\developer-guide\basic-usage\get-supported-file-formats.md" >}})) to **Images Formats **and get the output as Stream.
+You can convert the [supported document formats]({{< ref "conversion/developer-guide/basic-usage/get-supported-file-formats.md" >}})) to **Images Formats **and get the output as Stream.
 |---|---
 
 ## Resource ##
@@ -208,7 +208,7 @@ There are steps that usage of GroupDocs.Conversion Cloud consists of:
 1. Convert document
 1. Download converted document from storage
 
-Steps 1 and 3 are storage operations, please refer to this [GroupDocs.Conversion Cloud Storage Operations]({{< ref "conversion\developer-guide\working-with-storage-api.md" >}})) for usage details.
+Steps 1 and 3 are storage operations, please refer to this [GroupDocs.Conversion Cloud Storage Operations]({{< ref "conversion/developer-guide/working-with-storage-api.md" >}})) for usage details.
 
 Step 3 is not needed if the "OutputPath" option is not provided: the convert API method will return the converted document in the response body.
 

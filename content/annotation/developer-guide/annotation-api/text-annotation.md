@@ -12,7 +12,7 @@ url: "annotation/text-annotation"
 
 # Add Text Annotation #
 
-You can add text annotations to the supported document formats with request body parameters listed in **[AnnotationInfo]({{< ref "annotation\developer-guide\annotationinfo.md" >}}))**.
+You can add text annotations to the supported document formats with request body parameters listed in **[AnnotationInfo]({{< ref "annotation/developer-guide/annotationinfo.md" >}}))**.
 
 ## Resource ##
 

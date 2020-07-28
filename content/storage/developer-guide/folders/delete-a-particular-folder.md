@@ -14,11 +14,11 @@ url: "storage/delete-a-particular-folder"
 
 This API allows you to delete a particular Folder in the specified Cloud Storage. If you do not pass storage name API will create new Folder in default Cloud Storage. To remove recursively inner folder/files you need to pass true value to recursive parameter in Request. If it is set to false and folder contains data then API throws the exception.
 
-**Note:** If you want to use a Cloud Storage other than GroupDocs Cloud Storage, you need to configure Third Party Storage with Groupdocs for Cloud. Please follow the instructions at [this page]({{< ref "total\getting-started\ui-topics\configure-3rd-party\_index.md" >}}) to configure your required storage.
+**Note:** If you want to use a Cloud Storage other than GroupDocs Cloud Storage, you need to configure Third Party Storage with Groupdocs for Cloud. Please follow the instructions at [this page]({{< ref "total/getting-started/ui-topics/configure-3rd-party/_index.md" >}}) to configure your required storage.
 
 ## API Explorer ##
 
-[GroupDocs.Storage Cloud API Reference](https://apireference.groupdocs.cloud/storage/) lets you to try out [Delete a Particular Folder API](https://apireference.groupdocs.cloud/storage/#!/Folder/DeleteFolder) right away in your browser. It allows you to effortlessly interact and try out every single operation that our APIs exposes. Please check [this article]({{< ref "total\getting-started\ui-topics\create-new-app-and-get-app-key-and-sid.md" >}}) to learn how to get your App Key and SID. 
+[GroupDocs.Storage Cloud API Reference](https://apireference.groupdocs.cloud/storage/) lets you to try out [Delete a Particular Folder API](https://apireference.groupdocs.cloud/storage/#!/Folder/DeleteFolder) right away in your browser. It allows you to effortlessly interact and try out every single operation that our APIs exposes. Please check [this article]({{< ref "total/getting-started/ui-topics/create-new-app-and-get-app-key-and-sid.md" >}}) to learn how to get your App Key and SID. 
 
 ## cURL Example ##
 

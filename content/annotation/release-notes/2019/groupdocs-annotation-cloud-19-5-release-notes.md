@@ -39,5 +39,5 @@ The difference of V2 version from V1 is more simplified API with less methods an
 
 ## Public API Examples ##
 
-* GroupDocs.Annotation Cloud [Documentation]({{< ref "annotation\getting-started\_index.md" >}}))
+* GroupDocs.Annotation Cloud [Documentation]({{< ref "annotation/getting-started/_index.md" >}}))
 |---|---

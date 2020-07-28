@@ -7,7 +7,7 @@ url: "viewer/htmloptions"
 
 # HtmlOptions #
 
-HtmlOptions data structure inherits [RenderOptions ]({{< ref "viewer\developer-guide\data-structures\renderoptions.md" >}}))and used as part of [ViewOptions ]({{< ref "viewer\developer-guide\data-structures\viewoptions.md" >}}))data structure. 
+HtmlOptions data structure inherits [RenderOptions ]({{< ref "viewer/developer-guide/data-structures/renderoptions.md" >}}))and used as part of [ViewOptions ]({{< ref "viewer/developer-guide/data-structures/viewoptions.md" >}}))data structure. 
 |---|---|---|---
 
  
@@ -28,7 +28,7 @@ HtmlOptions data structure inherits [RenderOptions ]({{< ref "viewer\developer-
 
 |Name|Description
 |---|---
-|<RenderOptions fields>|ImageOptions inherits all properties of [RenderOptions]({{< ref "viewer\developer-guide\data-structures\renderoptions.md" >}}))
+|<RenderOptions fields>|ImageOptions inherits all properties of [RenderOptions]({{< ref "viewer/developer-guide/data-structures/renderoptions.md" >}}))
 |ExternalResources|Controls output HTML document resources (styles, images and fonts) linking.
 By default this option is disabled and all the resources are embedded into HTML document.
 |ResourcePath|Path for the HTML resources (styles, images and fonts).

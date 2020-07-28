@@ -15,7 +15,7 @@ url: "comparison/get-document-information"
 
 This REST API allows to obtain basic information about the document and it's properties.
 
-It returns *[InfoResult]({{< ref "comparison\developer-guide\data-structures\inforesult.md" >}}) *data structure, which contains the list of properties:
+It returns *[InfoResult]({{< ref "comparison/developer-guide/data-structures/inforesult.md" >}}) *data structure, which contains the list of properties:
 
 * Document file format
 * File extension

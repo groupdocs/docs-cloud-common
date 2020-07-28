@@ -12,7 +12,7 @@ url: "annotation/watermark-annotation"
 
 # Add Area Annotation #
 
-You can add Area annotations to the supported document formats with request body parameters listed in **[AnnotationInfo]({{< ref "annotation\developer-guide\annotationinfo.md" >}}))**.
+You can add Area annotations to the supported document formats with request body parameters listed in **[AnnotationInfo]({{< ref "annotation/developer-guide/annotationinfo.md" >}}))**.
 
 ## Resource ##
 

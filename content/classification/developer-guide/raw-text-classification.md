@@ -12,9 +12,9 @@ url: "classification/raw-text-classification"
 
 # Classify raw text #
 
-This API retrieves raw text classification result for [IAB-2, Documents or Sentiment taxonomy]({{< ref "classification\developer-guide\common-resources\taxonomy.md" >}}). It returns an object that contains information about the best class and its probability and about probabilities of the other classes. For Sentiment taxonomy Chinese and English are supported with the language auto-detection.
+This API retrieves raw text classification result for [IAB-2, Documents or Sentiment taxonomy]({{< ref "classification/developer-guide/common-resources/taxonomy.md" >}}). It returns an object that contains information about the best class and its probability and about probabilities of the other classes. For Sentiment taxonomy Chinese and English are supported with the language auto-detection.
 
-See [Classify request parameters]({{< ref "classification\developer-guide\common-resources\classify-request-parameters.md" >}}) for request's details.
+See [Classify request parameters]({{< ref "classification/developer-guide/common-resources/classify-request-parameters.md" >}}) for request's details.
 
 ## Resource ##
 

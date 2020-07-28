@@ -26,7 +26,7 @@ This is hot-fix release which includes 3 bug-fixes and 2 improvements.
 
 ## Public API and Backward Incompatible Changes ##
 
-IsResponsive option added to  [HtmlOptions]({{< ref "viewer\developer-guide\data-structures\htmloptions.md" >}})) 
+IsResponsive option added to  [HtmlOptions]({{< ref "viewer/developer-guide/data-structures/htmloptions.md" >}})) 
 |---|---
 
 

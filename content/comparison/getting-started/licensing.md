@@ -16,7 +16,7 @@ For details on how to create a new account please check [Create a new Account](
 
 # Apply App SID and App Key #
 
-For details on how to get App Key and App SID please check [Create New App and Get App Key and SID]({{< ref "comparison\getting-started\licensing.md" >}})).
+For details on how to get App Key and App SID please check [Create New App and Get App Key and SID]({{< ref "comparison/getting-started/licensing.md" >}})).
 
 # Free Plan #
 

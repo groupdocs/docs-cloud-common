@@ -28,4 +28,4 @@ url: "comparison/groupdocs-comparison-cloud-20-5-release-notes"
 
 ### API examples and documentation ###
 
-* [GroupDocs Comparison Cloud API Examples and documentation]({{< ref "comparison\_index.md" >}})
+* [GroupDocs Comparison Cloud API Examples and documentation]({{< ref "comparison/_index.md" >}})

@@ -7,7 +7,7 @@ url: "viewer/renderoptions"
 
 # RenderOptions #
 
-RenderOptions data structure used as part of [ViewOptions ]({{< ref "viewer\developer-guide\data-structures\viewoptions.md" >}}))data structure. 
+RenderOptions data structure used as part of [ViewOptions ]({{< ref "viewer/developer-guide/data-structures/viewoptions.md" >}}))data structure. 
 |---|---
 
 {{< alert style="info" >}}

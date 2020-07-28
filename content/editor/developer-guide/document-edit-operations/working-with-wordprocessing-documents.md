@@ -22,7 +22,7 @@ url: "editor/working-with-wordprocessing-documents"
 1. Save the edited document into WordProcessing format in the storage
 1. Download saved document
 
-Steps 1, 3, 4, 5 are storage operations, please refer to this [Storage Operations]({{< ref "editor\developer-guide\storage-operations\_index.md" >}})) for usage details. Step 4 is a custom edit operation that can be performed with the programming language or 3rd party tools.
+Steps 1, 3, 4, 5 are storage operations, please refer to this [Storage Operations]({{< ref "editor/developer-guide/storage-operations/_index.md" >}})) for usage details. Step 4 is a custom edit operation that can be performed with the programming language or 3rd party tools.
 |---|---
 
 Below is a detailed description of steps 2 and 6.

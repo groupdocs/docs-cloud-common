@@ -18,7 +18,7 @@ The difference between the V2 version from V1 is a more simplified API with fewe
 
 # Add Annotation #
 
-You can add arrow annotations to the supported document formats with request body parameters listed in **[AnnotationInfo]({{< ref "annotation\developer-guide\annotationinfo.md" >}}))**.
+You can add arrow annotations to the supported document formats with request body parameters listed in **[AnnotationInfo]({{< ref "annotation/developer-guide/annotationinfo.md" >}}))**.
 
 ## Resource ##
 
@@ -143,7 +143,7 @@ The API is completely independent of your operating system, database system or d
 
 # Delete Annotation #
 
-You can delete annotations to the supported document formats with request body parameters listed in **[AnnotationInfo]({{< ref "annotation\developer-guide\annotationinfo.md" >}}))**.
+You can delete annotations to the supported document formats with request body parameters listed in **[AnnotationInfo]({{< ref "annotation/developer-guide/annotationinfo.md" >}}))**.
 
 ## Resource ##
 
@@ -271,7 +271,7 @@ The API is completely independent of your operating system, database system or d
 
 # Get Annotations with Result as File Path #
 
-This API gets an annotated document and retrieves the resultant document as a file. Request body parameters are  listed in **[AnnotationInfo]({{< ref "annotation\developer-guide\annotationinfo.md" >}}))**.
+This API gets an annotated document and retrieves the resultant document as a file. Request body parameters are  listed in **[AnnotationInfo]({{< ref "annotation/developer-guide/annotationinfo.md" >}}))**.
 
 ## Resource ##
 
@@ -395,7 +395,7 @@ The API is completely independent of your operating system, database system or d
 
 # Get Annotations with Result as Stream #
 
-This API gets an annotated document and retrieves the resultant document as a stream. The request body parameter is listed in **[AnnotationInfo]({{< ref "annotation\developer-guide\annotationinfo.md" >}}))**.
+This API gets an annotated document and retrieves the resultant document as a stream. The request body parameter is listed in **[AnnotationInfo]({{< ref "annotation/developer-guide/annotationinfo.md" >}}))**.
 
 ## Resource ##
 
@@ -519,7 +519,7 @@ The API is completely independent of your operating system, database system or d
 
 # Get Document as PDF with Annotation Result as Stream #
 
-This API gets an annotated PDF document and retrieves the resultant document as a stream. Request body parameters listed are in **[AnnotationInfo]({{< ref "annotation\developer-guide\annotationinfo.md" >}}))**.
+This API gets an annotated PDF document and retrieves the resultant document as a stream. Request body parameters listed are in **[AnnotationInfo]({{< ref "annotation/developer-guide/annotationinfo.md" >}}))**.
 
 ## Resource ##
 

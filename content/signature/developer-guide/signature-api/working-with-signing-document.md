@@ -12,7 +12,7 @@ url: "signature/working-with-signing-document"
 
 # Add Barcode Signature to Document #
 
-GroupDocs.Signature Cloud REST API supports to sign a document with Barcode. It provides methods to create Barcode Signature in Document Pages with different options of Barcode type, location, alignment, font, margins, and appearances by using [Signature Options Objects]({{< ref "signature\developer-guide\data-structures\common-structures.md" >}})) data in the request body.
+GroupDocs.Signature Cloud REST API supports to sign a document with Barcode. It provides methods to create Barcode Signature in Document Pages with different options of Barcode type, location, alignment, font, margins, and appearances by using [Signature Options Objects]({{< ref "signature/developer-guide/data-structures/common-structures.md" >}})) data in the request body.
 
 ## Resource ##
 
@@ -146,7 +146,7 @@ The API is completely independent of your operating system, database system or d
 
 # Add Digital Signature to Document #
 
-GroupDocs.Signature Cloud REST API supports to add Digital Signature to a document. It provides methods to create Digital Signature in Document Pages with different options of Certificate type, location, alignment, font, margins, and appearances by using [Signature Options Object]({{< ref "signature\developer-guide\data-structures\common-structures.md" >}})) data in the request body.
+GroupDocs.Signature Cloud REST API supports to add Digital Signature to a document. It provides methods to create Digital Signature in Document Pages with different options of Certificate type, location, alignment, font, margins, and appearances by using [Signature Options Object]({{< ref "signature/developer-guide/data-structures/common-structures.md" >}})) data in the request body.
 
 ## Resource ##
 
@@ -280,7 +280,7 @@ The API is completely independent of your operating system, database system or d
 
 # Add Image Signature to Document #
 
-GroupDocs.Signature Cloud REST API supports to sign a document with Image. It provides methods to create Image Signature in Document Pages with different options of the Image name, location, alignment, font, margins, and appearances by using [Signature Options Objects]({{< ref "signature\developer-guide\data-structures\common-structures.md" >}})) object data in the request body.
+GroupDocs.Signature Cloud REST API supports to sign a document with Image. It provides methods to create Image Signature in Document Pages with different options of the Image name, location, alignment, font, margins, and appearances by using [Signature Options Objects]({{< ref "signature/developer-guide/data-structures/common-structures.md" >}})) object data in the request body.
 
 ## Resource ##
 
@@ -413,7 +413,7 @@ The API is completely independent of your operating system, database system or d
 
 # Add QRCode Signature to Document #
 
-GroupDocs.Signature Cloud REST API supports to sign a document with QRCode. It provides methods to create QRCode Signature in Document Pages with different options of QRCode type, location, alignment, font, margins, and appearances by using [Signature Options Object]({{< ref "signature\developer-guide\data-structures\common-structures.md" >}})) data in the request body.
+GroupDocs.Signature Cloud REST API supports to sign a document with QRCode. It provides methods to create QRCode Signature in Document Pages with different options of QRCode type, location, alignment, font, margins, and appearances by using [Signature Options Object]({{< ref "signature/developer-guide/data-structures/common-structures.md" >}})) data in the request body.
 
 ## Resource ##
 
@@ -543,7 +543,7 @@ The API is completely independent of your operating system, database system or d
 
 # Add Stamp Signature to Document #
 
-GroupDocs.Signature Cloud REST API supports to put Stamp Signature on the supported file format. It provides methods to create Stamp Signature in Document Pages with different options to add an image as a stamp, location, alignment, font, margins, and appearances by using [Signature Options Object]({{< ref "signature\developer-guide\data-structures\common-structures.md" >}})) data in the request body.
+GroupDocs.Signature Cloud REST API supports to put Stamp Signature on the supported file format. It provides methods to create Stamp Signature in Document Pages with different options to add an image as a stamp, location, alignment, font, margins, and appearances by using [Signature Options Object]({{< ref "signature/developer-guide/data-structures/common-structures.md" >}})) data in the request body.
 
 ## Resource ##
 
@@ -673,7 +673,7 @@ The API is completely independent of your operating system, database system or d
 
 # Add Text Signature to Document #
 
-GroupDocs.Signature Cloud REST API supports to sign a document with Text. It provides methods to create Text Signature in Document Pages with different options of Text, location, alignment, font, margins, and appearances by using [Signature Options Object]({{< ref "signature\developer-guide\data-structures\common-structures.md" >}})) data in the request body.
+GroupDocs.Signature Cloud REST API supports to sign a document with Text. It provides methods to create Text Signature in Document Pages with different options of Text, location, alignment, font, margins, and appearances by using [Signature Options Object]({{< ref "signature/developer-guide/data-structures/common-structures.md" >}})) data in the request body.
 
 ## Resource ##
 
@@ -808,7 +808,7 @@ The API is completely independent of your operating system, database system or d
 
 # Add Multiple Signatures to Document #
 
-GroupDocs.Signature Cloud REST API supports to sign a document with multiple signatures. For example, you can add Text and Barcode signatures to a document at the same time. To put a list of signatures on the document (Cells, Images, PDF, Slides or Words) Signature API provides an object **[SignOptionsCollectionData]({{< ref "signature\developer-guide\data-structures\signsettings.md" >}}))** that can contain one or more signature options. Please, use signature options which appropriate for the current document format.
+GroupDocs.Signature Cloud REST API supports to sign a document with multiple signatures. For example, you can add Text and Barcode signatures to a document at the same time. To put a list of signatures on the document (Cells, Images, PDF, Slides or Words) Signature API provides an object **[SignOptionsCollectionData]({{< ref "signature/developer-guide/data-structures/signsettings.md" >}}))** that can contain one or more signature options. Please, use signature options which appropriate for the current document format.
 
 ## Resource ##
 

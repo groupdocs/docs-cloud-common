@@ -32,6 +32,6 @@ This page contains release notes for GroupDocs.Parser Cloud 20.6
 
 ### API examples and documentation ###
 
-* [GroupDocs Parser Cloud API Examples and documentation]({{< ref "parser\_index.md" >}}))
+* [GroupDocs Parser Cloud API Examples and documentation]({{< ref "parser/_index.md" >}}))
 
  

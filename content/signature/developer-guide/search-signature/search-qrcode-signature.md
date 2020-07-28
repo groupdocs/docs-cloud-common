@@ -20,11 +20,11 @@ Note:  The features listed on this page are supported only in GroupDocs.Signatu
 
 # Introduction #
 
-GroupDocs.Signature Cloud REST API supports to search QRCode signatures in supported document formats. It provides method to search Digital Signature in Document Pages with different options qrCodeTypeName, text, matchType and other search features by using [Search Options Object]({{< ref "signature\developer-guide\common-resources\search-options-objects.md" >}}) data in request body.
+GroupDocs.Signature Cloud REST API supports to search QRCode signatures in supported document formats. It provides method to search Digital Signature in Document Pages with different options qrCodeTypeName, text, matchType and other search features by using [Search Options Object]({{< ref "signature/developer-guide/common-resources/search-options-objects.md" >}}) data in request body.
 
 # Search QRCode Signature #
 
-You can search QRCode Signature on Document provided by fileName and document folder (if required) using following API. It expects [Search Options Object]({{< ref "signature\developer-guide\common-resources\search-options-objects.md" >}}) data in request body.
+You can search QRCode Signature on Document provided by fileName and document folder (if required) using following API. It expects [Search Options Object]({{< ref "signature/developer-guide/common-resources/search-options-objects.md" >}}) data in request body.
 
 It returns an object which contains document name, folder location and search result.
 
@@ -159,9 +159,9 @@ The API is completely independent of your operating system, database system or d
 
 # Search QRCode Signature in a Document at Provided URL #
 
-You can search QR-Code Signature for document at provided URL with [Search Options]({{< ref "signature\developer-guide\common-resources\search-options-objects.md" >}}) using following API. It retrieves file from specified URL and tries to detect file type when fileName parameter is not specified.
+You can search QR-Code Signature for document at provided URL with [Search Options]({{< ref "signature/developer-guide/common-resources/search-options-objects.md" >}}) using following API. It retrieves file from specified URL and tries to detect file type when fileName parameter is not specified.
 
-It expects [Search Options]({{< ref "signature\developer-guide\common-resources\search-options-objects.md" >}}) object data in request body. Based on passed Search Options settings proceeds with Document search, it returns object which contains result of searching process. The field Signatures keeps list of objects which represents found signatures like WordsQRCodeSignatureData.
+It expects [Search Options]({{< ref "signature/developer-guide/common-resources/search-options-objects.md" >}}) object data in request body. Based on passed Search Options settings proceeds with Document search, it returns object which contains result of searching process. The field Signatures keeps list of objects which represents found signatures like WordsQRCodeSignatureData.
 
 ## Resource ##
 

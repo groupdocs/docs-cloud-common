@@ -20,11 +20,11 @@ Note:  The features listed on this page are supported only in GroupDocs.Signatu
 
 # Introduction #
 
-GroupDocs.Signature Cloud REST API supports to sign a document with Text. It provides methods to create Text Signature in Document Pages with different options of Text, location, alignment, font, margins and appearances by using [Signature Options Object]({{< ref "signature\developer-guide\common-resources\signature-options-objects.md" >}}) data in request body.
+GroupDocs.Signature Cloud REST API supports to sign a document with Text. It provides methods to create Text Signature in Document Pages with different options of Text, location, alignment, font, margins and appearances by using [Signature Options Object]({{< ref "signature/developer-guide/common-resources/signature-options-objects.md" >}}) data in request body.
 
 # Add Text Signature to Document #
 
-You can create Text Signature on Document provided by fileName and document folder (if required) using following API. It expects [Signature Options Object]({{< ref "signature\developer-guide\common-resources\signature-options-objects.md" >}}) data in request body.
+You can create Text Signature on Document provided by fileName and document folder (if required) using following API. It expects [Signature Options Object]({{< ref "signature/developer-guide/common-resources/signature-options-objects.md" >}}) data in request body.
 
 It returns an object which contains document name, folder location and command status.
 
@@ -147,7 +147,7 @@ The API is completely independent of your operating system, database system or d
 
 # Add Text Signature to Document at Provided URL #
 
-You can creates Text Signature for document at provided URL with [doc:signaturecloud.developer-guide.common-resources.signature-options-objects.WebHome). It retrieves file from specified URL and tries to detect file type when fileName parameter is not specified. It saves retrieved file in storage, by using fileName and folder parameters to specify desired file name and folder to save file. When file with specified name already exists in storage new unique file name will be used for file. It expects [Signature Options Object]({{< ref "signature\developer-guide\common-resources\signature-options-objects.md" >}}) data in request body and returns object which contains document name and folder location.
+You can creates Text Signature for document at provided URL with [signature-options-objects]({{< ref "signature/developer-guide/common-resources/signature-options-objects.md" >}}). It retrieves file from specified URL and tries to detect file type when fileName parameter is not specified. It saves retrieved file in storage, by using fileName and folder parameters to specify desired file name and folder to save file. When file with specified name already exists in storage new unique file name will be used for file. It expects [Signature Options Object]({{< ref "signature/developer-guide/common-resources/signature-options-objects.md" >}}) data in request body and returns object which contains document name and folder location.
 
 ## Resource ##
 
@@ -267,7 +267,7 @@ The API is completely independent of your operating system, database system or d
 
 # Apply Background Brush for Text Signatures #
 
-You can creates Text Signature for document with [doc:signaturecloud.developer-guide.common-resources.signature-options-objects.WebHome). Signature Text Options and all inherited classes have been updated in Release 18.7 with newly added property** BackgroundBrush** which support following brush types.
+You can creates Text Signature for document with [signature-options-objects]({{< ref "signature/developer-guide/common-resources/signature-options-objects.md" >}}). Signature Text Options and all inherited classes have been updated in Release 18.7 with newly added property** BackgroundBrush** which support following brush types.
 
  
 
@@ -480,7 +480,7 @@ The API is completely independent of your operating system, database system or d
 
 # Add Text Signature to Document with Text Options (text alignments) #
 
-You can create Text Signature on Document provided by fileName and document folder (if required) using following API. It expects [Signature Options Object]({{< ref "signature\developer-guide\common-resources\signature-options-objects.md" >}}) data in request body.
+You can create Text Signature on Document provided by fileName and document folder (if required) using following API. It expects [Signature Options Object]({{< ref "signature/developer-guide/common-resources/signature-options-objects.md" >}}) data in request body.
 
 It returns an object which contains document name, folder location and command status.**CellsSignTextOptionsData, ImagesSignTextOptionsData, PdfSignTextOptionsData, SlidesSignTextOptionsData, WordsSignTextOptionsData** classes were updated in (Release 18.7) with newly added properties **TextHorizontalAlignment** and **TextVerticalAlignment** .
 

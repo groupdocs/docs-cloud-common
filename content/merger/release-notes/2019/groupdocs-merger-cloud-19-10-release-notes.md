@@ -11,7 +11,7 @@ This page contains release notes for GroupDocs.Merger Cloud 19.10
 
 ## Major Features ##
 
-GroupDocs.Merger Cloud is a REST API that allows you to join multiple documents and manipulate single document structure across a wide range of [supported document]({{< ref "merger\getting-started\supported-document-formats.md" >}})) types. The main features are:
+GroupDocs.Merger Cloud is a REST API that allows you to join multiple documents and manipulate single document structure across a wide range of [supported document]({{< ref "merger/getting-started/supported-document-formats.md" >}})) types. The main features are:
 
 
 
@@ -36,4 +36,4 @@ GroupDocs.Merger Cloud is a REST API that allows you to join multiple document
 
 ## Public API Examples ##
 
-* [GroupDocs Merger Cloud API examples and documentation]({{< ref "merger\_index.md" >}}))
+* [GroupDocs Merger Cloud API examples and documentation]({{< ref "merger/_index.md" >}}))

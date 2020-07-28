@@ -7,7 +7,7 @@ url: "viewer/inforesult"
 
 # InfoResult #
 
-InfoResult data structure returned by [Document Info API]({{< ref "viewer\developer-guide\basic-usage\get-document-information.md" >}}) as output result
+InfoResult data structure returned by [Document Info API]({{< ref "viewer/developer-guide/basic-usage/get-document-information.md" >}}) as output result
 
 
 ##### InfoResult example #####

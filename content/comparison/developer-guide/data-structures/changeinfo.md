@@ -51,8 +51,8 @@ ChangeInfo example:
 |Text|Source text
 |Targettext|Target text
 |Authors|Array of authors who made this change (used for multi comparison)
-|PageInfo|[Description ]({{< ref "comparison\developer-guide\data-structures\pageinfo.md" >}})of page on which change is found
-|Box|[Description ]({{< ref "comparison\developer-guide\data-structures\rectangle.md" >}})of the place where change is found
+|PageInfo|[Description ]({{< ref "comparison/developer-guide/data-structures/pageinfo.md" >}})of page on which change is found
+|Box|[Description ]({{< ref "comparison/developer-guide/data-structures/rectangle.md" >}})of the place where change is found
 |
 StyleChangeInfo
 

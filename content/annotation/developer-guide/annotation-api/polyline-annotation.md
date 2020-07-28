@@ -12,7 +12,7 @@ url: "annotation/polyline-annotation"
 
 # Add Polyline Annotation #
 
-You can add polyline annotations to the supported document formats with request body parameters listed in **[AnnotationInfo]({{< ref "annotation\developer-guide\annotationinfo.md" >}}))**.
+You can add polyline annotations to the supported document formats with request body parameters listed in **[AnnotationInfo]({{< ref "annotation/developer-guide/annotationinfo.md" >}}))**.
 
 ## Resource ##
 

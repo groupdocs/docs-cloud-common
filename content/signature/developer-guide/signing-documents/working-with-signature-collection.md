@@ -20,11 +20,11 @@ Note:  The features listed on this page are supported only in GroupDocs.Signatu
 
 # Introduction #
 
-GroupDocs.Signature Cloud REST API supports to sign a document with multiple signatures. For example, you can add Text and Barcode Signature to a document at same time. To put list of signatures on document (Cells, Images, PDF, Slides or Words) Signature API provides an object **[SignOptionsCollectionData]({{< ref "signature\developer-guide\common-resources\signature-options-objects.md" >}})** that can contain one or more signature options. Please, use signature options which appropriate for current document format.
+GroupDocs.Signature Cloud REST API supports to sign a document with multiple signatures. For example, you can add Text and Barcode Signature to a document at same time. To put list of signatures on document (Cells, Images, PDF, Slides or Words) Signature API provides an object **[SignOptionsCollectionData]({{< ref "signature/developer-guide/common-resources/signature-options-objects.md" >}})** that can contain one or more signature options. Please, use signature options which appropriate for current document format.
 
 # Add Multiple Signatures to Document #
 
-You can create multiple Signatures on Document at same time provided by fileName and document folder (if required) using following API. It expects [SignOptionsCollectionData]({{< ref "signature\developer-guide\common-resources\signature-options-objects.md" >}}) object data in request body. You can add required signature options to this object as per your document format.
+You can create multiple Signatures on Document at same time provided by fileName and document folder (if required) using following API. It expects [SignOptionsCollectionData]({{< ref "signature/developer-guide/common-resources/signature-options-objects.md" >}}) object data in request body. You can add required signature options to this object as per your document format.
 
 It returns an object which contains document name, folder location and signing result.
 
@@ -147,7 +147,7 @@ The API is completely independent of your operating system, database system or d
 
 # Add Multiple Signatures to Document at Provided URL #
 
-You can create multiple Signatures on Document at same time provided by specified file URL and document folder (if required) using following API. It expects [SignOptionsCollectionData]({{< ref "signature\developer-guide\common-resources\signature-options-objects.md" >}}) object data in request body. You can add required signature options to this object as per your document format.
+You can create multiple Signatures on Document at same time provided by specified file URL and document folder (if required) using following API. It expects [SignOptionsCollectionData]({{< ref "signature/developer-guide/common-resources/signature-options-objects.md" >}}) object data in request body. You can add required signature options to this object as per your document format.
 
 It returns an object which contains document name, folder location and signing result.
 

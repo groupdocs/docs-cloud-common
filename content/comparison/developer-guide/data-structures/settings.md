@@ -86,9 +86,9 @@ Settings example:
 |ShowDeletedContent|Indicates whether to show deleted components in resultant document or not
 |ShowInsertedContent|Indicates whether to show inserted components in resultant document or not
 |StyleChangeDetection|Indicates whether to detect style changes or not
-|InsertedItemsStyle|[Style ]({{< ref "comparison\developer-guide\data-structures\itemsstyle.md" >}})for inserted components
-|DeletedItemsStyle|[Style ]({{< ref "comparison\developer-guide\data-structures\itemsstyle.md" >}})for deleted components
-|ChangedItemsStyle|[Style]({{< ref "comparison\developer-guide\data-structures\itemsstyle.md" >}}) for components with changed style
+|InsertedItemsStyle|[Style ]({{< ref "comparison/developer-guide/data-structures/itemsstyle.md" >}})for inserted components
+|DeletedItemsStyle|[Style ]({{< ref "comparison/developer-guide/data-structures/itemsstyle.md" >}})for deleted components
+|ChangedItemsStyle|[Style]({{< ref "comparison/developer-guide/data-structures/itemsstyle.md" >}}) for components with changed style
 |WordsSeparatorChars|An array of delimiters to split text into words
 |DetailsLevel|The comparison details level  (Low, Middle, High)
 |UseFramesForDelInsElements|Indicates whether to use frames for shapes in Word Processing and for rectangles in Image documents
@@ -99,11 +99,11 @@ in Image documents
 |MarkNestedContent|Gets or sets a value indicating whether to mark the children of the deleted or
 inserted element as deleted or inserted
 |CloneMetadata|Type of metadata to clone (Default, Source, Target, FileAuthor)
-|MetaData|User [metadata]({{< ref "comparison\developer-guide\data-structures\metadata.md" >}})
+|MetaData|User [metadata]({{< ref "comparison/developer-guide/data-structures/metadata.md" >}})
 |PasswordSaveOption|Type of password saving (None, Source, Target, User)
 |Password|User password to resultant document
-|DiagramMasterSetting|[Master ]({{< ref "comparison\developer-guide\data-structures\diagrammastersetting.md" >}})for Diagram document
-|OriginalSize|Original document [size ]({{< ref "comparison\developer-guide\data-structures\size.md" >}})when picture is compared with other different formats
+|DiagramMasterSetting|[Master ]({{< ref "comparison/developer-guide/data-structures/diagrammastersetting.md" >}})for Diagram document
+|OriginalSize|Original document [size ]({{< ref "comparison/developer-guide/data-structures/size.md" >}})when picture is compared with other different formats
 |HeaderFootersComparison|Control to turn on comparison of header/footer contents
 |PaperSize|The result document paper size (Default, A0, A1, ... A8)
 |SensitivityOfComparison|A sensitivity of comparison (1..100). Default is 75

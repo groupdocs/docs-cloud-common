@@ -133,7 +133,7 @@ GroupDocs.Parser Cloud provides methods that help you to create, update, retriev
 
 # Security and Authentication #
 
-The GroupDocs.Parser Cloud API is secured and requires authentication. Two keys AppSID and AppKey are required for Authentication which can be created at the [Dashboard](http://dashboard.groupdocs.cloud/). Check [Authenticating API Requests]({{< ref "total\getting-started\overview-rest-api\authenticating-api-requests.md" >}})) article for the complete example.
+The GroupDocs.Parser Cloud API is secured and requires authentication. Two keys AppSID and AppKey are required for Authentication which can be created at the [Dashboard](http://dashboard.groupdocs.cloud/). Check [Authenticating API Requests]({{< ref "total/getting-started/overview-rest-api/authenticating-api-requests.md" >}})) article for the complete example.
 |---|---|---|---
 
 

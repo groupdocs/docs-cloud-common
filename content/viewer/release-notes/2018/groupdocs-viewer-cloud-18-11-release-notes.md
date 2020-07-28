@@ -111,7 +111,7 @@ curl --request GET \
 
 ### Option for setting list of fonts that should be excluded from HTML ###
 
-Adding fonts into HTML ensures that the text from the original document will appear similar in HTML, regardless of whether fonts are installed on the viewer's device or not. But at the same time, this improvement comes with the cost of the increased size of the output file. Since the version 18.10 GroupDocs.Viewer API provides a new setting - **[HtmlOptions]({{< ref "viewer\developer-guide\v1\common-resources\options-objects.md" >}}).ExcludeFontsList**, that allows finding the compromise, by preventing adding specific fonts (that are commonly available on most of the devices). The example below shows how to prevent adding fonts into output HTML. Currently, it works only for Presentation documents. We are planning to extend support for this feature for all document types where it is applicable in the upcoming releases.
+Adding fonts into HTML ensures that the text from the original document will appear similar in HTML, regardless of whether fonts are installed on the viewer's device or not. But at the same time, this improvement comes with the cost of the increased size of the output file. Since the version 18.10 GroupDocs.Viewer API provides a new setting - **[HtmlOptions]({{< ref "viewer/developer-guide/v1/common-resources/options-objects.md" >}}).ExcludeFontsList**, that allows finding the compromise, by preventing adding specific fonts (that are commonly available on most of the devices). The example below shows how to prevent adding fonts into output HTML. Currently, it works only for Presentation documents. We are planning to extend support for this feature for all document types where it is applicable in the upcoming releases.
 
 
 

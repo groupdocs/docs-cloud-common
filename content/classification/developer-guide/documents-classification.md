@@ -12,9 +12,9 @@ url: "classification/documents-classification"
 
 # Classify documents #
 
-This API retrieves document classification result for [IAB-2 taxonomy]({{< ref "classification\developer-guide\common-resources\taxonomy.md" >}}) or [Documents taxonomy]({{< ref "classification\developer-guide\common-resources\taxonomy.md" >}}). It returns an object that contains information about the best class and its probability and about probability of other classes.
+This API retrieves document classification result for [IAB-2 taxonomy]({{< ref "classification/developer-guide/common-resources/taxonomy.md" >}}) or [Documents taxonomy]({{< ref "classification/developer-guide/common-resources/taxonomy.md" >}}). It returns an object that contains information about the best class and its probability and about probability of other classes.
 
-See [Classify request parameters]({{< ref "classification\developer-guide\common-resources\classify-request-parameters.md" >}}) for request's details.
+See [Classify request parameters]({{< ref "classification/developer-guide/common-resources/classify-request-parameters.md" >}}) for request's details.
 
 ## Resource ##
 

@@ -16,7 +16,7 @@ Note:  The features listed in this page are working only with GroupDocs.Compari
 
 # Get Changes from Compared Documents #
 
-You can compare documents and get a list of changes by providing the [JsonRequest Object]({{< ref "comparison\developer-guide\v1\common-resources\jsonrequest-fields-description.md" >}}) data in request body.
+You can compare documents and get a list of changes by providing the [JsonRequest Object]({{< ref "comparison/developer-guide/v1/common-resources/jsonrequest-fields-description.md" >}}) data in request body.
 
 ## Resource ##
 

@@ -10,7 +10,7 @@ url: "watermark/get-supported-file-formats"
 
 # Introduction #
 
-This REST API allows getting a list of all [file formats supported ]({{< ref "watermark\getting-started\supported-document-types.md" >}}))by GroupDocs.Watermark Cloud product.
+This REST API allows getting a list of all [file formats supported ]({{< ref "watermark/getting-started/supported-document-types.md" >}}))by GroupDocs.Watermark Cloud product.
 
 ## Resource URI ##
 

@@ -22,7 +22,7 @@ You can get it from default Application or create new Application from My Apps t
 
 # Install the SDK of your choice #
 
-GroupDocs for Cloud SDK is written in different languages, all you need to get started is adding our [SDK]({{< ref "annotation\getting-started\available-sdks.md" >}}) to your existing project.
+GroupDocs for Cloud SDK is written in different languages, all you need to get started is adding our [SDK]({{< ref "annotation/getting-started/available-sdks.md" >}}) to your existing project.
 
 # Make an API request from the SDK of your choice #
 

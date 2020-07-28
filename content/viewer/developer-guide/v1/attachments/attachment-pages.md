@@ -350,7 +350,7 @@ The API is completely independent of your operating system, database system or d
 
 # Download ZIP Archive of Email Attachment Pages for HTML Representation #
 
-You can download ZIP archive of email attachments pages for HTML representation using following API. Please check [ZIP Archive structure]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/zip-file-structure/) for more details.
+You can download ZIP archive of email attachments pages for HTML representation using following API. Please check [ZIP Archive structure]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/zip-file-structure/) for more details.
 
 ## Resource ##
 
@@ -479,7 +479,7 @@ The API is completely independent of your operating system, database system or d
 
 # Download ZIP Archive of Email Attachment Pages for Image Representation #
 
-You can download ZIP archive of email attachments pages for Image representation using following API. Please check [ZIP Archive structure]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/zip-file-structure/) for more details.
+You can download ZIP archive of email attachments pages for Image representation using following API. Please check [ZIP Archive structure]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/zip-file-structure/) for more details.
 
 ## Resource ##
 
@@ -866,7 +866,7 @@ The API is completely independent of your operating system, database system or d
 
 # Create Email Attachment Pages Cache for HTML Representation #
 
-You can create email attachment pages cache for HTML representation using following API. It expects [HtmlOptions]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/#HHtmlOptionsObject||style#"background-color: transparent;" shape#"rect")  object data in request body and returns an object which contains list of links to attachment pages or ZIP archive with actual pages as HTML when "application/zip" accept header specified.
+You can create email attachment pages cache for HTML representation using following API. It expects [HtmlOptions]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/#HHtmlOptionsObject||style#"background-color: transparent;" shape#"rect")  object data in request body and returns an object which contains list of links to attachment pages or ZIP archive with actual pages as HTML when "application/zip" accept header specified.
 
 ## Resource ##
 
@@ -1022,7 +1022,7 @@ The API is completely independent of your operating system, database system or d
 
 # Create Email Attachment Pages Cache for Image Representation #
 
-You can create email attachment pages cache for Image representation using following API. It expects [ImageOptions]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/#HHtmlOptionsObject) object data in request body and returns an object which contains list of links to attachment pages or ZIP archive with actual pages as HTML when "application/zip" accept header specified.
+You can create email attachment pages cache for Image representation using following API. It expects [ImageOptions]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/#HHtmlOptionsObject) object data in request body and returns an object which contains list of links to attachment pages or ZIP archive with actual pages as HTML when "application/zip" accept header specified.
 
 ## Resource ##
 

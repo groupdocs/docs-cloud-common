@@ -16,12 +16,12 @@ Creating an account is very simple. Go to [https://dashboard.groupdocs.cloud](ht
 
 Before you can make any requests to GroupDocs Cloud API you need to get APP SID and APP key (secret key). This will be used to invoke the GroupDocs Cloud API.
 
-You can get it from the default Application or create a new Application. For further details see [Create New App and Get App Key and SID]({{< ref "translation\getting-started\create-new-app-and-get-app-key-and-sid.md" >}})
+You can get it from the default Application or create a new Application. For further details see [Create New App and Get App Key and SID]({{< ref "translation/getting-started/create-new-app-and-get-app-key-and-sid.md" >}})
 
 
 #### Get your JWT token ####
 
-After you have created a new application you can obtain a JWT token. See [JSON Web Token Authentication]({{< ref "translation\getting-started\json-web-token-authentication.md" >}}) for further details.
+After you have created a new application you can obtain a JWT token. See [JSON Web Token Authentication]({{< ref "translation/getting-started/json-web-token-authentication.md" >}}) for further details.
 
 
 #### Call Rest API ####

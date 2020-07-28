@@ -10,7 +10,7 @@ url: "metadata/get-supported-file-types"
 
 # Introduction #
 
-This REST API allows to get list of all [file formats supported ]({{< ref "metadata\developer-guide\info-operations\get-supported-file-types.md" >}})by GroupDocs.Metadata Cloud product.
+This REST API allows to get list of all [file formats supported ]({{< ref "metadata/developer-guide/info-operations/get-supported-file-types.md" >}})by GroupDocs.Metadata Cloud product.
 
 ## Resource URI ##
 
@@ -80,7 +80,7 @@ curl -v "https://api.groupdocs.cloud/v1.0/metadata/formats" \
 
 # SDKs #
 
-Using an SDK (API client) is the quickest way for a developer to speed up the development. An SDK takes care of a lot of low-level details of making requests and handling responses and lets you focus on writing code specific to your particular project. Check out our [GitHub repository](https://github.com/groupdocs-metadata-cloud) for a complete list of GroupDocs.Metadata Cloud SDKs along with working examples, to get you started in no time. Please check [Available SDKs]({{< ref "metadata\getting-started\available-sdks.md" >}}) article to learn how to add an SDK to your project.
+Using an SDK (API client) is the quickest way for a developer to speed up the development. An SDK takes care of a lot of low-level details of making requests and handling responses and lets you focus on writing code specific to your particular project. Check out our [GitHub repository](https://github.com/groupdocs-metadata-cloud) for a complete list of GroupDocs.Metadata Cloud SDKs along with working examples, to get you started in no time. Please check [Available SDKs]({{< ref "metadata/getting-started/available-sdks.md" >}}) article to learn how to add an SDK to your project.
 
 ## SDK Examples ##
 

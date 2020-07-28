@@ -32,7 +32,7 @@ There are steps that usage of GroupDocs.Viewer Cloud consists of:
 1. Render document or get document info
 1. Download rendered document from storage
 
-Steps 1 and 3 are storage operations, please refer to this [File API documentation]({{< ref "viewer\developer-guide\working-with-files.md" >}}) for usage details.
+Steps 1 and 3 are storage operations, please refer to this [File API documentation]({{< ref "viewer/developer-guide/working-with-files.md" >}}) for usage details.
 
 [Swagger UI](https://apireference.groupdocs.cloud/viewer/) lets you call this REST API directly from the browser. 
 

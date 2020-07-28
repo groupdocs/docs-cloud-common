@@ -51,7 +51,7 @@ url: "translation/overview"
 
 #### File formats ####
 
-See the full list of [Supported File Formats.]({{< ref "translation\getting-started\supported-document-formats.md" >}})
+See the full list of [Supported File Formats.]({{< ref "translation/getting-started/supported-document-formats.md" >}})
 
 ####   ####
 

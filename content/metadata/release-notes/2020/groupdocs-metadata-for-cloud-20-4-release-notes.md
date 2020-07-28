@@ -57,4 +57,4 @@ Contains endpoints for obtaining storage information and file information
 
 ## Public API Examples ##
 
-* [GroupDocs Metadata Cloud API examples and documentation]({{< ref "metadata\_index.md" >}}))
+* [GroupDocs Metadata Cloud API examples and documentation]({{< ref "metadata/_index.md" >}}))

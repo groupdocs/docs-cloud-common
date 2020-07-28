@@ -20,7 +20,7 @@ Note:  The features listed in this page are supported only in GroupDocs.Viewer 
 
 # Download Resource of Email Attachments Page for HTML Representation #
 
-You can download the resource of a specific email attachment page for HTML representation, [that is already created]({{< ref "viewer\developer-guide\_index.md" >}})attachments/attachment-pages/#HGetEmailAttachmentPagesListforHTMLRrepresentation). Following API helps to download HTML page resource (image, style, graphics or font), it returns actual data of HTML page resource.
+You can download the resource of a specific email attachment page for HTML representation, [that is already created]({{< ref "viewer/developer-guide/_index.md" >}})attachments/attachment-pages/#HGetEmailAttachmentPagesListforHTMLRrepresentation). Following API helps to download HTML page resource (image, style, graphics or font), it returns actual data of HTML page resource.
 
 ## Resource ##
 

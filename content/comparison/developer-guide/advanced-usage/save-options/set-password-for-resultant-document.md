@@ -26,7 +26,7 @@ There are steps that usage of GroupDocs.Comparison Cloud consists of:
 1. Compare documents or get document info
 1. Download comparison result document from storage
 
-Steps 1 and 3 are storage operations, please refer to this [File API documentation]({{< ref "comparison\developer-guide\working-with-file-api.md" >}}) for usage details.
+Steps 1 and 3 are storage operations, please refer to this [File API documentation]({{< ref "comparison/developer-guide/working-with-file-api.md" >}}) for usage details.
 
 [Swagger UI](https://apireference.groupdocs.cloud/comparison/) lets you call this REST API directly from the browser. 
 
@@ -86,7 +86,7 @@ curl -v "https://api.groupdocs.cloud/v2.0/comparison/comparisons" \
 
 ## SDKs ##
 
-Using an SDK (API client) is the quickest way for a developer to speed up the development. An SDK takes care of a lot of low-level details of making requests and handling responses and lets you focus on writing code specific to your particular project. Check out our [GitHub repository](https://github.com/groupdocs-comparison-cloud) for a complete list of GroupDocs.Comparison Cloud SDKs along with working examples, to get you started in no time. Please check [Available SDKs]({{< ref "comparison\getting-started\available-sdks.md" >}}) article to learn how to add an SDK to your project.
+Using an SDK (API client) is the quickest way for a developer to speed up the development. An SDK takes care of a lot of low-level details of making requests and handling responses and lets you focus on writing code specific to your particular project. Check out our [GitHub repository](https://github.com/groupdocs-comparison-cloud) for a complete list of GroupDocs.Comparison Cloud SDKs along with working examples, to get you started in no time. Please check [Available SDKs]({{< ref "comparison/getting-started/available-sdks.md" >}}) article to learn how to add an SDK to your project.
 
 ### SDK Examples ###
 

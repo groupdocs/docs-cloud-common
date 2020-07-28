@@ -12,7 +12,7 @@ url: "signature/working-with-signature-verification"
 
 # Verify Barcode Signature in a Document #
 
-GroupDocs.Signature Cloud REST API supports to verify a signed document. It provides methods to verify Barcode Signature in Documents Pages with different options for page number, text and search criteria by using [Verification Options Objects]({{< ref "signature\developer-guide\data-structures\verifysettings.md" >}})) data in request body.
+GroupDocs.Signature Cloud REST API supports to verify a signed document. It provides methods to verify Barcode Signature in Documents Pages with different options for page number, text and search criteria by using [Verification Options Objects]({{< ref "signature/developer-guide/data-structures/verifysettings.md" >}})) data in request body.
 
 ## Resource ##
 
@@ -146,7 +146,7 @@ The API is completely independent of your operating system, database system or d
 
 # Verify Digital Signature in a Document #
 
-GroupDocs.Signature Cloud REST API supports to verify a signed document. It provides methods to verify Digital Signature in Documents Pages with different options for page number, text and search criteria by using [Verification Options Objects]({{< ref "signature\developer-guide\data-structures\verifysettings.md" >}})) data in request body.
+GroupDocs.Signature Cloud REST API supports to verify a signed document. It provides methods to verify Digital Signature in Documents Pages with different options for page number, text and search criteria by using [Verification Options Objects]({{< ref "signature/developer-guide/data-structures/verifysettings.md" >}})) data in request body.
 
 ## Resource ##
 
@@ -277,7 +277,7 @@ The API is completely independent of your operating system, database system or d
 
 # Verify QRCode Signature in a Document #
 
-GroupDocs.Signature Cloud REST API supports to verify a signed document. It provides methods to verify QRCode Signature in Documents Pages with different options for page number, text and search criteria by using [Verification Options Objects]({{< ref "signature\developer-guide\data-structures\verifysettings.md" >}})) data in request body.
+GroupDocs.Signature Cloud REST API supports to verify a signed document. It provides methods to verify QRCode Signature in Documents Pages with different options for page number, text and search criteria by using [Verification Options Objects]({{< ref "signature/developer-guide/data-structures/verifysettings.md" >}})) data in request body.
 
 ## Resource ##
 
@@ -407,7 +407,7 @@ The API is completely independent of your operating system, database system or d
 
 # Verify Text Signature in a Document #
 
-GroupDocs.Signature Cloud REST API supports to verify a signed document. It provides methods to verify Text Signature in Documents Pages with different options for page number, text and search criteria by using [Verification Options Objects]({{< ref "signature\developer-guide\data-structures\verifysettings.md" >}})) data in request body.
+GroupDocs.Signature Cloud REST API supports to verify a signed document. It provides methods to verify Text Signature in Documents Pages with different options for page number, text and search criteria by using [Verification Options Objects]({{< ref "signature/developer-guide/data-structures/verifysettings.md" >}})) data in request body.
 
 ## Resource ##
 
@@ -538,7 +538,7 @@ The API is completely independent of your operating system, database system or d
 
 # Verify Multiple Signatures to Document #
 
-GroupDocs.Signature Cloud REST API supports to verify multiple signatures in a document. For example, you can verify whether a document contains Text and Barcode Signatures at same time. To verify list of signatures on document (Cells, Images, PDF, Slides or Words) Signature API provides an object **[VerifyOptionsCollectionData]({{< ref "signature\developer-guide\data-structures\verifysettings.md" >}}))** that can contain one or more verify options. Please, use verify options which appropriate for current document format.
+GroupDocs.Signature Cloud REST API supports to verify multiple signatures in a document. For example, you can verify whether a document contains Text and Barcode Signatures at same time. To verify list of signatures on document (Cells, Images, PDF, Slides or Words) Signature API provides an object **[VerifyOptionsCollectionData]({{< ref "signature/developer-guide/data-structures/verifysettings.md" >}}))** that can contain one or more verify options. Please, use verify options which appropriate for current document format.
 
 ## Resource ##
 

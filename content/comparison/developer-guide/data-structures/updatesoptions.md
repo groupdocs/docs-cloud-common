@@ -127,9 +127,9 @@ UpdatesOptions example:
 
 |Name|Description
 |---|---
-|SourceFile|[Information ]({{< ref "comparison\developer-guide\data-structures\fileinfo.md" >}})about source file
-|TargetFiles|An array of [Information ]({{< ref "comparison\developer-guide\data-structures\fileinfo.md" >}})about target file(s)
-|Settings|Comparison [settings]({{< ref "comparison\developer-guide\data-structures\settings.md" >}})
+|SourceFile|[Information ]({{< ref "comparison/developer-guide/data-structures/fileinfo.md" >}})about source file
+|TargetFiles|An array of [Information ]({{< ref "comparison/developer-guide/data-structures/fileinfo.md" >}})about target file(s)
+|Settings|Comparison [settings]({{< ref "comparison/developer-guide/data-structures/settings.md" >}})
 |ChangeType|Changes type. Used only for Changes resource(/comparison/changes) (None, Modified, Inserted, Deleted, Added, NotModified, StyleChanged, Resized, Moved, MovedAndResized, ShiftedAndResized)
 |OutputPath|Path to the resultant document (if not specified the document will not be saved)
 |Changes|Changes to apply or reject. Used only for updates resource (/comparison/updates)

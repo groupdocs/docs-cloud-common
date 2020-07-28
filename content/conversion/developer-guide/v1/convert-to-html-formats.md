@@ -21,11 +21,11 @@ Note:  The features listed in this page are supported only in GroupDocs.Convers
 
 # Introduction #
 
-GroupDocs.Conversion Cloud REST API allows to convert the [supported document formats]({{< ref "conversion\developer-guide\v1\supported-file-formats.md" >}}) to **HTML Formats** and returns the output document **storage URL** and also support to get result as a **stream**.
+GroupDocs.Conversion Cloud REST API allows to convert the [supported document formats]({{< ref "conversion/developer-guide/v1/supported-file-formats.md" >}}) to **HTML Formats** and returns the output document **storage URL** and also support to get result as a **stream**.
 
 # Convert to HTML Formats with Storage URL Output #
 
-You can convert the [supported document formats]({{< ref "conversion\developer-guide\v1\supported-file-formats.md" >}}) to **HTML Formats** and get the Storage URL Output.
+You can convert the [supported document formats]({{< ref "conversion/developer-guide/v1/supported-file-formats.md" >}}) to **HTML Formats** and get the Storage URL Output.
 
 ## Resource ##
 
@@ -105,7 +105,7 @@ The API is completely independent of your operating system, database system or d
 
 # Convert to HTML with Stream Output #
 
-You can convert the [supported document formats]({{< ref "conversion\developer-guide\v1\supported-file-formats.md" >}}) to **HTML** and get the output document as Stream.
+You can convert the [supported document formats]({{< ref "conversion/developer-guide/v1/supported-file-formats.md" >}}) to **HTML** and get the output document as Stream.
 
 ## Resource ##
 

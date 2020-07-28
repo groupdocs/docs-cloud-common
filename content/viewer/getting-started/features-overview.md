@@ -25,12 +25,12 @@ The difference between the V2 version from V1 is a more simplified API with fewe
 
 ## File formats ##
 
-See the full list of [Supported File Formats]({{< ref "viewer\getting-started\supported-document-formats.md" >}})).
+See the full list of [Supported File Formats]({{< ref "viewer/getting-started/supported-document-formats.md" >}})).
 |---|---
 
 ## Security and Authentication ##
 
-The GroupDocs.Viewer Cloud API is secured and requires authentication. Two keys AppSID and AppKey are required for Authentication which can be created at the [Dashboard](http://dashboard.groupdocs.cloud/). Check [Authenticating API Requests]({{< ref "total\getting-started\overview-rest-api\authenticating-api-requests.md" >}})) article for a complete example. 
+The GroupDocs.Viewer Cloud API is secured and requires authentication. Two keys AppSID and AppKey are required for Authentication which can be created at the [Dashboard](http://dashboard.groupdocs.cloud/). Check [Authenticating API Requests]({{< ref "total/getting-started/overview-rest-api/authenticating-api-requests.md" >}})) article for a complete example. 
 |---|---|---|---
 
 ## SDKs ##

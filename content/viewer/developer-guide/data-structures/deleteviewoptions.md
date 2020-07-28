@@ -7,7 +7,7 @@ url: "viewer/deleteviewoptions"
 
 # DeleteViewOptions #
 
-DeleteViewOptions data structure used as input parameters for [Delete View]({{< ref "viewer\developer-guide\_index.md" >}})working-with-viewer-api/) API 
+DeleteViewOptions data structure used as input parameters for [Delete View]({{< ref "viewer/developer-guide/_index.md" >}})working-with-viewer-api/) API 
 |---|---
 
 ##### DeleteViewOptions example #####

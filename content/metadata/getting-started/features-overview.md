@@ -21,7 +21,7 @@ Below you may find an overview for the most valuable features.
 
 Using the GroupDocs.Metadata Cloud you can extract desired metadata properties from files of different types. You don't need to worry about the exact file format and metadata standards it can deal with. The same API works for all supported formats in the same way.
 
-Most commonly used metadata properties are marked with tags that allow searching them across all supported files in various metadata packages. To obtain all possible metadata tags, please use tags endpoint (read more at [Get metadata tags information]({{< ref "metadata\developer-guide\info-operations\get-metadata-tags-information.md" >}}) article).
+Most commonly used metadata properties are marked with tags that allow searching them across all supported files in various metadata packages. To obtain all possible metadata tags, please use tags endpoint (read more at [Get metadata tags information]({{< ref "metadata/developer-guide/info-operations/get-metadata-tags-information.md" >}}) article).
 
 ## Adding Metadata ##
 

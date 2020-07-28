@@ -16,7 +16,7 @@ This API allows you to move a file from one location to other location within sa
 
 ## API Explorer ##
 
-[GroupDocs.Storage Cloud API Reference](https://apireference.groupdocs.cloud/storage/) lets you to try out [Move a File API](https://apireference.groupdocs.cloud/storage/#!/File/PostMoveFile) right away in your browser! It allows you to effortlessly interact and try out every single operation our APIs exposes. Please check [this article]({{< ref "total\getting-started\ui-topics\create-new-app-and-get-app-key-and-sid.md" >}}) to learn how to get your App Key and SID. 
+[GroupDocs.Storage Cloud API Reference](https://apireference.groupdocs.cloud/storage/) lets you to try out [Move a File API](https://apireference.groupdocs.cloud/storage/#!/File/PostMoveFile) right away in your browser! It allows you to effortlessly interact and try out every single operation our APIs exposes. Please check [this article]({{< ref "total/getting-started/ui-topics/create-new-app-and-get-app-key-and-sid.md" >}}) to learn how to get your App Key and SID. 
 
 ## cURL Example ##
 

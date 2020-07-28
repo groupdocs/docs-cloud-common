@@ -32,6 +32,6 @@ This is the first release of a completely new version of the GroupDocs.Watermark
 
 ## Public API Examples ##
 
-* [GroupDocs Watermark Cloud API examples and documentation]({{< ref "watermark\_index.md" >}}))
+* [GroupDocs Watermark Cloud API examples and documentation]({{< ref "watermark/_index.md" >}}))
 
  

@@ -58,5 +58,5 @@ GroupDocs.Editor Cloud API provides an ability to extract basic information abou
 
 ## Public API Examples ##
 
-* [GroupDocs Editor Cloud API examples and documentation]({{< ref "editor\_index.md" >}}))
+* [GroupDocs Editor Cloud API examples and documentation]({{< ref "editor/_index.md" >}}))
 |---|---

@@ -16,7 +16,7 @@ For details on how to create a new account please check [Create a new Account](
 
 # Apply App SID and App Key #
 
-For details on how to get App Key and App SID please check [doc:gdtotalcloud.getting-started.ui-topics.create-new-app-and-get-app-key-and-sid.WebHome).
+For details on how to get App Key and App SID please check [create-new-app-and-get-app-key-and-sid]({{< ref "total/getting-started/ui-topics/create-new-app-and-get-app-key-and-sid.md" >}}).
 
 # Free Plan #
 

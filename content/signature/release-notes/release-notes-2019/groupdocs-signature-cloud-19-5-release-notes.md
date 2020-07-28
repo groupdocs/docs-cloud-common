@@ -33,7 +33,7 @@ The difference between the V2 version from V1 is a more simplified API with fewe
 
 ## Public API Examples ##
 
-* [GroupDocs Signature Cloud v2.0 API Examples and documentation]({{< ref "signature\_index.md" >}}))
+* [GroupDocs Signature Cloud v2.0 API Examples and documentation]({{< ref "signature/_index.md" >}}))
 |---|---
 
  

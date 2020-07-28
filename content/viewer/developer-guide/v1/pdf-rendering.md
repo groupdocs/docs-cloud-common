@@ -446,7 +446,7 @@ The API is completely independent of your operating system, database system or d
 
 You can watermark and download a document as PDF with GroupDocs.Viewer Cloud API. It creates new PDF document, removes PDF document if it was created before.
 
-The API expects [PdfFileOptions]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/#HPdfFileOptionsObject)object data in request body. It returns object which contains information about newly created PDF document along with '201 Created' status.
+The API expects [PdfFileOptions]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/#HPdfFileOptionsObject)object data in request body. It returns object which contains information about newly created PDF document along with '201 Created' status.
 
 ## Resource ##
 
@@ -563,7 +563,7 @@ The API is completely independent of your operating system, database system or d
 
 You can watermark and download a document as PDF with GroupDocs.Viewer Cloud API. It creates new PDF document, removes PDF document if it was created before.
 
-The API expects [PdfFileOptions]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/#HPdfFileOptionsObject))object data in request body. It returns object which contains information about newly created PDF document along with '201 Created' status.
+The API expects [PdfFileOptions]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/#HPdfFileOptionsObject))object data in request body. It returns object which contains information about newly created PDF document along with '201 Created' status.
 
 ## Resource ##
 

@@ -20,11 +20,11 @@ Note:  The features listed on this page are supported only in GroupDocs.Signatu
 
 # Introduction #
 
-GroupDocs.Signature Cloud REST API supports to verify a signed document. It provides methods to verify Barcode Signature in Documents Pages with different options for page number, text and search criteria by using [doc:signaturecloud.developer-guide.common-resources.verification-options-objects.WebHome) data in request body.
+GroupDocs.Signature Cloud REST API supports to verify a signed document. It provides methods to verify Barcode Signature in Documents Pages with different options for page number, text and search criteria by using [verification-options-objects]({{< ref "signature/developer-guide/common-resources/verification-options-objects.md" >}}) data in request body.
 
 # Verify Barcode Signature in a Document #
 
-You can Verify Barcode Signature in a Document using this API. It expects [Verification Options Object]({{< ref "signature\developer-guide\common-resources\verification-options-objects.md" >}}) data in request body. It returns object which contains result of verification process. The field Result keeps flag if verification processed successfully.
+You can Verify Barcode Signature in a Document using this API. It expects [Verification Options Object]({{< ref "signature/developer-guide/common-resources/verification-options-objects.md" >}}) data in request body. It returns object which contains result of verification process. The field Result keeps flag if verification processed successfully.
 
 ## Resource ##
 
@@ -146,7 +146,7 @@ The API is completely independent of your operating system, database system or d
 
 # Verify Barcode Signature in a Document at Provided URL #
 
-GroupDocs.Signature Cloud REST API supports to verify Barcode Signature for document at provided URL with [doc:signaturecloud.developer-guide.common-resources.verification-options-objects.WebHome). The API retrieves file from specified URL and tries to detect file type when fileName parameter is not specified. It expects [doc:signaturecloud.developer-guide.common-resources.verification-options-objects.WebHome)  data in request body. Based on passed Verification Options settings proceeds with Document verification and returns object which contains result of verification process. The field Result keeps flag if verification processed successfully.
+GroupDocs.Signature Cloud REST API supports to verify Barcode Signature for document at provided URL with [verification-options-objects]({{< ref "signature/developer-guide/common-resources/verification-options-objects.md" >}}). The API retrieves file from specified URL and tries to detect file type when fileName parameter is not specified. It expects [verification-options-objects]({{< ref "signature/developer-guide/common-resources/verification-options-objects.md" >}})  data in request body. Based on passed Verification Options settings proceeds with Document verification and returns object which contains result of verification process. The field Result keeps flag if verification processed successfully.
 
 ## Resource ##
 

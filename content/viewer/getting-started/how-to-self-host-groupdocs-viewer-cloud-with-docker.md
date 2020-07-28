@@ -161,4 +161,4 @@ GroupDocs.Viewer Cloud can be started in trial and licensed modes. When GroupDoc
 * You can convert only two first pages of the document
 * Evaluation watermarks added to the output
 
-You can find more information about evaluation at [Evaluate GroupDocs.Viewer]({{< ref "viewer\getting-started\evaluate-groupdocs-viewer.md" >}})).
+You can find more information about evaluation at [Evaluate GroupDocs.Viewer]({{< ref "viewer/getting-started/evaluate-groupdocs-viewer.md" >}})).

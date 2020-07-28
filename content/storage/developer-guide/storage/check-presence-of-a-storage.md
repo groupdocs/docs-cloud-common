@@ -16,7 +16,7 @@ This API allows you to check if a storage exists in the specified Cloud App.
 
 ## API Explorer ##
 
-[GroupDocs.Storage Cloud API Reference](https://apireference.groupdocs.cloud/storage/) lets you to try out [Storage presence API](https://apireference.groupdocs.cloud/storage/#!/Storage/GetIsStorageExist) right away in your browser! It allows you to effortlessly interact and try out every single operation our APIs exposes. Please check [this article]({{< ref "total\getting-started\ui-topics\create-new-app-and-get-app-key-and-sid.md" >}}) to learn how to get your App Key and SID. 
+[GroupDocs.Storage Cloud API Reference](https://apireference.groupdocs.cloud/storage/) lets you to try out [Storage presence API](https://apireference.groupdocs.cloud/storage/#!/Storage/GetIsStorageExist) right away in your browser! It allows you to effortlessly interact and try out every single operation our APIs exposes. Please check [this article]({{< ref "total/getting-started/ui-topics/create-new-app-and-get-app-key-and-sid.md" >}}) to learn how to get your App Key and SID. 
 
 ## cURL Example ##
 

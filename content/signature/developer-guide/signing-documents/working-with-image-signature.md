@@ -20,11 +20,11 @@ Note:  The features listed on this page are supported only in GroupDocs.Signatu
 
 # Introduction #
 
-GroupDocs.Signature Cloud REST API supports to sign a document with Image. It provides methods to create Image Signature in Document Pages with different options of Image name, location, alignment, font, margins and appearances by using [doc:signaturecloud.developer-guide.common-resources.signature-options-objects.WebHome) object data in request body.
+GroupDocs.Signature Cloud REST API supports to sign a document with Image. It provides methods to create Image Signature in Document Pages with different options of Image name, location, alignment, font, margins and appearances by using [signature-options-objects]({{< ref "signature/developer-guide/common-resources/signature-options-objects.md" >}}) object data in request body.
 
 # Add Image Signature to Document #
 
-You can create image Signature on Document provided by fileName and document folder (if required) using following API. It expects [doc:signaturecloud.developer-guide.common-resources.signature-options-objects.WebHome) data in request body.
+You can create image Signature on Document provided by fileName and document folder (if required) using following API. It expects [signature-options-objects]({{< ref "signature/developer-guide/common-resources/signature-options-objects.md" >}}) data in request body.
 
 It returns an object which contains document name, location and command result.
 
@@ -148,7 +148,7 @@ The API is completely independent of your operating system, database system or d
 
 # Add Image Signature to Document at Provided URL #
 
-You can creates Image Signature for document at provided URL with [doc:signaturecloud.developer-guide.common-resources.signature-options-objects.WebHome). It retrieves file from specified URL and tries to detect file type when fileName parameter is not specified. It saves retrieved file in storage, by using fileName and folder parameters to specify desired file name and folder to save file. When file with specified name already exists in storage new unique file name will be used for file. It expects [Signature Options Object]({{< ref "signature\developer-guide\common-resources\signature-options-objects.md" >}}) object data in request body and returns object which contains document name,folder location and command status.
+You can creates Image Signature for document at provided URL with [signature-options-objects]({{< ref "signature/developer-guide/common-resources/signature-options-objects.md" >}}). It retrieves file from specified URL and tries to detect file type when fileName parameter is not specified. It saves retrieved file in storage, by using fileName and folder parameters to specify desired file name and folder to save file. When file with specified name already exists in storage new unique file name will be used for file. It expects [Signature Options Object]({{< ref "signature/developer-guide/common-resources/signature-options-objects.md" >}}) object data in request body and returns object which contains document name,folder location and command status.
 
 ## Resource ##
 

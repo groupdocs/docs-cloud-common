@@ -12,7 +12,7 @@ url: "comparison/get-document-changes"
 
 # Get Document (Changes) #
 
-You can compare documents and update the changes (Accept/Reject)  by providing the [JsonRequest Object]({{< ref "comparison\developer-guide\v1\common-resources\jsonrequest-fields-description.md" >}}) data in request body.
+You can compare documents and update the changes (Accept/Reject)  by providing the [JsonRequest Object]({{< ref "comparison/developer-guide/v1/common-resources/jsonrequest-fields-description.md" >}}) data in request body.
 
 ## Resource ##
 

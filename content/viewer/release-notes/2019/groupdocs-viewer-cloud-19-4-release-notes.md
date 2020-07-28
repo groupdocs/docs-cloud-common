@@ -27,7 +27,7 @@ This page contains release notes for GroupDocs.Viewer Cloud 19.4
 
 ## Public API and Backward Incompatible Changes ##
 
-OutputPath option added to [ViewOptions]({{< ref "viewer\developer-guide\data-structures\viewoptions.md" >}}))
+OutputPath option added to [ViewOptions]({{< ref "viewer/developer-guide/data-structures/viewoptions.md" >}}))
 |---|---
 
 

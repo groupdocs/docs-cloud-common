@@ -21,7 +21,7 @@ This API intended for creating signatures in the document based on passed array 
 
 #### Example 5 (Create signature) ####
 
-Takes [SignSettings ]({{< ref "signature\developer-guide\data-structures\signsettings.md" >}}))as input and returns [SignResult]({{< ref "signature\developer-guide\data-structures\signresult.md" >}})).
+Takes [SignSettings ]({{< ref "signature/developer-guide/data-structures/signsettings.md" >}}))as input and returns [SignResult]({{< ref "signature/developer-guide/data-structures/signresult.md" >}})).
 
 ###### Example URL ######
 
@@ -101,7 +101,7 @@ This API intended for verifying signatures in the document based on passed array
 
 #### Example 6 (Verify signatures in document) ####
 
-Takes [VerifySettings ]({{< ref "signature\developer-guide\data-structures\verifysettings.md" >}}))as input and returns [VerifyResult]({{< ref "signature\developer-guide\data-structures\verifyresult.md" >}})).
+Takes [VerifySettings ]({{< ref "signature/developer-guide/data-structures/verifysettings.md" >}}))as input and returns [VerifyResult]({{< ref "signature/developer-guide/data-structures/verifyresult.md" >}})).
 
 ###### Example URL ######
 
@@ -171,7 +171,7 @@ This API intended for search for signatures in the document. Response will conta
 
 #### Example 7 (Search for signatures in document) ####
 
-Takes [SearchSettings ]({{< ref "signature\developer-guide\data-structures\searchsettings.md" >}}))as input and returns [SearchResult]({{< ref "signature\developer-guide\data-structures\searchresult.md" >}})).
+Takes [SearchSettings ]({{< ref "signature/developer-guide/data-structures/searchsettings.md" >}}))as input and returns [SearchResult]({{< ref "signature/developer-guide/data-structures/searchresult.md" >}})).
 
 ###### Example URL ######
 

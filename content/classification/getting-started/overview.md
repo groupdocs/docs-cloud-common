@@ -28,7 +28,7 @@ Our GroupDocs.Classification Cloud REST API comes with many features crucial to 
 
 ## Security and Authentication ##
 
-The GroupDocs.Classification Cloud API is secured and requires authentication. Developers can [create ]({{< ref "total\getting-started\ui-topics\create-new-app-and-get-app-key-and-sid.md" >}}))an app access key ID (appSID) and app secret access key when they [register]({{< ref "total\getting-started\ui-topics\creating-and-managing-account.md" >}})). Authenticated requests require a signature and AppSID query parameters or OAuth 2.0 athrorization header. You can see complete detail [here]({{< ref "total\getting-started\overview-rest-api\authenticating-api-requests.md" >}})).
+The GroupDocs.Classification Cloud API is secured and requires authentication. Developers can [create ]({{< ref "total/getting-started/ui-topics/create-new-app-and-get-app-key-and-sid.md" >}}))an app access key ID (appSID) and app secret access key when they [register]({{< ref "total/getting-started/ui-topics/creating-and-managing-account.md" >}})). Authenticated requests require a signature and AppSID query parameters or OAuth 2.0 athrorization header. You can see complete detail [here]({{< ref "total/getting-started/overview-rest-api/authenticating-api-requests.md" >}})).
 
 ## SDKs ##
 

@@ -20,11 +20,11 @@ Note:  The features listed on this page are supported only in GroupDocs.Signatu
 
 # Introduction #
 
-GroupDocs.Signature Cloud REST API supports to search multiple signatures in a document. For example, you can search whether a document contains Text and Barcode Signatures at same time. To search list of signatures on document (Cells, Images, PDF, Slides or Words) Signature API provides an object **[SearchOptionsCollectionData]({{< ref "signature\developer-guide\common-resources\search-options-objects.md" >}})** that can contain one or more search options. Please, use search options which appropriate for current document format.
+GroupDocs.Signature Cloud REST API supports to search multiple signatures in a document. For example, you can search whether a document contains Text and Barcode Signatures at same time. To search list of signatures on document (Cells, Images, PDF, Slides or Words) Signature API provides an object **[SearchOptionsCollectionData]({{< ref "signature/developer-guide/common-resources/search-options-objects.md" >}})** that can contain one or more search options. Please, use search options which appropriate for current document format.
 
 # Search Multiple Signatures on Document #
 
-You can search multiple Signatures on Document at same time provided by fileName and document folder (if required) using following API. It expects [SearchOptionsCollectionData]({{< ref "signature\developer-guide\common-resources\search-options-objects.md" >}}) object data in request body. You can add required search options to this object as per your document format.
+You can search multiple Signatures on Document at same time provided by fileName and document folder (if required) using following API. It expects [SearchOptionsCollectionData]({{< ref "signature/developer-guide/common-resources/search-options-objects.md" >}}) object data in request body. You can add required search options to this object as per your document format.
 
 It returns an object which contains document name, folder location and search result.
 
@@ -161,7 +161,7 @@ The API is completely independent of your operating system, database system or d
 
 # Search Multiple Signatures on Document at Provided URL #
 
-You can search multiple Signatures on Document at same time from specified  file URL and document folder (if required) using following API. It expects [SearchOptionsCollectionData]({{< ref "signature\developer-guide\common-resources\search-options-objects.md" >}}) object data in request body. You can add required search options to this object as per your document format.
+You can search multiple Signatures on Document at same time from specified  file URL and document folder (if required) using following API. It expects [SearchOptionsCollectionData]({{< ref "signature/developer-guide/common-resources/search-options-objects.md" >}}) object data in request body. You can add required search options to this object as per your document format.
 
 It returns an object which contains document name, folder location and search result.
 

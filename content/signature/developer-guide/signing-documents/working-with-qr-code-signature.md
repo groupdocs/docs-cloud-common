@@ -20,11 +20,11 @@ Note:  The features listed on this page are supported only in GroupDocs.Signatu
 
 # Introduction #
 
-GroupDocs.Signature Cloud REST API supports to sign a document with QRCode. It provides methods to create QRCode Signature in Document Pages with different options of QRCode type, location, alignment, font, margins and appearances by using [Signature Options Object]({{< ref "signature\developer-guide\common-resources\signature-options-objects.md" >}}) data in request body.
+GroupDocs.Signature Cloud REST API supports to sign a document with QRCode. It provides methods to create QRCode Signature in Document Pages with different options of QRCode type, location, alignment, font, margins and appearances by using [Signature Options Object]({{< ref "signature/developer-guide/common-resources/signature-options-objects.md" >}}) data in request body.
 
 # Add QRCode Signature to Document #
 
-You can create QRCode Signature on Document provided by fileName and document folder (if required) using following API. It expects [Signature Options Object]({{< ref "signature\developer-guide\common-resources\signature-options-objects.md" >}}) data in request body.
+You can create QRCode Signature on Document provided by fileName and document folder (if required) using following API. It expects [Signature Options Object]({{< ref "signature/developer-guide/common-resources/signature-options-objects.md" >}}) data in request body.
 
 It returns an object which contains document name, folder location and command status.
 
@@ -146,7 +146,7 @@ The API is completely independent of your operating system, database system or d
 
 # Add QRCode Signature to Document at Provided URL #
 
-You can creates QRCode Signature for document at provided URL with [doc:signaturecloud.developer-guide.common-resources.signature-options-objects.WebHome). It retrieves file from specified URL and tries to detect file type when fileName parameter is not specified. It saves retrieved file in storage, by using fileName and folder parameters to specify desired file name and folder to save file. When file with specified name already exists in storage new unique file name will be used for file. It expects [Signature Options Object]({{< ref "signature\developer-guide\common-resources\signature-options-objects.md" >}}) data in request body and returns object which contains document name and folder location.
+You can creates QRCode Signature for document at provided URL with [signature-options-objects]({{< ref "signature/developer-guide/common-resources/signature-options-objects.md" >}}). It retrieves file from specified URL and tries to detect file type when fileName parameter is not specified. It saves retrieved file in storage, by using fileName and folder parameters to specify desired file name and folder to save file. When file with specified name already exists in storage new unique file name will be used for file. It expects [Signature Options Object]({{< ref "signature/developer-guide/common-resources/signature-options-objects.md" >}}) data in request body and returns object which contains document name and folder location.
 
 ## Resource ##
 
@@ -267,7 +267,7 @@ The API is completely independent of your operating system, database system or d
 
 ## Setup QR-Code Logo image (Signature QR-Code Options) ##
 
-You can creates QRCode Signature for document at provided [doc:signaturecloud.developer-guide.common-resources.signature-options-objects.WebHome). Signature QR-Code Options have been updated in (Release 18.7) with newly added property** LogoGuid **which support QR-Code background image located at the center of QR-Code. To put QRCode Signature to Image Document (png, jpeg, gif, tiff and another file formats) Signature provides new options **[ImagesSignQRCodeOptionsData](https://docs.dynabic.com/display/signaturecloud/Signature+Options+Objects#SignatureOptionsObjects-ImagesSignQRCodeOptionsDataObject)** that specify text, signature area, alignment, appearance, colors and another render features. 
+You can creates QRCode Signature for document at provided [signature-options-objects]({{< ref "signature/developer-guide/common-resources/signature-options-objects.md" >}}). Signature QR-Code Options have been updated in (Release 18.7) with newly added property** LogoGuid **which support QR-Code background image located at the center of QR-Code. To put QRCode Signature to Image Document (png, jpeg, gif, tiff and another file formats) Signature provides new options **[ImagesSignQRCodeOptionsData](https://docs.dynabic.com/display/signaturecloud/Signature+Options+Objects#SignatureOptionsObjects-ImagesSignQRCodeOptionsDataObject)** that specify text, signature area, alignment, appearance, colors and another render features. 
 
 ## Resource ##
 
@@ -383,7 +383,7 @@ The API is completely independent of your operating system, database system or d
 
 # Add QRCode Signature to Document at Provided URL #
 
-You can creates QRCode Signature for document at provided URL with [doc:signaturecloud.developer-guide.common-resources.signature-options-objects.WebHome). It retrieves file from specified URL and tries to detect file type when fileName parameter is not specified. It saves retrieved file in storage, by using fileName and folder parameters to specify desired file name and folder to save file. When file with specified name already exists in storage new unique file name will be used for file. It expects [Signature Options Object]({{< ref "signature\developer-guide\common-resources\signature-options-objects.md" >}}) data in request body and returns object which contains document name and folder location.
+You can creates QRCode Signature for document at provided URL with [signature-options-objects]({{< ref "signature/developer-guide/common-resources/signature-options-objects.md" >}}). It retrieves file from specified URL and tries to detect file type when fileName parameter is not specified. It saves retrieved file in storage, by using fileName and folder parameters to specify desired file name and folder to save file. When file with specified name already exists in storage new unique file name will be used for file. It expects [Signature Options Object]({{< ref "signature/developer-guide/common-resources/signature-options-objects.md" >}}) data in request body and returns object which contains document name and folder location.
 
 ## Resource ##
 

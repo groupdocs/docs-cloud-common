@@ -16,7 +16,7 @@ This API allows you to upload files to the [GroupDocs Cloud Storage](https:/
 
 ## API Explorer ##
 
-[GroupDocs.Storage Cloud API Reference](https://apireference.groupdocs.cloud/storage/) lets you try out [Upload a File API](https://apireference.groupdocs.cloud/storage/#!/File/PutCreate) right away in your browser! It allows you to effortlessly interact and try out every single operation our APIs exposes. Please check [this article]({{< ref "total\getting-started\ui-topics\create-new-app-and-get-app-key-and-sid.md" >}}) to learn how to get your App Key and SID. 
+[GroupDocs.Storage Cloud API Reference](https://apireference.groupdocs.cloud/storage/) lets you try out [Upload a File API](https://apireference.groupdocs.cloud/storage/#!/File/PutCreate) right away in your browser! It allows you to effortlessly interact and try out every single operation our APIs exposes. Please check [this article]({{< ref "total/getting-started/ui-topics/create-new-app-and-get-app-key-and-sid.md" >}}) to learn how to get your App Key and SID. 
 
 ## cURL Example ##
 
@@ -108,11 +108,11 @@ Our API is completely independent of your operating system, database system or d
 
 This API allows you to upload files to the third party storage.
 
-**Note:** You need to configure Third Party Storage with Aspose for Cloud before using this example. Please follow the instructions at [this page]({{< ref "total\getting-started\ui-topics\configure-3rd-party\_index.md" >}}) to configure your required storage.
+**Note:** You need to configure Third Party Storage with Aspose for Cloud before using this example. Please follow the instructions at [this page]({{< ref "total/getting-started/ui-topics/configure-3rd-party/_index.md" >}}) to configure your required storage.
 
 ## API Explorer ##
 
-[GroupDocs.Storage Cloud API Reference](https://apireference.groupdocs.cloud/storage/) lets you try out [Upload a File API](https://apireference.groupdocs.cloud/storage/#!/File/PutCreate) right away in your browser! It allows you to effortlessly interact and try out every single operation our APIs exposes. Please check [this article]({{< ref "total\getting-started\ui-topics\create-new-app-and-get-app-key-and-sid.md" >}}) to learn how to get your App Key and SID. 
+[GroupDocs.Storage Cloud API Reference](https://apireference.groupdocs.cloud/storage/) lets you try out [Upload a File API](https://apireference.groupdocs.cloud/storage/#!/File/PutCreate) right away in your browser! It allows you to effortlessly interact and try out every single operation our APIs exposes. Please check [this article]({{< ref "total/getting-started/ui-topics/create-new-app-and-get-app-key-and-sid.md" >}}) to learn how to get your App Key and SID. 
 
 ## cURL Example ##
 

@@ -20,7 +20,7 @@ Note:  The features listed in this page are working only with GroupDocs.Compari
 
 # Get Streams of Images of Result Document #
 
-You can compare documents, saves the result document to streams as a set of images and returns the array of streams of images by providing the [JsonRequest Object]({{< ref "comparison\developer-guide\v1\common-resources\jsonrequest-fields-description.md" >}}) data in the request body.
+You can compare documents, saves the result document to streams as a set of images and returns the array of streams of images by providing the [JsonRequest Object]({{< ref "comparison/developer-guide/v1/common-resources/jsonrequest-fields-description.md" >}}) data in the request body.
 
 ## Resource ##
 

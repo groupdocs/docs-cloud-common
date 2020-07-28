@@ -23,7 +23,7 @@ Description
 |
 **userRequest**
 |
-String that represents list of JSONs precised in [JSON Request Details]({{< ref "translation\developer-guide\json-request-details.md" >}})). 
+String that represents list of JSONs precised in [JSON Request Details]({{< ref "translation/developer-guide/json-request-details.md" >}})). 
 
 Required.
 

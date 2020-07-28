@@ -12,7 +12,7 @@ url: "comparison/get-stream-of-images-of-result-document-changes"
 
 # Get Stream of Images of Result Document (Changes) #
 
-You can compare documents and get the stream of images of the result document by providing the [JsonRequest Object]({{< ref "comparison\developer-guide\v1\common-resources\jsonrequest-fields-description.md" >}}) data in request body.
+You can compare documents and get the stream of images of the result document by providing the [JsonRequest Object]({{< ref "comparison/developer-guide/v1/common-resources/jsonrequest-fields-description.md" >}}) data in request body.
 
 ## Resource ##
 

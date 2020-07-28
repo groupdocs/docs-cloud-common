@@ -94,7 +94,7 @@ This may be quite useful for generating document previews.
 
 # Security and Authentication #
 
-The GroupDocs.Merger Cloud API is secured and requires authentication. Two keys AppSID and AppKey are required for Authentication which can be created at the [Dashboard](http://dashboard.groupdocs.cloud/). Check [Authenticating API Requests]({{< ref "merger\getting-started\json-web-token-authentication.md" >}})) article for the complete example. 
+The GroupDocs.Merger Cloud API is secured and requires authentication. Two keys AppSID and AppKey are required for Authentication which can be created at the [Dashboard](http://dashboard.groupdocs.cloud/). Check [Authenticating API Requests]({{< ref "merger/getting-started/json-web-token-authentication.md" >}})) article for the complete example. 
 |---|---|---|---
 
 # SDKs #

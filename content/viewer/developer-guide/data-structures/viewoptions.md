@@ -7,7 +7,7 @@ url: "viewer/viewoptions"
 
 # ViewOptions #
 
-ViewOptions data structure used as input parameters for [Document Info]({{< ref "viewer\developer-guide\_index.md" >}})working-with-viewer-api/) API and [Document View]({{< ref "viewer\developer-guide\_index.md" >}})working-with-viewer-api/) API. 
+ViewOptions data structure used as input parameters for [Document Info]({{< ref "viewer/developer-guide/_index.md" >}})working-with-viewer-api/) API and [Document View]({{< ref "viewer/developer-guide/_index.md" >}})working-with-viewer-api/) API. 
 |---|---|---|---
 
 {{< alert style="info" >}}
@@ -67,11 +67,11 @@ Supported positions "Diagonal", "TopLeft", "TopCenter", "TopRight", "BottomLeft"
 Default value is "Diagonal".| 
 |Watermark.Size|Watermark size in percents.
 Default value is 100. | 
-|RenderOptions| [RenderOptions ]({{< ref "viewer\developer-guide\data-structures\renderoptions.md" >}}))in case of ViewFormat # PDF,
+|RenderOptions| [RenderOptions ]({{< ref "viewer/developer-guide/data-structures/renderoptions.md" >}}))in case of ViewFormat # PDF,
 
- [HtmlOptions ]({{< ref "viewer\developer-guide\data-structures\htmloptions.md" >}}))in case of ViewFormat # HTML,
+ [HtmlOptions ]({{< ref "viewer/developer-guide/data-structures/htmloptions.md" >}}))in case of ViewFormat # HTML,
 |---|---
 
- [ImageOptions ]({{< ref "viewer\developer-guide\data-structures\imageoptions.md" >}}))in case of ViewFormat # PNG, BMP, or JPG| 
+ [ImageOptions ]({{< ref "viewer/developer-guide/data-structures/imageoptions.md" >}}))in case of ViewFormat # PNG, BMP, or JPG| 
 |---|---|---
 

@@ -20,7 +20,7 @@ Note:  The features listed in this page are working only with GroupDocs.Compari
 
 # Get Document #
 
-You can compare documents and can get the result document path by providing the [JsonRequest Object]({{< ref "comparison\developer-guide\v1\common-resources\jsonrequest-fields-description.md" >}}) data in request body.
+You can compare documents and can get the result document path by providing the [JsonRequest Object]({{< ref "comparison/developer-guide/v1/common-resources/jsonrequest-fields-description.md" >}}) data in request body.
 
 ## Resource ##
 

@@ -20,11 +20,11 @@ Note:  The features listed on this page are supported only in GroupDocs.Signatu
 
 # Introduction #
 
-GroupDocs.Signature Cloud REST API supports to search Barcode signatures in supported document formats. It provides method to search Barcode Signature in Document Pages with different options barcodeType, Name, text, matchType and other search features by using [Search Options Object]({{< ref "signature\developer-guide\common-resources\search-options-objects.md" >}}) data in request body.
+GroupDocs.Signature Cloud REST API supports to search Barcode signatures in supported document formats. It provides method to search Barcode Signature in Document Pages with different options barcodeType, Name, text, matchType and other search features by using [Search Options Object]({{< ref "signature/developer-guide/common-resources/search-options-objects.md" >}}) data in request body.
 
 # Search Barcode Signature #
 
-You can search Barcode Signature on Document provided by fileName and document folder (if required) using following API. It expects [Search Options Object]({{< ref "signature\developer-guide\common-resources\search-options-objects.md" >}}) data in request body.
+You can search Barcode Signature on Document provided by fileName and document folder (if required) using following API. It expects [Search Options Object]({{< ref "signature/developer-guide/common-resources/search-options-objects.md" >}}) data in request body.
 
 It returns an object which contains document name, folder location and search result.
 
@@ -161,7 +161,7 @@ The API is completely independent of your operating system, database system or d
 
 You can search Barcode Signature for a Document at provided URL using following API. 
 
-It retrieves file from specified URL and tries to detect file type when fileName parameter is not specified. It expects [doc:signaturecloud.developer-guide.common-resources.search-options-objects.WebHome) object data in request body.
+It retrieves file from specified URL and tries to detect file type when fileName parameter is not specified. It expects [search-options-objects]({{< ref "signature/developer-guide/common-resources/search-options-objects.md" >}}) object data in request body.
 
 Based on passed Search Options settings proceeds with Document searching, it returns object which contains result of searching process.
 

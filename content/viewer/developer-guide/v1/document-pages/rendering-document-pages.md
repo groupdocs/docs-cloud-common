@@ -355,7 +355,7 @@ The API is completely independent of your operating system, database system or d
 
 # Download ZIP Archive with Document Pages as HTML #
 
-GroupDocs.Viewer Cloud can retrieve ZIP archive of Document pages as HTML. API returns ZIP archive with pages as HTML. Please check [ZIP File Structure]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/zip-file-structure/) for more details.
+GroupDocs.Viewer Cloud can retrieve ZIP archive of Document pages as HTML. API returns ZIP archive with pages as HTML. Please check [ZIP File Structure]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/zip-file-structure/) for more details.
 
 ## Resource ##
 
@@ -479,7 +479,7 @@ The API is completely independent of your operating system, database system or d
 
 # Download ZIP Archive with Document Pages as Image #
 
-GroupDocs.Viewer Cloud can retrieve ZIP archive of Document pages as Image. The API returns ZIP archive with pages as Image. Please check [ZIP File Structure]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/zip-file-structure/) for more details.
+GroupDocs.Viewer Cloud can retrieve ZIP archive of Document pages as Image. The API returns ZIP archive with pages as Image. Please check [ZIP File Structure]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/zip-file-structure/) for more details.
 
 ## Resource ##
 
@@ -1420,9 +1420,9 @@ The API is completely independent of your operating system, database system or d
 
 # Rendering MS Project Document Pages as HTML #
 
-Starting from GroupDocs.Viewer Cloud 18.2 two new options have been added which allows to adjust Page Size and Time Unit when rendering MS Project documents. By default GroupDocs.Viewer API tries to find optimal output size and time unit, depending on the projects overall length, depending on the projects overall length. In case you need to set your own page size or time unit, you can specify **[ProjectOptions]({{< ref "viewer\developer-guide\v1\common-resources\options-objects.md" >}})** which provides two options **PageSize** and **TimeUnit**.  Time unit refers to smallest unit (days, third of a month or month) used in timescale bar, when the TimeUnit # "Days" is set you will get the most detailed view of your tasks and opposite, when TimeUnit # "Month" is set you will get more general representation of tasks. This example demonstrates how to create pages cache as HTML with provided **[ProjectOptions]({{< ref "viewer\developer-guide\v1\common-resources\options-objects.md" >}}).**
+Starting from GroupDocs.Viewer Cloud 18.2 two new options have been added which allows to adjust Page Size and Time Unit when rendering MS Project documents. By default GroupDocs.Viewer API tries to find optimal output size and time unit, depending on the projects overall length, depending on the projects overall length. In case you need to set your own page size or time unit, you can specify **[ProjectOptions]({{< ref "viewer/developer-guide/v1/common-resources/options-objects.md" >}})** which provides two options **PageSize** and **TimeUnit**.  Time unit refers to smallest unit (days, third of a month or month) used in timescale bar, when the TimeUnit # "Days" is set you will get the most detailed view of your tasks and opposite, when TimeUnit # "Month" is set you will get more general representation of tasks. This example demonstrates how to create pages cache as HTML with provided **[ProjectOptions]({{< ref "viewer/developer-guide/v1/common-resources/options-objects.md" >}}).**
 
-**NOTE: [ProjectOptions]({{< ref "viewer\developer-guide\v1\common-resources\options-objects.md" >}})** is supported by all methods which accepts [DocumentInfoOptions]({{< ref "viewer\developer-guide\v1\document-information.md" >}}), [ImageOptions]({{< ref "viewer\developer-guide\v1\common-resources\options-objects.md" >}}), [HtmlOptions]({{< ref "viewer\developer-guide\v1\common-resources\options-objects.md" >}}) and [PdfFileOptions]({{< ref "viewer\developer-guide\v1\common-resources\options-objects.md" >}}) objects.
+**NOTE: [ProjectOptions]({{< ref "viewer/developer-guide/v1/common-resources/options-objects.md" >}})** is supported by all methods which accepts [DocumentInfoOptions]({{< ref "viewer/developer-guide/v1/document-information.md" >}}), [ImageOptions]({{< ref "viewer/developer-guide/v1/common-resources/options-objects.md" >}}), [HtmlOptions]({{< ref "viewer/developer-guide/v1/common-resources/options-objects.md" >}}) and [PdfFileOptions]({{< ref "viewer/developer-guide/v1/common-resources/options-objects.md" >}}) objects.
 
 ## Resource ##
 
@@ -1560,9 +1560,9 @@ The API is completely independent of your operating system, database system or d
 
 # Rendering MS Project Document Pages as Image #
 
-Starting from GroupDocs.Viewer Cloud 18.2 two new options have been added which allows to adjust Page Size and Time Unit when rendering MS Project documents. By default GroupDocs.Viewer API tries to find optimal output size and time unit, depending on the projects overall length, depending on the projects overall length. In case you need to set your own page size or time unit, you can specify **[ProjectOptions]({{< ref "viewer\developer-guide\v1\common-resources\options-objects.md" >}})** which provides two options **PageSize** and **TimeUnit**.  Time unit refers to smallest unit (days, third of a month or month) used in timescale bar, when the TimeUnit # "Days" is set you will get the most detailed view of your tasks and opposite, when TimeUnit # "Month" is set you will get more general representation of tasks. This example demonstrates how to create pages cache as Image with provided **[ProjectOptions]({{< ref "viewer\developer-guide\v1\common-resources\options-objects.md" >}}).**
+Starting from GroupDocs.Viewer Cloud 18.2 two new options have been added which allows to adjust Page Size and Time Unit when rendering MS Project documents. By default GroupDocs.Viewer API tries to find optimal output size and time unit, depending on the projects overall length, depending on the projects overall length. In case you need to set your own page size or time unit, you can specify **[ProjectOptions]({{< ref "viewer/developer-guide/v1/common-resources/options-objects.md" >}})** which provides two options **PageSize** and **TimeUnit**.  Time unit refers to smallest unit (days, third of a month or month) used in timescale bar, when the TimeUnit # "Days" is set you will get the most detailed view of your tasks and opposite, when TimeUnit # "Month" is set you will get more general representation of tasks. This example demonstrates how to create pages cache as Image with provided **[ProjectOptions]({{< ref "viewer/developer-guide/v1/common-resources/options-objects.md" >}}).**
 
-**NOTE: [ProjectOptions]({{< ref "viewer\developer-guide\v1\common-resources\options-objects.md" >}})** is supported by all methods which accepts [DocumentInfoOptions]({{< ref "viewer\developer-guide\v1\document-information.md" >}}), [ImageOptions]({{< ref "viewer\developer-guide\v1\common-resources\options-objects.md" >}}), [HtmlOptions]({{< ref "viewer\developer-guide\v1\common-resources\options-objects.md" >}}) and [PdfFileOptions]({{< ref "viewer\developer-guide\v1\common-resources\options-objects.md" >}}) objects.
+**NOTE: [ProjectOptions]({{< ref "viewer/developer-guide/v1/common-resources/options-objects.md" >}})** is supported by all methods which accepts [DocumentInfoOptions]({{< ref "viewer/developer-guide/v1/document-information.md" >}}), [ImageOptions]({{< ref "viewer/developer-guide/v1/common-resources/options-objects.md" >}}), [HtmlOptions]({{< ref "viewer/developer-guide/v1/common-resources/options-objects.md" >}}) and [PdfFileOptions]({{< ref "viewer/developer-guide/v1/common-resources/options-objects.md" >}}) objects.
 
 ## Resource ##
 
@@ -2270,7 +2270,7 @@ The API is completely independent of your operating system, database system or d
 
 # Rotate Document Pages for HTML Representation #
 
-GroupDocs.Viewer Cloud can rotate document page for HTML Representation. The API returns object with updated list of pages upon success. Please check [RotateOptions Object]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/#HRotateOptionsObject) for request parameter.
+GroupDocs.Viewer Cloud can rotate document page for HTML Representation. The API returns object with updated list of pages upon success. Please check [RotateOptions Object]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/#HRotateOptionsObject) for request parameter.
 
 ## Resource ##
 
@@ -2430,7 +2430,7 @@ The API is completely independent of your operating system, database system or d
 
 # Rotate Document Pages for Image Representation #
 
-GroupDocs.Viewer Cloud can rotate document page for Image Representation. The API returns object with updated list of pages upon success. Please check [RotateOptions Object]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/#HRotateOptionsObject) for request body parameter.
+GroupDocs.Viewer Cloud can rotate document page for Image Representation. The API returns object with updated list of pages upon success. Please check [RotateOptions Object]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/#HRotateOptionsObject) for request body parameter.
 
 ## Resource ##
 
@@ -2590,7 +2590,7 @@ The API is completely independent of your operating system, database system or d
 
 # Reorder Document Pages for HTML Representation #
 
-GroupDocs.Viewer Cloud can reorder document pages for HTML Representation. The API returns object with updated list of pages upon success. Please check [ReorderOptions Object]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/) for request parameter.
+GroupDocs.Viewer Cloud can reorder document pages for HTML Representation. The API returns object with updated list of pages upon success. Please check [ReorderOptions Object]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/) for request parameter.
 
 ## Resource ##
 
@@ -2750,7 +2750,7 @@ The API is completely independent of your operating system, database system or d
 
 # Reorder Document Pages for Image Representation #
 
-GroupDocs.Viewer Cloud can reorder document page for Image Representation. The API returns object with updated list of pages upon success. Please check [ReorderOptions Object]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/) for request body parameter.
+GroupDocs.Viewer Cloud can reorder document page for Image Representation. The API returns object with updated list of pages upon success. Please check [ReorderOptions Object]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/) for request body parameter.
 
 ## Resource ##
 

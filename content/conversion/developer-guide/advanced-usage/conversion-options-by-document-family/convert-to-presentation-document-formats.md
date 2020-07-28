@@ -11,12 +11,12 @@ url: "conversion/convert-to-presentation-document-formats"
 
 # Introduction #
 
-GroupDocs.Conversion Cloud REST API allows to convert the [supported document formats]({{< ref "conversion\getting-started\supported-document-formats.md" >}})) to **Presentation Document Formats** and returns the output document **storage URL** and also support to get result as a **stream**.
+GroupDocs.Conversion Cloud REST API allows to convert the [supported document formats]({{< ref "conversion/getting-started/supported-document-formats.md" >}})) to **Presentation Document Formats** and returns the output document **storage URL** and also support to get result as a **stream**.
 |---|---
 
 # Convert to Presentation Formats #
 
-You can convert the [supported document formats]({{< ref "conversion\developer-guide\basic-usage\get-supported-file-formats.md" >}})) to **Presentation Document Formats **and get the Storage URL Output**.**
+You can convert the [supported document formats]({{< ref "conversion/developer-guide/basic-usage/get-supported-file-formats.md" >}})) to **Presentation Document Formats **and get the Storage URL Output**.**
 |---|---
 
 ## Resource ##
@@ -106,7 +106,7 @@ The API is completely independent of your operating system, database system or d
 
 # Convert to Slides Formats #
 
-You can convert the [supported document formats]({{< ref "conversion\developer-guide\basic-usage\get-supported-file-formats.md" >}})) to **Presentation Document Formats **and get the Stream Output**.**
+You can convert the [supported document formats]({{< ref "conversion/developer-guide/basic-usage/get-supported-file-formats.md" >}})) to **Presentation Document Formats **and get the Stream Output**.**
 |---|---
 
 ## Resource ##
@@ -205,7 +205,7 @@ There are steps that usage of GroupDocs.Conversion Cloud consists of:
 1. Convert document
 1. Download converted document from storage
 
-Steps 1 and 3 are storage operations, please refer to this [GroupDocs.Conversion Cloud Storage Operations]({{< ref "conversion\developer-guide\working-with-storage-api.md" >}})) for usage details.
+Steps 1 and 3 are storage operations, please refer to this [GroupDocs.Conversion Cloud Storage Operations]({{< ref "conversion/developer-guide/working-with-storage-api.md" >}})) for usage details.
 
 Step 3 is not needed if the "OutputPath" option is not provided: the convert API method will return the converted document in the response body.
 

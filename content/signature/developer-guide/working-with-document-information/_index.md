@@ -171,7 +171,7 @@ This API intended for getting information about the document: pages, etc.
 
 #### Example 4 (Get document information) ####
 
-Takes [InfoSettings ]({{< ref "signature\developer-guide\data-structures\infosettings.md" >}}))as input and returns [InfoResult]({{< ref "signature\developer-guide\data-structures\inforesult.md" >}})) 
+Takes [InfoSettings ]({{< ref "signature/developer-guide/data-structures/infosettings.md" >}}))as input and returns [InfoResult]({{< ref "signature/developer-guide/data-structures/inforesult.md" >}})) 
 
 ###### Example URL ######
 

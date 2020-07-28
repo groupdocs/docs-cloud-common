@@ -673,7 +673,7 @@ The API is completely independent of your operating system, database system or d
 
 # Get Document Information with DocumentInfoOptions for HTML Representation #
 
-You can get document information for a document with specified [DocumentInfoOptions]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject). API expects [DocumentInfoOptions ]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject)object data in request body. It returns an object that contains information about file format and file size. It also Includes information about document pages and attachments.
+You can get document information for a document with specified [DocumentInfoOptions]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject). API expects [DocumentInfoOptions ]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject)object data in request body. It returns an object that contains information about file format and file size. It also Includes information about document pages and attachments.
 
 ## Resource ##
 
@@ -823,7 +823,7 @@ The API is completely independent of your operating system, database system or d
 
 # Get Document Information with DocumentInfoOptions for Image Representation #
 
-GroupDocs.Viewer for Cloud also supports to get document information for a document with specified [DocumentInfoOptions]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject) as Image representation. API expects [DocumentInfoOptions ]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject)object data in request body. It returns an object that contains information about file format and file size. It also Includes information about document pages and attachments.
+GroupDocs.Viewer for Cloud also supports to get document information for a document with specified [DocumentInfoOptions]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject) as Image representation. API expects [DocumentInfoOptions ]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject)object data in request body. It returns an object that contains information about file format and file size. It also Includes information about document pages and attachments.
 
 ## Resource ##
 
@@ -976,7 +976,7 @@ The API is completely independent of your operating system, database system or d
 
 You can retrieve document information for posted document. API saves file in storage. It uses fileName and folder parameters to specify desired file name and folder to save file. When file with specified name already exists in storage new unique file name will be used for file.
 
-API also returns an object that contains information about file format, file size, information about document pages and attachments. We can pass document content or multipart content where first part is document and second is [DocumentInfoOptions]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject) object data to request body.
+API also returns an object that contains information about file format, file size, information about document pages and attachments. We can pass document content or multipart content where first part is document and second is [DocumentInfoOptions]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject) object data to request body.
 
 ## Resource ##
 
@@ -1116,7 +1116,7 @@ The API is completely independent of your operating system, database system or d
 
 You can retrieve document information for posted document for image representation. API saves file in storage. It uses fileName and folder parameters to specify desired file name and folder to save file. When file with specified name already exists in storage new unique file name will be used for file.
 
-API also returns an object that contains information about file format, file size, information about document pages and attachments. We can pass document content or multipart content where first part is document and second is [DocumentInfoOptions]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject) object data to request body.
+API also returns an object that contains information about file format, file size, information about document pages and attachments. We can pass document content or multipart content where first part is document and second is [DocumentInfoOptions]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject) object data to request body.
 
 ## Resource ##
 
@@ -1254,9 +1254,9 @@ The API is completely independent of your operating system, database system or d
 
 # Get Document Information from URL with DocumentInfoOptions for HTML Representation #
 
-You can retrieve document information for document from provided URL for HTML representation. The API retrieves document information with specified [DocumentInfoOptions]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject).
+You can retrieve document information for document from provided URL for HTML representation. The API retrieves document information with specified [DocumentInfoOptions]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject).
 
-It expects [DocumentInfoOptions]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject) object data in request body.
+It expects [DocumentInfoOptions]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject) object data in request body.
 
 ## Resource ##
 
@@ -1409,9 +1409,9 @@ The API is completely independent of your operating system, database system or d
 
 # Get Document Information from URL with DocumentInfoOptions for Image Representation #
 
-You can retrieve document information for document from provided URL for HTML representation. The API retrieves document information with specified [DocumentInfoOptions]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject).
+You can retrieve document information for document from provided URL for HTML representation. The API retrieves document information with specified [DocumentInfoOptions]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject).
 
-It expects [DocumentInfoOptions]({{< ref "viewer\developer-guide\_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject) object data in request body.
+It expects [DocumentInfoOptions]({{< ref "viewer/developer-guide/_index.md" >}})common-resources/options-objects/#HDocumentInfoOptionsObject) object data in request body.
 
 ## Resource ##
 

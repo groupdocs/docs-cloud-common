@@ -75,5 +75,5 @@ GroupDocs.Parser Cloud provides methods that help you to create, update, retriev
 
 ## Public API Examples ##
 
-* [GroupDocs Parser Cloud API examples and documentation]({{< ref "parser\_index.md" >}}))
+* [GroupDocs Parser Cloud API examples and documentation]({{< ref "parser/_index.md" >}}))
 |---|---

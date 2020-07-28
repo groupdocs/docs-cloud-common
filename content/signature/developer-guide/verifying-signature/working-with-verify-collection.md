@@ -20,11 +20,11 @@ Note:  The features listed on this page are supported only in GroupDocs.Signatu
 
 # Introduction #
 
-GroupDocs.Signature Cloud REST API supports to verify multiple signatures in a document. For example, you can verify whether a document contains Text and Barcode Signatures at same time. To verify list of signatures on document (Cells, Images, PDF, Slides or Words) Signature API provides an object **[VerifyOptionsCollectionData]({{< ref "signature\developer-guide\common-resources\verification-options-objects.md" >}})** that can contain one or more verify options. Please, use verify options which appropriate for current document format.
+GroupDocs.Signature Cloud REST API supports to verify multiple signatures in a document. For example, you can verify whether a document contains Text and Barcode Signatures at same time. To verify list of signatures on document (Cells, Images, PDF, Slides or Words) Signature API provides an object **[VerifyOptionsCollectionData]({{< ref "signature/developer-guide/common-resources/verification-options-objects.md" >}})** that can contain one or more verify options. Please, use verify options which appropriate for current document format.
 
 # Verify Multiple Signatures to Document #
 
-You can verify multiple Signatures on Document at same time provided by fileName and document folder (if required) using following API. It expects [VerifyOptionsCollectionData]({{< ref "signature\developer-guide\common-resources\verification-options-objects.md" >}}) object data in request body. You can add required verify options to this object as per your document format.
+You can verify multiple Signatures on Document at same time provided by fileName and document folder (if required) using following API. It expects [VerifyOptionsCollectionData]({{< ref "signature/developer-guide/common-resources/verification-options-objects.md" >}}) object data in request body. You can add required verify options to this object as per your document format.
 
 It returns an object which contains document name, folder location and signing result.
 
@@ -148,7 +148,7 @@ The API is completely independent of your operating system, database system or d
 
 # Verify Multiple Signatures in a Document at Provided URL #
 
-You can verify multiple Signatures on Document at same time  from specified URL and document folder (if required) using following API. It expects [VerifyOptionsCollectionData]({{< ref "signature\developer-guide\common-resources\verification-options-objects.md" >}}) object data in request body. You can add required verify options to this object as per your document format.
+You can verify multiple Signatures on Document at same time  from specified URL and document folder (if required) using following API. It expects [VerifyOptionsCollectionData]({{< ref "signature/developer-guide/common-resources/verification-options-objects.md" >}}) object data in request body. You can add required verify options to this object as per your document format.
 
 It returns an object which contains document name, folder location and signing result.
 

@@ -49,7 +49,7 @@ There 13 features and fixes in this release. The most notable are:
 
 ![](viewer/images/EmailHeader.png)
 
-When rendering email messages by default Viewer uses English languge to render field labels such as (From, To, Subject etc.). To change field labels you can set **FieldLabels** on **EmailOptions** [doc:viewercloud.developer-guide.v1.common-resources.options-objects.WebHome)class.
+When rendering email messages by default Viewer uses English languge to render field labels such as (From, To, Subject etc.). To change field labels you can set **FieldLabels** on **EmailOptions** [options-objects]({{< ref "viewer/developer-guide/v1/common-resources/options-objects.md" >}})class.
 
 
 
@@ -140,7 +140,7 @@ Tiled rendering or (rendering by coordinates) is the process of rendering CAD do
 
  
 
-Before you start rendering by coordinates, it is recommended to obtain the overall width and height of the document with help of [document info methods]({{< ref "viewer\developer-guide\v1\document-information.md" >}}) as shown in example below. After you know the width and height, determine the starting point X and Y coordinates and the width with the height of the tile (region you want to render). Then add tiles to [CadOptions.Tiles]({{< ref "viewer\developer-guide\v1\common-resources\options-objects.md" >}}) as shown in example below. Coordinates start from bottom left corner of the drawing and have only positive values as shown in sample picture below. 
+Before you start rendering by coordinates, it is recommended to obtain the overall width and height of the document with help of [document info methods]({{< ref "viewer/developer-guide/v1/document-information.md" >}}) as shown in example below. After you know the width and height, determine the starting point X and Y coordinates and the width with the height of the tile (region you want to render). Then add tiles to [CadOptions.Tiles]({{< ref "viewer/developer-guide/v1/common-resources/options-objects.md" >}}) as shown in example below. Coordinates start from bottom left corner of the drawing and have only positive values as shown in sample picture below. 
 
  
 
@@ -237,7 +237,7 @@ curl --request GET \
 
  
 
-Since the version 18.7, it is possible to set output page size for rendering Email documents into PDF and images. To enable this feature, please set the **PageSize **property of the **[EmailOptions]({{< ref "viewer\developer-guide\v1\common-resources\options-objects.md" >}})** class as shown in example below. Please note, that for rendering into HTML the whole email message is rendered into one responsive HTML page and this new option will not influence the rendering. 
+Since the version 18.7, it is possible to set output page size for rendering Email documents into PDF and images. To enable this feature, please set the **PageSize **property of the **[EmailOptions]({{< ref "viewer/developer-guide/v1/common-resources/options-objects.md" >}})** class as shown in example below. Please note, that for rendering into HTML the whole email message is rendered into one responsive HTML page and this new option will not influence the rendering. 
 
  
 
