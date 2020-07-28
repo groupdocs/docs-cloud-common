@@ -1,0 +1,12 @@
+<script>LoadMenu("GroupDocs");</script>   
+
+<script src="{{ .Site.BaseURL }}lib/popper.min.js"></script> <!-- Popper.js - dependency of Bootstrap -->
+<script src="{{ .Site.BaseURL }}js/bootstrap.min.js"></script> <!-- Other javascript -->
+
+<script src="{{ .Site.BaseURL }}js/anchor.min.js"></script> <!-- Heading Anchors script -->
+<script>anchors.add('.main h2, .main h3');</script>
+
+<!-- Plugin: clipboard -->
+{{ if (findRE "<pre" .Content 1) }}    
+    <script type="text/javascript" src="{{ .Site.BaseURL }}plugins/clip.js"></script>
+{{ end }}
