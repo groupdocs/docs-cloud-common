@@ -120,9 +120,9 @@ Please follow below steps to create a chart template in MS Word 2013:
 
 
 
-{{tip}}
+
 For detailed technical information about syntax, expressions and report generation by the engine, please visit: .
-{{/tip}}
+
 
 ### Download Resources ###
 
@@ -295,9 +295,9 @@ Please follow below steps to create a chart template in MS Word 2013:
 
 
 
-{{tip}}
+
 For detailed technical information about syntax, expressions and report generation by the engine, please visit: .
-{{/tip}}
+
 
 ### Download Resources ###
 
