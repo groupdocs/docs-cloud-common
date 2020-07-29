@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "metadata"
-title: "Metadata"
 url: "comparison/metadata"
+title: "Metadata"
+productName: "GroupDocs.Comparison Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 ## Metadata ##

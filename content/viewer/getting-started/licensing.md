@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "licensing"
-title: "Licensing"
 url: "viewer/licensing"
+title: "Licensing"
+productName: "GroupDocs.Viewer Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 

@@ -1,7 +1,10 @@
 ---
 id: "storage-operations"
-title: "Storage Operations"
 url: "watermark/storage-operations"
+title: "Storage Operations"
+productName: "GroupDocs.Watermark Cloud"
+description: ""
+keywords: ""
 ---
 
 ### Storage Operations ###

@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "parse-by-template-stored-in-user-storage"
-title: "Parse by Template Stored in User Storage"
 url: "parser/parse-by-template-stored-in-user-storage"
+title: "Parse by Template Stored in User Storage"
+productName: "GroupDocs.Parser Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

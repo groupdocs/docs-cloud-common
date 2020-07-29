@@ -1,7 +1,10 @@
 ---
 id: "working-with-storage"
-title: "Working With Storage"
 url: "watermark/working-with-storage"
+title: "Working With Storage"
+productName: "GroupDocs.Watermark Cloud"
+description: ""
+keywords: ""
 ---
 
 

@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "watermark-annotation"
-title: "Watermark Annotation"
 url: "annotation/watermark-annotation"
+title: "Watermark Annotation"
+productName: "GroupDocs.Annotation Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

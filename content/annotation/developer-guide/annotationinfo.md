@@ -1,8 +1,11 @@
 ---
-weight: 5
 id: "annotationinfo"
-title: "AnnotationInfo"
 url: "annotation/annotationinfo"
+title: "AnnotationInfo"
+productName: "GroupDocs.Annotation Cloud"
+weight: 5
+description: ""
+keywords: ""
 ---
 
 ## AnnotationInfo ##

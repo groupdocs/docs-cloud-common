@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "how-to-work-with-api-usage-logs"
-title: "How to work with API Usage Logs"
 url: "total/how-to-work-with-api-usage-logs"
+title: "How to work with API Usage Logs"
+productName: "GroupDocs.Total Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 

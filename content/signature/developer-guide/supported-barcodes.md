@@ -1,8 +1,11 @@
 ---
-weight: 5
 id: "supported-barcodes"
-title: "Supported Barcodes"
 url: "signature/supported-barcodes"
+title: "Supported Barcodes"
+productName: "GroupDocs.Signature Cloud"
+weight: 5
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

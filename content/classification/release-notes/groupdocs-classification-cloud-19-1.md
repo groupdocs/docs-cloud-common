@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "groupdocs-classification-cloud-19-1"
-title: "GroupDocs.Classification Cloud 19.1"
 url: "classification/groupdocs-classification-cloud-19-1"
+title: "GroupDocs.Classification Cloud 19.1"
+productName: "GroupDocs.Classification Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 ## Major Features ##

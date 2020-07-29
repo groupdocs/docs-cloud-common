@@ -1,8 +1,11 @@
 ---
-weight: 6
 id: "rendering-ms-project-document"
-title: "Rendering MS Project Document"
 url: "viewer/rendering-ms-project-document"
+title: "Rendering MS Project Document"
+productName: "GroupDocs.Viewer Cloud"
+weight: 6
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

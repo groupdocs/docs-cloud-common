@@ -1,7 +1,10 @@
 ---
 id: "get-document-information"
-title: "Get Document Information"
 url: "comparison/get-document-information"
+title: "Get Document Information"
+productName: "GroupDocs.Comparison Cloud"
+description: ""
+keywords: ""
 ---
 
  

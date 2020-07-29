@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "working-with-verify-collection"
-title: "Working with Verify Collection"
 url: "signature/working-with-verify-collection"
+title: "Working with Verify Collection"
+productName: "GroupDocs.Signature Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

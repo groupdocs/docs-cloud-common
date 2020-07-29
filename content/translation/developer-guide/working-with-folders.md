@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "working-with-folders"
-title: "Working With Folders"
 url: "translation/working-with-folders"
+title: "Working With Folders"
+productName: "GroupDocs.Translation Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
  

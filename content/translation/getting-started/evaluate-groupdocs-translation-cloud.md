@@ -1,8 +1,11 @@
 ---
-weight: 8
 id: "evaluate-groupdocs-translation-cloud"
-title: "Evaluate GroupDocs.Translation Cloud"
 url: "translation/evaluate-groupdocs-translation-cloud"
+title: "Evaluate GroupDocs.Translation Cloud"
+productName: "GroupDocs.Translation Cloud"
+weight: 8
+description: ""
+keywords: ""
 ---
 
 #### Evaluating GroupDocs.Translation Cloud: ####

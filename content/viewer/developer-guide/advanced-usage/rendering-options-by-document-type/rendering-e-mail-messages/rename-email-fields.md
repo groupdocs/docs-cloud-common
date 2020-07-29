@@ -1,7 +1,10 @@
 ---
 id: "rename-email-fields"
-title: "Rename email fields"
 url: "viewer/rename-email-fields"
+title: "Rename email fields"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

@@ -1,6 +1,9 @@
 ---
 id: "merger"
-title: "GroupDocs.Merger Cloud"
 url: "merger"
+title: "GroupDocs.Merger Cloud"
+productName: "GroupDocs.Merger Cloud"
+description: ""
+keywords: ""
 ---
 

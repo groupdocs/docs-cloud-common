@@ -1,8 +1,11 @@
 ---
-weight: 6
 id: "evaluate-groupdocs-metadata"
-title: "Evaluate GroupDocs.Metadata"
 url: "metadata/evaluate-groupdocs-metadata"
+title: "Evaluate GroupDocs.Metadata"
+productName: "GroupDocs.Metadata Cloud"
+weight: 6
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

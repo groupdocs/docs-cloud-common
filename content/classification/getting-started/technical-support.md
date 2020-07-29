@@ -1,8 +1,11 @@
 ---
-weight: 6
 id: "technical-support"
-title: "Technical Support"
 url: "classification/technical-support"
+title: "Technical Support"
+productName: "GroupDocs.Classification Cloud"
+weight: 6
+description: ""
+keywords: ""
 ---
 
 

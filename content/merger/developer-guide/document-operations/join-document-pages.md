@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "join-document-pages"
-title: "Join Document Pages"
 url: "merger/join-document-pages"
+title: "Join Document Pages"
+productName: "GroupDocs.Merger Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

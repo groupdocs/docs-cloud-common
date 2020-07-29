@@ -1,7 +1,10 @@
 ---
 id: "get-supported-file-types"
-title: "Get Supported File Types"
 url: "metadata/get-supported-file-types"
+title: "Get Supported File Types"
+productName: "GroupDocs.Metadata Cloud"
+description: ""
+keywords: ""
 ---
 
 

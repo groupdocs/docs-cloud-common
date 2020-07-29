@@ -1,7 +1,10 @@
 ---
 id: "translation-of-document"
-title: "Translation Of Document"
 url: "translation/translation-of-document"
+title: "Translation Of Document"
+productName: "GroupDocs.Translation Cloud"
+description: ""
+keywords: ""
 ---
 
 # Translate Document API #

@@ -1,8 +1,11 @@
 ---
-weight: 8
 id: "searchsettings"
-title: "SearchSettings"
 url: "signature/searchsettings"
+title: "SearchSettings"
+productName: "GroupDocs.Signature Cloud"
+weight: 8
+description: ""
+keywords: ""
 ---
 
 # SearchSettings #

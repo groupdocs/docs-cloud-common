@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "split-document"
-title: "Split Document"
 url: "merger/split-document"
+title: "Split Document"
+productName: "GroupDocs.Merger Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

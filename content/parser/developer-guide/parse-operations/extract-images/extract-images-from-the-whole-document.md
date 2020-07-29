@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "extract-images-from-the-whole-document"
-title: "Extract Images from the Whole Document"
 url: "parser/extract-images-from-the-whole-document"
+title: "Extract Images from the Whole Document"
+productName: "GroupDocs.Parser Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

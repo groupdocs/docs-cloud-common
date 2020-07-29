@@ -1,7 +1,10 @@
 ---
 id: "split-drawing-into-tiles"
-title: "Split drawing into tiles"
 url: "viewer/split-drawing-into-tiles"
+title: "Split drawing into tiles"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "working-with-wordprocessing-documents"
-title: "Working with WordProcessing Documents"
 url: "editor/working-with-wordprocessing-documents"
+title: "Working with WordProcessing Documents"
+productName: "GroupDocs.Editor Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

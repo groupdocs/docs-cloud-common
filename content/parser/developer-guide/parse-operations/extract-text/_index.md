@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "extract-text"
-title: "Extract Text"
 url: "parser/extract-text"
+title: "Extract Text"
+productName: "GroupDocs.Parser Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 

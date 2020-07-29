@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "working-with-signing-document"
-title: "Working with Signing Document"
 url: "signature/working-with-signing-document"
+title: "Working with Signing Document"
+productName: "GroupDocs.Signature Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

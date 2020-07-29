@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "quick-start"
-title: "Quick Start"
 url: "comparison/quick-start"
+title: "Quick Start"
+productName: "GroupDocs.Comparison Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 

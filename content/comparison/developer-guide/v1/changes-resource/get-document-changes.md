@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "get-document-changes"
-title: "Get Document - Changes"
 url: "comparison/get-document-changes"
+title: "Get Document - Changes"
+productName: "GroupDocs.Comparison Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

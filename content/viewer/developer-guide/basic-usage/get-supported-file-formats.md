@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "get-supported-file-formats"
-title: "Get Supported File Formats"
 url: "viewer/get-supported-file-formats"
+title: "Get Supported File Formats"
+productName: "GroupDocs.Viewer Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 

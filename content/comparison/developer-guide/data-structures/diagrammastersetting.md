@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "diagrammastersetting"
-title: "DiagramMasterSetting"
 url: "comparison/diagrammastersetting"
+title: "DiagramMasterSetting"
+productName: "GroupDocs.Comparison Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 ## DiagramMasterSetting ##

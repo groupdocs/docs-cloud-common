@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "quick-start"
-title: "Quick Start"
 url: "merger/quick-start"
+title: "Quick Start"
+productName: "GroupDocs.Merger Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 

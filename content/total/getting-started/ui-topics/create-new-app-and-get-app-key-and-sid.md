@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "create-new-app-and-get-app-key-and-sid"
-title: "Create New App and Get App Key and SID"
 url: "total/create-new-app-and-get-app-key-and-sid"
+title: "Create New App and Get App Key and SID"
+productName: "GroupDocs.Total Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
  

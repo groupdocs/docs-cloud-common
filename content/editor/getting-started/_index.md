@@ -1,10 +1,11 @@
 ---
-keywords: ""
-description: ""
-weight: 1
 id: "getting-started"
-title: "Getting Started"
 url: "editor/getting-started"
+title: "Getting Started"
+productName: "GroupDocs.Editor Cloud"
+description: ""
+keywords: ""
+weight: 1
 ---
 
 ### Getting Started ###

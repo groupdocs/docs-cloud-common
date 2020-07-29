@@ -1,7 +1,10 @@
 ---
 id: "groupdocs-metadata-for-cloud-20-4-release-notes"
-title: "GroupDocs.Metadata for Cloud 20.4 Release Notes"
 url: "metadata/groupdocs-metadata-for-cloud-20-4-release-notes"
+title: "GroupDocs.Metadata for Cloud 20.4 Release Notes"
+productName: "GroupDocs.Metadata Cloud"
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

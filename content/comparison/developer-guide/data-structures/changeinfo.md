@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "changeinfo"
-title: "ChangeInfo"
 url: "comparison/changeinfo"
+title: "ChangeInfo"
+productName: "GroupDocs.Comparison Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 ## ChangeInfo ##

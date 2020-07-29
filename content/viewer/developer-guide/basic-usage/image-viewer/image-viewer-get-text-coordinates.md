@@ -1,7 +1,10 @@
 ---
 id: "image-viewer-get-text-coordinates"
-title: "Image Viewer - Get text coordinates"
 url: "viewer/image-viewer-get-text-coordinates"
+title: "Image Viewer - Get text coordinates"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

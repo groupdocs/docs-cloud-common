@@ -1,8 +1,11 @@
 ---
-weight: 6
 id: "working-with-folder"
-title: "Working With Folder"
 url: "viewer/working-with-folder"
+title: "Working With Folder"
+productName: "GroupDocs.Viewer Cloud"
+weight: 6
+description: ""
+keywords: ""
 ---
 
 

@@ -1,7 +1,10 @@
 ---
 id: "groupdocs-translation-for-cloud-20-04-release-notes"
-title: "GroupDocs.Translation for Cloud 20.5 Release Notes"
 url: "translation/groupdocs-translation-for-cloud-20-04-release-notes"
+title: "GroupDocs.Translation for Cloud 20.5 Release Notes"
+productName: "GroupDocs.Translation Cloud"
+description: ""
+keywords: ""
 ---
 
 The first public release of GroupDocs.Translation Cloud has the following features:

@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "working-with-storage"
-title: "Working With Storage"
 url: "editor/working-with-storage"
+title: "Working With Storage"
+productName: "GroupDocs.Editor Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

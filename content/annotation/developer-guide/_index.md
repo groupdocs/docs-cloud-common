@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "developer-guide"
-title: "Developer Guide"
 url: "annotation/developer-guide"
+title: "Developer Guide"
+productName: "GroupDocs.Annotation Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 ### Developer Guide ###

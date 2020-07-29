@@ -1,7 +1,10 @@
 ---
 id: "working-with-storage"
-title: "Working With Storage"
 url: "metadata/working-with-storage"
+title: "Working With Storage"
+productName: "GroupDocs.Metadata Cloud"
+description: ""
+keywords: ""
 ---
 
 

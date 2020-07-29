@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "working-with-file-api"
-title: "Working with File Api"
 url: "conversion/working-with-file-api"
+title: "Working with File Api"
+productName: "GroupDocs.Conversion Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 

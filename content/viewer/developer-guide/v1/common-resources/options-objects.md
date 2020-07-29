@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "options-objects"
-title: "Options Objects"
 url: "viewer/options-objects"
+title: "Options Objects"
+productName: "GroupDocs.Viewer Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

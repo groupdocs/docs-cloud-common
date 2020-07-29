@@ -1,8 +1,11 @@
 ---
-weight: 6
 id: "how-to-run-the-examples"
-title: "How to Run the Examples"
 url: "editor/how-to-run-the-examples"
+title: "How to Run the Examples"
+productName: "GroupDocs.Editor Cloud"
+weight: 6
+description: ""
+keywords: ""
 ---
 
 

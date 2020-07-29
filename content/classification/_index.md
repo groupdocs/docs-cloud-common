@@ -1,7 +1,10 @@
 ---
-weight: 9
 id: "classification"
-title: "GroupDocs.Classification Cloud Product Family"
 url: "classification"
+title: "GroupDocs.Classification Cloud Product Family"
+productName: "GroupDocs.Classification Cloud"
+weight: 9
+description: ""
+keywords: ""
 ---
 

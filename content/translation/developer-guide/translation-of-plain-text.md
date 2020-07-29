@@ -1,7 +1,10 @@
 ---
 id: "translation-of-plain-text"
-title: "Translation Of Plain Text"
 url: "translation/translation-of-plain-text"
+title: "Translation Of Plain Text"
+productName: "GroupDocs.Translation Cloud"
+description: ""
+keywords: ""
 ---
 
 # Translate Plain Text API #

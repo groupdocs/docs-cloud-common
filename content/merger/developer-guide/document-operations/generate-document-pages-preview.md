@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "generate-document-pages-preview"
-title: "Generate Document Pages Preview"
 url: "merger/generate-document-pages-preview"
+title: "Generate Document Pages Preview"
+productName: "GroupDocs.Merger Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "rotate-pages"
-title: "Rotate Pages"
 url: "merger/rotate-pages"
+title: "Rotate Pages"
+productName: "GroupDocs.Merger Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

@@ -1,7 +1,10 @@
 ---
 id: "get-document-information"
-title: "Get Document Information"
 url: "watermark/get-document-information"
+title: "Get Document Information"
+productName: "GroupDocs.Watermark Cloud"
+description: ""
+keywords: ""
 ---
 
 

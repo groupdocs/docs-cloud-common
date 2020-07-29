@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "working-with-folder"
-title: "Working With Folder"
 url: "merger/working-with-folder"
+title: "Working With Folder"
+productName: "GroupDocs.Merger Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 

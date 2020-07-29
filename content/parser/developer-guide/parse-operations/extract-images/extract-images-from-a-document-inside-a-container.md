@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "extract-images-from-a-document-inside-a-container"
-title: "Extract Images from a Document Inside a Container"
 url: "parser/extract-images-from-a-document-inside-a-container"
+title: "Extract Images from a Document Inside a Container"
+productName: "GroupDocs.Parser Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

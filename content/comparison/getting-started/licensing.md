@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "licensing"
-title: "Licensing"
 url: "comparison/licensing"
+title: "Licensing"
+productName: "GroupDocs.Comparison Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 

@@ -1,7 +1,10 @@
 ---
 id: "render-print-areas"
-title: "Render print areas"
 url: "viewer/render-print-areas"
+title: "Render print areas"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

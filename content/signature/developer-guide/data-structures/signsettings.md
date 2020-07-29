@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "signsettings"
-title: "SignSettings"
 url: "signature/signsettings"
+title: "SignSettings"
+productName: "GroupDocs.Signature Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 # SignSettings #

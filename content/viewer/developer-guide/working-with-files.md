@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "working-with-files"
-title: "Working With Files"
 url: "viewer/working-with-files"
+title: "Working With Files"
+productName: "GroupDocs.Viewer Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 

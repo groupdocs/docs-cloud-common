@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "upload-file"
-title: "Upload File"
 url: "storage/upload-file"
+title: "Upload File"
+productName: "GroupDocs.Storage Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

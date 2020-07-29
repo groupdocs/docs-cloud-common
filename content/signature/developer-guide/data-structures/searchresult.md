@@ -1,8 +1,11 @@
 ---
-weight: 9
 id: "searchresult"
-title: "SearchResult"
 url: "signature/searchresult"
+title: "SearchResult"
+productName: "GroupDocs.Signature Cloud"
+weight: 9
+description: ""
+keywords: ""
 ---
 
 # SearchResult #

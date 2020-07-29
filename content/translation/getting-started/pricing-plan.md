@@ -1,8 +1,11 @@
 ---
-weight: 10
 id: "pricing-plan"
-title: "Pricing Plan"
 url: "translation/pricing-plan"
+title: "Pricing Plan"
+productName: "GroupDocs.Translation Cloud"
+weight: 10
+description: ""
+keywords: ""
 ---
 
 GroupDocs builds incredible easy to use Software as a Service (SaaS) that developers can fully evaluate before committing to buying. To do this, we rely on a slightly different sales model.

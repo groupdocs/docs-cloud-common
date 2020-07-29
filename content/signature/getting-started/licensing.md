@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "licensing"
-title: "Licensing"
 url: "signature/licensing"
+title: "Licensing"
+productName: "GroupDocs.Signature Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 

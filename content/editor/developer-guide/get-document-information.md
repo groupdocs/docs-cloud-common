@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "get-document-information"
-title: "Get Document Information"
 url: "editor/get-document-information"
+title: "Get Document Information"
+productName: "GroupDocs.Editor Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 

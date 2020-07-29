@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "release-notes"
-title: "Release Notes"
 url: "annotation/release-notes"
+title: "Release Notes"
+productName: "GroupDocs.Annotation Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 ### Release Notes ###

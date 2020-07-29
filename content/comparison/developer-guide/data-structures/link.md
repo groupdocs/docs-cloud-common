@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "link"
-title: "Link"
 url: "comparison/link"
+title: "Link"
+productName: "GroupDocs.Comparison Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 ## Link ##

@@ -1,8 +1,11 @@
 ---
-weight: 8
 id: "verifying-signature"
-title: "Verifying Signature"
 url: "signature/verifying-signature"
+title: "Verifying Signature"
+productName: "GroupDocs.Signature Cloud"
+weight: 8
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

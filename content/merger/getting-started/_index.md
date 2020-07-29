@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "getting-started"
-title: "Getting Started"
 url: "merger/getting-started"
+title: "Getting Started"
+productName: "GroupDocs.Merger Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 ### Getting Started ###

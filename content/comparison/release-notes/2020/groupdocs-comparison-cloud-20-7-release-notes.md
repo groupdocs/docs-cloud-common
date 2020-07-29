@@ -1,7 +1,10 @@
 ---
 id: "groupdocs-comparison-cloud-20-7-release-notes"
-title: "GroupDocs.Comparison Cloud 20.7 Release Notes"
 url: "comparison/groupdocs-comparison-cloud-20-7-release-notes"
+title: "GroupDocs.Comparison Cloud 20.7 Release Notes"
+productName: "GroupDocs.Comparison Cloud"
+description: ""
+keywords: ""
 ---
 
 # GroupDocs.Comparison Cloud 20.7 release notes #

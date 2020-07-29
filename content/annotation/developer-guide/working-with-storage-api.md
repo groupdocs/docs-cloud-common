@@ -1,8 +1,11 @@
 ---
-weight: 6
 id: "working-with-storage-api"
-title: "Working with Storage API"
 url: "annotation/working-with-storage-api"
+title: "Working with Storage API"
+productName: "GroupDocs.Annotation Cloud"
+weight: 6
+description: ""
+keywords: ""
 ---
 
 

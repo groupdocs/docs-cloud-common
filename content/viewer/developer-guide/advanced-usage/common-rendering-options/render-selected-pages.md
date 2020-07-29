@@ -1,7 +1,10 @@
 ---
 id: "render-selected-pages"
-title: "Render selected pages"
 url: "viewer/render-selected-pages"
+title: "Render selected pages"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

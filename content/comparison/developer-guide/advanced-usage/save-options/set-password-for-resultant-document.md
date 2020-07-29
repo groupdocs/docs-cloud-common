@@ -1,8 +1,11 @@
 ---
-weight: 10
 id: "set-password-for-resultant-document"
-title: "Set password for resultant document"
 url: "comparison/set-password-for-resultant-document"
+title: "Set password for resultant document"
+productName: "GroupDocs.Comparison Cloud"
+weight: 10
+description: ""
+keywords: ""
 ---
 
  

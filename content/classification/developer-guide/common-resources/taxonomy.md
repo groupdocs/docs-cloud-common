@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "taxonomy"
-title: "Taxonomy"
 url: "classification/taxonomy"
+title: "Taxonomy"
+productName: "GroupDocs.Classification Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

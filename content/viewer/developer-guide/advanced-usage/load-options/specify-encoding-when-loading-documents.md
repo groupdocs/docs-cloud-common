@@ -1,7 +1,10 @@
 ---
 id: "specify-encoding-when-loading-documents"
-title: "Specify encoding when loading documents"
 url: "viewer/specify-encoding-when-loading-documents"
+title: "Specify encoding when loading documents"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

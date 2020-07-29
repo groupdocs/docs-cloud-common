@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "supported-document-formats"
-title: "Supported Document Formats"
 url: "viewer/supported-document-formats"
+title: "Supported Document Formats"
+productName: "GroupDocs.Viewer Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 # Supported File Formats Cloud V2 #

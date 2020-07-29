@@ -1,8 +1,11 @@
 ---
-weight: 6
 id: "working-with-files"
-title: "Working With Files"
 url: "merger/working-with-files"
+title: "Working With Files"
+productName: "GroupDocs.Merger Cloud"
+weight: 6
+description: ""
+keywords: ""
 ---
 
 

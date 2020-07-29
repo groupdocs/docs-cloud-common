@@ -1,7 +1,10 @@
 ---
 id: "load-password-protected-document"
-title: "Load password-protected document"
 url: "viewer/load-password-protected-document"
+title: "Load password-protected document"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

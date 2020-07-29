@@ -1,8 +1,11 @@
 ---
-weight: 8
 id: "working-with-folder-api"
-title: "Working with Folder API"
 url: "annotation/working-with-folder-api"
+title: "Working with Folder API"
+productName: "GroupDocs.Annotation Cloud"
+weight: 8
+description: ""
+keywords: ""
 ---
 
 

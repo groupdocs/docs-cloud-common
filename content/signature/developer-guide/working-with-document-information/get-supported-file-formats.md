@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "get-supported-file-formats"
-title: "Get Supported File Formats"
 url: "signature/get-supported-file-formats"
+title: "Get Supported File Formats"
+productName: "GroupDocs.Signature Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

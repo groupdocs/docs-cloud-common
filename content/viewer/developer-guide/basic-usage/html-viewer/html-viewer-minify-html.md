@@ -1,8 +1,11 @@
 ---
-weight: 8
 id: "html-viewer-minify-html"
-title: "HTML Viewer - Minify HTML"
 url: "viewer/html-viewer-minify-html"
+title: "HTML Viewer - Minify HTML"
+productName: "GroupDocs.Viewer Cloud"
+weight: 8
+description: ""
+keywords: ""
 ---
 
 

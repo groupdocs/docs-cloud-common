@@ -1,8 +1,11 @@
 ---
-weight: 5
 id: "available-sdks"
-title: "Available SDKs"
 url: "translation/available-sdks"
+title: "Available SDKs"
+productName: "GroupDocs.Translation Cloud"
+weight: 5
+description: ""
+keywords: ""
 ---
 
 #### GroupDocs.Translation Cloud SDKs ####

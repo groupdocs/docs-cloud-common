@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "supported-document-formats"
-title: "Supported Document Formats"
 url: "annotation/supported-document-formats"
+title: "Supported Document Formats"
+productName: "GroupDocs.Annotation Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 # GroupDocs.Annotation for Cloud #

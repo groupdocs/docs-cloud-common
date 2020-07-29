@@ -1,8 +1,11 @@
 ---
-weight: 5
 id: "check-presence-of-a-file"
-title: "Check Presence of a File"
 url: "storage/check-presence-of-a-file"
+title: "Check Presence of a File"
+productName: "GroupDocs.Storage Cloud"
+weight: 5
+description: ""
+keywords: ""
 ---
 
 

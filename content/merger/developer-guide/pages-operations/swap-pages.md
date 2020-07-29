@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "swap-pages"
-title: "Swap Pages"
 url: "merger/swap-pages"
+title: "Swap Pages"
+productName: "GroupDocs.Merger Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

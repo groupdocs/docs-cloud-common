@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "extract-text-by-a-page-number-range"
-title: "Extract Text by a Page Number Range"
 url: "parser/extract-text-by-a-page-number-range"
+title: "Extract Text by a Page Number Range"
+productName: "GroupDocs.Parser Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 

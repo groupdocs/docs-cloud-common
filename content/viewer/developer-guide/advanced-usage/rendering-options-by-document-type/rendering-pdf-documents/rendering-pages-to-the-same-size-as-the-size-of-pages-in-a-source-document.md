@@ -1,7 +1,10 @@
 ---
 id: "rendering-pages-to-the-same-size-as-the-size-of-pages-in-a-source-document"
-title: "Rendering pages to the same size as the size of pages in a source document"
 url: "viewer/rendering-pages-to-the-same-size-as-the-size-of-pages-in-a-source-document"
+title: "Rendering pages to the same size as the size of pages in a source document"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

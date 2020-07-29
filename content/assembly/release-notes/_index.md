@@ -1,7 +1,10 @@
 ---
-weight: 3
 id: "release-notes"
-title: "Release Notes"
 url: "assembly/release-notes"
+title: "Release Notes"
+productName: "GroupDocs.Assembly Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 

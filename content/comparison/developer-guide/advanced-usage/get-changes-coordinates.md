@@ -1,8 +1,11 @@
 ---
-weight: 10
 id: "get-changes-coordinates"
-title: "Get changes coordinates"
 url: "comparison/get-changes-coordinates"
+title: "Get changes coordinates"
+productName: "GroupDocs.Comparison Cloud"
+weight: 10
+description: ""
+keywords: ""
 ---
 
  

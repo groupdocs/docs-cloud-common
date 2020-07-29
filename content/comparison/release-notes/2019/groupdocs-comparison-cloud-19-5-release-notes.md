@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "groupdocs-comparison-cloud-19-5-release-notes"
-title: "GroupDocs.Comparison Cloud 19.5 Release Notes"
 url: "comparison/groupdocs-comparison-cloud-19-5-release-notes"
+title: "GroupDocs.Comparison Cloud 19.5 Release Notes"
+productName: "GroupDocs.Comparison Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

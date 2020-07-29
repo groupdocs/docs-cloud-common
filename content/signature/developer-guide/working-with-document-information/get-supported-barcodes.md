@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "get-supported-barcodes"
-title: "Get Supported Barcodes"
 url: "signature/get-supported-barcodes"
+title: "Get Supported Barcodes"
+productName: "GroupDocs.Signature Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 

@@ -1,7 +1,10 @@
 ---
 id: "html-viewer-responsive-layout"
-title: "HTML Viewer - Responsive layout"
 url: "viewer/html-viewer-responsive-layout"
+title: "HTML Viewer - Responsive layout"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

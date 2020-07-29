@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "release-notes"
-title: "Release Notes"
 url: "signature/release-notes"
+title: "Release Notes"
+productName: "GroupDocs.Signature Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 ### Release Notes ###

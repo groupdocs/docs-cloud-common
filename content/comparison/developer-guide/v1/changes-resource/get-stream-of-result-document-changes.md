@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "get-stream-of-result-document-changes"
-title: "Get Stream of Result Document - Changes"
 url: "comparison/get-stream-of-result-document-changes"
+title: "Get Stream of Result Document - Changes"
+productName: "GroupDocs.Comparison Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

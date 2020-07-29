@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "creating-and-managing-account"
-title: "Creating and Managing Account"
 url: "total/creating-and-managing-account"
+title: "Creating and Managing Account"
+productName: "GroupDocs.Total Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
  

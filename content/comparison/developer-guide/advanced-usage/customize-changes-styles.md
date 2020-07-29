@@ -1,8 +1,11 @@
 ---
-weight: 10
 id: "customize-changes-styles"
-title: "Customize changes styles"
 url: "comparison/customize-changes-styles"
+title: "Customize changes styles"
+productName: "GroupDocs.Comparison Cloud"
+weight: 10
+description: ""
+keywords: ""
 ---
 
  

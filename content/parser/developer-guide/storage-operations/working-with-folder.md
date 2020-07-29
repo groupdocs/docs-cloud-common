@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "working-with-folder"
-title: "Working With Folder"
 url: "parser/working-with-folder"
+title: "Working With Folder"
+productName: "GroupDocs.Parser Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

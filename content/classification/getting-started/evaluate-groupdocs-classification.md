@@ -1,8 +1,11 @@
 ---
-weight: 5
 id: "evaluate-groupdocs-classification"
-title: "Evaluate GroupDocs.Classification"
 url: "classification/evaluate-groupdocs-classification"
+title: "Evaluate GroupDocs.Classification"
+productName: "GroupDocs.Classification Cloud"
+weight: 5
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

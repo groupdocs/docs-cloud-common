@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "search-options-objects"
-title: "Search Options Objects"
 url: "signature/search-options-objects"
+title: "Search Options Objects"
+productName: "GroupDocs.Signature Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

@@ -1,8 +1,11 @@
 ---
-weight: 15
 id: "document-pages"
-title: "Working With Document Pages"
 url: "viewer/document-pages"
+title: "Working With Document Pages"
+productName: "GroupDocs.Viewer Cloud"
+weight: 15
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

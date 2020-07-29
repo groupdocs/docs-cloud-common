@@ -1,8 +1,11 @@
 ---
-weight: 5
 id: "working-with-storage"
-title: "Working With Storage"
 url: "viewer/working-with-storage"
+title: "Working With Storage"
+productName: "GroupDocs.Viewer Cloud"
+weight: 5
+description: ""
+keywords: ""
 ---
 
 

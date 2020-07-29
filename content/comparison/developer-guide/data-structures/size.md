@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "size"
-title: "Size"
 url: "comparison/size"
+title: "Size"
+productName: "GroupDocs.Comparison Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 ## Size ##

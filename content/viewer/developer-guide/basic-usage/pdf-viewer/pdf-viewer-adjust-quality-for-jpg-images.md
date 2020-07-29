@@ -1,7 +1,10 @@
 ---
 id: "pdf-viewer-adjust-quality-for-jpg-images"
-title: "PDF Viewer - Adjust quality for JPG images"
 url: "viewer/pdf-viewer-adjust-quality-for-jpg-images"
+title: "PDF Viewer - Adjust quality for JPG images"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

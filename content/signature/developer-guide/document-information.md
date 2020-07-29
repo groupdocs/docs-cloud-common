@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "document-information"
-title: "Document Information"
 url: "signature/document-information"
+title: "Document Information"
+productName: "GroupDocs.Signature Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

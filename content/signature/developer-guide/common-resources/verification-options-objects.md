@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "verification-options-objects"
-title: "Verification Options Objects"
 url: "signature/verification-options-objects"
+title: "Verification Options Objects"
+productName: "GroupDocs.Signature Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

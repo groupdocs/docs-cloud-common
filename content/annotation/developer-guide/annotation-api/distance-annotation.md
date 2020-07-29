@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "distance-annotation"
-title: "Distance Annotation"
 url: "annotation/distance-annotation"
+title: "Distance Annotation"
+productName: "GroupDocs.Annotation Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

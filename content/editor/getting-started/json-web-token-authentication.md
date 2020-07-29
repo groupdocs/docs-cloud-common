@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "json-web-token-authentication"
-title: "JSON Web Token Authentication"
 url: "editor/json-web-token-authentication"
+title: "JSON Web Token Authentication"
+productName: "GroupDocs.Editor Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 

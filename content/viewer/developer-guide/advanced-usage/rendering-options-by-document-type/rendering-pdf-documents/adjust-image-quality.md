@@ -1,7 +1,10 @@
 ---
 id: "adjust-image-quality"
-title: "Adjust image quality"
 url: "viewer/adjust-image-quality"
+title: "Adjust image quality"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

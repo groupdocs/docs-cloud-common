@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "groupdocs-editor-cloud-19-11-release-notes"
-title: "GroupDocs.Editor Cloud 19.11 Release Notes"
 url: "editor/groupdocs-editor-cloud-19-11-release-notes"
+title: "GroupDocs.Editor Cloud 19.11 Release Notes"
+productName: "GroupDocs.Editor Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

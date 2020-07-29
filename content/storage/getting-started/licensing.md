@@ -1,8 +1,11 @@
 ---
-weight: 6
 id: "licensing"
-title: "Licensing"
 url: "storage/licensing"
+title: "Licensing"
+productName: "GroupDocs.Storage Cloud"
+weight: 6
+description: ""
+keywords: ""
 ---
 
 

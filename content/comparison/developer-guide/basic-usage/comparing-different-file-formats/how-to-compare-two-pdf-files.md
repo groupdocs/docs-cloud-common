@@ -1,8 +1,11 @@
 ---
-weight: 10
 id: "how-to-compare-two-pdf-files"
-title: "How to compare two PDF files"
 url: "comparison/how-to-compare-two-pdf-files"
+title: "How to compare two PDF files"
+productName: "GroupDocs.Comparison Cloud"
+weight: 10
+description: ""
+keywords: ""
 ---
 
  

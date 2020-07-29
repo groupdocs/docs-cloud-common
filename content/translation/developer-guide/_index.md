@@ -1,7 +1,10 @@
 ---
 id: "developer-guide"
-title: "Developer Guide"
 url: "translation/developer-guide"
+title: "Developer Guide"
+productName: "GroupDocs.Translation Cloud"
+description: ""
+keywords: ""
 ---
 
 

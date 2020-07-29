@@ -1,8 +1,11 @@
 ---
-weight: 10
 id: "compare-documents-protected-with-password"
-title: "Compare documents protected with password"
 url: "comparison/compare-documents-protected-with-password"
+title: "Compare documents protected with password"
+productName: "GroupDocs.Comparison Cloud"
+weight: 10
+description: ""
+keywords: ""
 ---
 
  

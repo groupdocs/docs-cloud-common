@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "working-with-files"
-title: "Working With Files"
 url: "parser/working-with-files"
+title: "Working With Files"
+productName: "GroupDocs.Parser Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

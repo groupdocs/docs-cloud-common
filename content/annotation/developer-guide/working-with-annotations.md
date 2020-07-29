@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "working-with-annotations"
-title: "Working with Annotations"
 url: "annotation/working-with-annotations"
+title: "Working with Annotations"
+productName: "GroupDocs.Annotation Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "working-with-charts"
-title: "Working With Charts"
 url: "assembly/working-with-charts"
+title: "Working With Charts"
+productName: "GroupDocs.Assembly Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 

@@ -1,7 +1,10 @@
 ---
 id: "working-with-folder"
-title: "Working With Folder"
 url: "watermark/working-with-folder"
+title: "Working With Folder"
+productName: "GroupDocs.Watermark Cloud"
+description: ""
+keywords: ""
 ---
 
 

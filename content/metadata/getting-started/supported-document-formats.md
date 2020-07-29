@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "supported-document-formats"
-title: "Supported Document Formats"
 url: "metadata/supported-document-formats"
+title: "Supported Document Formats"
+productName: "GroupDocs.Metadata Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 

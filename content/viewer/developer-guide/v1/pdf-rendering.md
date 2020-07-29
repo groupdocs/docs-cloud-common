@@ -1,8 +1,11 @@
 ---
-weight: 12
 id: "pdf-rendering"
-title: "PDF Rendering"
 url: "viewer/pdf-rendering"
+title: "PDF Rendering"
+productName: "GroupDocs.Viewer Cloud"
+weight: 12
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

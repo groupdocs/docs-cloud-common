@@ -1,8 +1,11 @@
 ---
-weight: 14
 id: "document-information"
-title: "Document Information"
 url: "viewer/document-information"
+title: "Document Information"
+productName: "GroupDocs.Viewer Cloud"
+weight: 14
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

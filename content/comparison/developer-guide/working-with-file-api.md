@@ -1,8 +1,11 @@
 ---
-weight: 5
 id: "working-with-file-api"
-title: "Working with File Api"
 url: "comparison/working-with-file-api"
+title: "Working with File Api"
+productName: "GroupDocs.Comparison Cloud"
+weight: 5
+description: ""
+keywords: ""
 ---
 
 

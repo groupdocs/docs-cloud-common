@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "pages-operations"
-title: "Pages Operations"
 url: "merger/pages-operations"
+title: "Pages Operations"
+productName: "GroupDocs.Merger Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 ### Pages Operations ###

@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "jsonrequest-fields-description"
-title: "JsonRequest Fields Description"
 url: "comparison/jsonrequest-fields-description"
+title: "JsonRequest Fields Description"
+productName: "GroupDocs.Comparison Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

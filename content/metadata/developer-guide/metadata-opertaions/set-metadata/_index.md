@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "set-metadata"
-title: "Set Metadata"
 url: "metadata/set-metadata"
+title: "Set Metadata"
+productName: "GroupDocs.Metadata Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 

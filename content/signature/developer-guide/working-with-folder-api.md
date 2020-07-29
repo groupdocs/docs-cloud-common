@@ -1,8 +1,11 @@
 ---
-weight: 12
 id: "working-with-folder-api"
-title: "Working with Folder API"
 url: "signature/working-with-folder-api"
+title: "Working with Folder API"
+productName: "GroupDocs.Signature Cloud"
+weight: 12
+description: ""
+keywords: ""
 ---
 
 

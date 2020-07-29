@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "create-a-new-folder"
-title: "Create a New Folder"
 url: "storage/create-a-new-folder"
+title: "Create a New Folder"
+productName: "GroupDocs.Storage Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

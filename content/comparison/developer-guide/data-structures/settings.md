@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "settings"
-title: "Settings"
 url: "comparison/settings"
+title: "Settings"
+productName: "GroupDocs.Comparison Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 ## Settings ##

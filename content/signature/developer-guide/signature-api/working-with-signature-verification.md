@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "working-with-signature-verification"
-title: "Working with Signature Verification"
 url: "signature/working-with-signature-verification"
+title: "Working with Signature Verification"
+productName: "GroupDocs.Signature Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 

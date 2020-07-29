@@ -1,8 +1,11 @@
 ---
-weight: 6
 id: "licensing"
-title: "Licensing"
 url: "merger/licensing"
+title: "Licensing"
+productName: "GroupDocs.Merger Cloud"
+weight: 6
+description: ""
+keywords: ""
 ---
 
 

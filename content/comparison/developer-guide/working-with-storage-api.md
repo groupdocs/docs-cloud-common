@@ -1,10 +1,11 @@
 ---
-keywords: ""
-description: ""
-weight: 4
 id: "working-with-storage-api"
-title: "Working with Storage API"
 url: "comparison/working-with-storage-api"
+title: "Working with Storage API"
+productName: "GroupDocs.Comparison Cloud"
+description: ""
+keywords: ""
+weight: 4
 ---
 
 

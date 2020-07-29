@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "remove-pages"
-title: "Remove Pages"
 url: "merger/remove-pages"
+title: "Remove Pages"
+productName: "GroupDocs.Merger Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

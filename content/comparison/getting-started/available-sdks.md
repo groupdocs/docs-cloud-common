@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "available-sdks"
-title: "Available SDKs"
 url: "comparison/available-sdks"
+title: "Available SDKs"
+productName: "GroupDocs.Comparison Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 

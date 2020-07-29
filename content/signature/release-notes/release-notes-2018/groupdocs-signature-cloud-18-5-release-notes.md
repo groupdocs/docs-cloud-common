@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "groupdocs-signature-cloud-18-5-release-notes"
-title: "GroupDocs.Signature Cloud 18.5 Release Notes"
 url: "signature/groupdocs-signature-cloud-18-5-release-notes"
+title: "GroupDocs.Signature Cloud 18.5 Release Notes"
+productName: "GroupDocs.Signature Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 ## Major Features ##

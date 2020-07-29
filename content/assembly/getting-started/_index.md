@@ -1,7 +1,10 @@
 ---
-weight: 1
 id: "getting-started"
-title: "Getting Started"
 url: "assembly/getting-started"
+title: "Getting Started"
+productName: "GroupDocs.Assembly Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 

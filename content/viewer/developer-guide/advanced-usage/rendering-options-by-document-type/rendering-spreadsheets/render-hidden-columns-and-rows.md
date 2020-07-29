@@ -1,7 +1,10 @@
 ---
 id: "render-hidden-columns-and-rows"
-title: "Render hidden columns and rows"
 url: "viewer/render-hidden-columns-and-rows"
+title: "Render hidden columns and rows"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

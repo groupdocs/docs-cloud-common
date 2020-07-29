@@ -1,8 +1,11 @@
 ---
-weight: 92
 id: "pricing-plan"
-title: "Pricing Plan"
 url: "watermark/pricing-plan"
+title: "Pricing Plan"
+productName: "GroupDocs.Watermark Cloud"
+weight: 92
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

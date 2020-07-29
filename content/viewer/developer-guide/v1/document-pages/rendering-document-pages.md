@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "rendering-document-pages"
-title: "Rendering Document Pages"
 url: "viewer/rendering-document-pages"
+title: "Rendering Document Pages"
+productName: "GroupDocs.Viewer Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

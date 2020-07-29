@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "comparisonoptions"
-title: "ComparisonOptions"
 url: "comparison/comparisonoptions"
+title: "ComparisonOptions"
+productName: "GroupDocs.Comparison Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 ## ComparisonOptions ##

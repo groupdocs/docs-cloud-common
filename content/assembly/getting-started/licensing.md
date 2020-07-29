@@ -1,8 +1,11 @@
 ---
-weight: 6
 id: "licensing"
-title: "Licensing"
 url: "assembly/licensing"
+title: "Licensing"
+productName: "GroupDocs.Assembly Cloud"
+weight: 6
+description: ""
+keywords: ""
 ---
 
 

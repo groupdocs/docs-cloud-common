@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "itemsstyle"
-title: "ItemsStyle"
 url: "comparison/itemsstyle"
+title: "ItemsStyle"
+productName: "GroupDocs.Comparison Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 ## ItemsStyle ##

@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "data-structures"
-title: "Data structures"
 url: "conversion/data-structures"
+title: "Data structures"
+productName: "GroupDocs.Conversion Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

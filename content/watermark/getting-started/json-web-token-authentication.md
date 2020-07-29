@@ -1,8 +1,11 @@
 ---
-weight: 9
 id: "json-web-token-authentication"
-title: "JSON Web Token Authentication"
 url: "watermark/json-web-token-authentication"
+title: "JSON Web Token Authentication"
+productName: "GroupDocs.Watermark Cloud"
+weight: 9
+description: ""
+keywords: ""
 ---
 
 

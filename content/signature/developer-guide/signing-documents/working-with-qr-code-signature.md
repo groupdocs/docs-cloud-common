@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "working-with-qr-code-signature"
-title: "Working with QR Code Signature"
 url: "signature/working-with-qr-code-signature"
+title: "Working with QR Code Signature"
+productName: "GroupDocs.Signature Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

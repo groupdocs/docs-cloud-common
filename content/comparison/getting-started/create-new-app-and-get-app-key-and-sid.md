@@ -1,8 +1,11 @@
 ---
-weight: 9
 id: "create-new-app-and-get-app-key-and-sid"
-title: "Create New App and Get App Key and SID"
 url: "comparison/create-new-app-and-get-app-key-and-sid"
+title: "Create New App and Get App Key and SID"
+productName: "GroupDocs.Comparison Cloud"
+weight: 9
+description: ""
+keywords: ""
 ---
 
 

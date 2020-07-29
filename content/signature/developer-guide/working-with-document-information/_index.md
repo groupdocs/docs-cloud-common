@@ -1,8 +1,11 @@
 ---
-weight: 14
 id: "working-with-document-information"
-title: "Working with Document Information"
 url: "signature/working-with-document-information"
+title: "Working with Document Information"
+productName: "GroupDocs.Signature Cloud"
+weight: 14
+description: ""
+keywords: ""
 ---
 
 ## File Formats API ##

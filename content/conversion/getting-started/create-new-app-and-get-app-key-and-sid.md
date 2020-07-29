@@ -1,8 +1,11 @@
 ---
-weight: 10
 id: "create-new-app-and-get-app-key-and-sid"
-title: "Create New App and Get App Key and SID"
 url: "conversion/create-new-app-and-get-app-key-and-sid"
+title: "Create New App and Get App Key and SID"
+productName: "GroupDocs.Conversion Cloud"
+weight: 10
+description: ""
+keywords: ""
 ---
 
 

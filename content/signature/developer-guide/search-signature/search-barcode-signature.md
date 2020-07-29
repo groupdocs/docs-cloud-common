@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "search-barcode-signature"
-title: "Search Barcode Signature"
 url: "signature/search-barcode-signature"
+title: "Search Barcode Signature"
+productName: "GroupDocs.Signature Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

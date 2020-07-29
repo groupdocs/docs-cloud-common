@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "working-with-presentations"
-title: "Working with Presentations"
 url: "editor/working-with-presentations"
+title: "Working with Presentations"
+productName: "GroupDocs.Editor Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 

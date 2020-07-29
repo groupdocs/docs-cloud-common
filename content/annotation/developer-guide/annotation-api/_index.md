@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "annotation-api"
-title: "Working with Annotation API"
 url: "annotation/annotation-api"
+title: "Working with Annotation API"
+productName: "GroupDocs.Annotation Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 

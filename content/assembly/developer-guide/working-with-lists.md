@@ -1,8 +1,11 @@
 ---
-weight: 5
 id: "working-with-lists"
-title: "Working With Lists"
 url: "assembly/working-with-lists"
+title: "Working With Lists"
+productName: "GroupDocs.Assembly Cloud"
+weight: 5
+description: ""
+keywords: ""
 ---
 
 

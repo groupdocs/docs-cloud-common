@@ -1,7 +1,10 @@
 ---
 id: "get-view-info-for-cad-drawing"
-title: "Get View Info for CAD Drawing"
 url: "viewer/get-view-info-for-cad-drawing"
+title: "Get View Info for CAD Drawing"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

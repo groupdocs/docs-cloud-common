@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "working-with-folder-api"
-title: "Working with Folder API"
 url: "conversion/working-with-folder-api"
+title: "Working with Folder API"
+productName: "GroupDocs.Conversion Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 

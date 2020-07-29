@@ -1,7 +1,10 @@
 ---
 id: "get-view-info-for-ms-project-document"
-title: "Get View Info for MS Project Document"
 url: "viewer/get-view-info-for-ms-project-document"
+title: "Get View Info for MS Project Document"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

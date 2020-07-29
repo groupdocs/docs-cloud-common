@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "release-notes"
-title: "Release Notes"
 url: "viewer/release-notes"
+title: "Release Notes"
+productName: "GroupDocs.Viewer Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 ### Release Notes ###

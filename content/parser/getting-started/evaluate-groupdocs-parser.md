@@ -1,8 +1,11 @@
 ---
-weight: 6
 id: "evaluate-groupdocs-parser"
-title: "Evaluate GroupDocs.Parser"
 url: "parser/evaluate-groupdocs-parser"
+title: "Evaluate GroupDocs.Parser"
+productName: "GroupDocs.Parser Cloud"
+weight: 6
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "getting-started"
-title: "Getting Started"
 url: "signature/getting-started"
+title: "Getting Started"
+productName: "GroupDocs.Signature Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 ### Getting Started ###

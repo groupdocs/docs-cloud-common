@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "join-multiple-documents"
-title: "Join Multiple Documents"
 url: "merger/join-multiple-documents"
+title: "Join Multiple Documents"
+productName: "GroupDocs.Merger Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

@@ -1,7 +1,10 @@
 ---
 id: "add-image-watermarks"
-title: "Add Image Watermarks"
 url: "watermark/add-image-watermarks"
+title: "Add Image Watermarks"
+productName: "GroupDocs.Watermark Cloud"
+description: ""
+keywords: ""
 ---
 
 

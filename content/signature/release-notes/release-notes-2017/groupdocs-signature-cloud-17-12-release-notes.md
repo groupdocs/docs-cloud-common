@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "groupdocs-signature-cloud-17-12-release-notes"
-title: "GroupDocs.Signature Cloud 17.12 Release Notes"
 url: "signature/groupdocs-signature-cloud-17-12-release-notes"
+title: "GroupDocs.Signature Cloud 17.12 Release Notes"
+productName: "GroupDocs.Signature Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

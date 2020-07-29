@@ -1,7 +1,10 @@
 ---
 id: "developer-guide"
-title: "Developer Guide"
 url: "watermark/developer-guide"
+title: "Developer Guide"
+productName: "GroupDocs.Watermark Cloud"
+description: ""
+keywords: ""
 ---
 
 ### Developer Guide ###

@@ -1,8 +1,11 @@
 ---
-weight: 5
 id: "supported-platforms"
-title: "Supported Platforms"
 url: "parser/supported-platforms"
+title: "Supported Platforms"
+productName: "GroupDocs.Parser Cloud"
+weight: 5
+description: ""
+keywords: ""
 ---
 
 ## Supported Platforms ##

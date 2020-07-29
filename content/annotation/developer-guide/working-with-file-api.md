@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "working-with-file-api"
-title: "Working with File Api"
 url: "annotation/working-with-file-api"
+title: "Working with File Api"
+productName: "GroupDocs.Annotation Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 

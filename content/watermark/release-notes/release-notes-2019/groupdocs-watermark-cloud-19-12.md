@@ -1,7 +1,10 @@
 ---
 id: "groupdocs-watermark-cloud-19-12"
-title: "GroupDocs.Watermark Cloud 19.12 Release Notes"
 url: "watermark/groupdocs-watermark-cloud-19-12"
+title: "GroupDocs.Watermark Cloud 19.12 Release Notes"
+productName: "GroupDocs.Watermark Cloud"
+description: ""
+keywords: ""
 ---
 
 

@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "configure-dropbox-storage"
-title: "Configure DropBox Storage"
 url: "total/configure-dropbox-storage"
+title: "Configure DropBox Storage"
+productName: "GroupDocs.Total Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

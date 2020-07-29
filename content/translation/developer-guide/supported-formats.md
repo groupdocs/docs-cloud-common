@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "supported-formats"
-title: "Supported Formats"
 url: "translation/supported-formats"
+title: "Supported Formats"
+productName: "GroupDocs.Translation Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 GroupDocs.Translation Cloud allows to translate Microsoft Word and Excel documents. User should specify format of document to translate putting in the request’s body:

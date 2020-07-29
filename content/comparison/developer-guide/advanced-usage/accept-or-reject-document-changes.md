@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "accept-or-reject-document-changes"
-title: "Accept or Reject document changes"
 url: "comparison/accept-or-reject-document-changes"
+title: "Accept or Reject document changes"
+productName: "GroupDocs.Comparison Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 

@@ -1,8 +1,11 @@
 ---
-weight: 5
 id: "evaluate-groupdocs-merger"
-title: "Evaluate GroupDocs.Merger"
 url: "merger/evaluate-groupdocs-merger"
+title: "Evaluate GroupDocs.Merger"
+productName: "GroupDocs.Merger Cloud"
+weight: 5
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

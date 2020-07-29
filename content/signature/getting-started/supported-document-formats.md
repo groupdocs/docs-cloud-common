@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "supported-document-formats"
-title: "Supported Document Formats"
 url: "signature/supported-document-formats"
+title: "Supported Document Formats"
+productName: "GroupDocs.Signature Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 # Supported File Formats Cloud V2 #

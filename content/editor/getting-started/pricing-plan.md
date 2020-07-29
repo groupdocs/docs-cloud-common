@@ -1,8 +1,11 @@
 ---
-weight: 9
 id: "pricing-plan"
-title: "Pricing Plan"
 url: "editor/pricing-plan"
+title: "Pricing Plan"
+productName: "GroupDocs.Editor Cloud"
+weight: 9
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

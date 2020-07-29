@@ -1,8 +1,11 @@
 ---
-weight: 8
 id: "json-web-token-authentication"
-title: "JSON Web Token Authentication"
 url: "signature/json-web-token-authentication"
+title: "JSON Web Token Authentication"
+productName: "GroupDocs.Signature Cloud"
+weight: 8
+description: ""
+keywords: ""
 ---
 
 

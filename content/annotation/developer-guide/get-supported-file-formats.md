@@ -1,8 +1,11 @@
 ---
-weight: 9
 id: "get-supported-file-formats"
-title: "Get Supported File Formats"
 url: "annotation/get-supported-file-formats"
+title: "Get Supported File Formats"
+productName: "GroupDocs.Annotation Cloud"
+weight: 9
+description: ""
+keywords: ""
 ---
 
 

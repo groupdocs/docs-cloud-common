@@ -1,7 +1,10 @@
 ---
 id: "get-view-info-for-outlook-data-file"
-title: "Get View Info for Outlook Data File"
 url: "viewer/get-view-info-for-outlook-data-file"
+title: "Get View Info for Outlook Data File"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

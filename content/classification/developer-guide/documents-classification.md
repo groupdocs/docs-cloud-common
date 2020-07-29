@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "documents-classification"
-title: "Documents Classification"
 url: "classification/documents-classification"
+title: "Documents Classification"
+productName: "GroupDocs.Classification Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 

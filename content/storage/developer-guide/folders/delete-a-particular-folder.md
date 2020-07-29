@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "delete-a-particular-folder"
-title: "Delete a Particular Folder"
 url: "storage/delete-a-particular-folder"
+title: "Delete a Particular Folder"
+productName: "GroupDocs.Storage Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 

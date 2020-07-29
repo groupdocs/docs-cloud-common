@@ -1,7 +1,10 @@
 ---
 id: "get-view-info-for-archive-file"
-title: "Get View Info for Archive File"
 url: "viewer/get-view-info-for-archive-file"
+title: "Get View Info for Archive File"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

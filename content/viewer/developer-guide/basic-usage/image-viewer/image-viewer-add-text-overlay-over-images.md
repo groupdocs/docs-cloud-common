@@ -1,7 +1,10 @@
 ---
 id: "image-viewer-add-text-overlay-over-images"
-title: "Image Viewer - Add text overlay over images"
 url: "viewer/image-viewer-add-text-overlay-over-images"
+title: "Image Viewer - Add text overlay over images"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

@@ -1,7 +1,10 @@
 ---
 id: "how-to-self-host-groupdocs-viewer-cloud-with-docker"
-title: "How to self-host GroupDocs.Viewer Cloud with Docker"
 url: "viewer/how-to-self-host-groupdocs-viewer-cloud-with-docker"
+title: "How to self-host GroupDocs.Viewer Cloud with Docker"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
 

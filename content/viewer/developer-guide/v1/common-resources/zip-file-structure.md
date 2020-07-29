@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "zip-file-structure"
-title: "ZIP File Structure"
 url: "viewer/zip-file-structure"
+title: "ZIP File Structure"
+productName: "GroupDocs.Viewer Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

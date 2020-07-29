@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "rectangle"
-title: "Rectangle"
 url: "comparison/rectangle"
+title: "Rectangle"
+productName: "GroupDocs.Comparison Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 ## Rectangle ##

@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "fileinfo"
-title: "FileInfo"
 url: "comparison/fileinfo"
+title: "FileInfo"
+productName: "GroupDocs.Comparison Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 ## FileInfo ##

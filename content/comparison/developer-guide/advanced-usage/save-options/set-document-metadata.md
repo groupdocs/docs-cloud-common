@@ -1,8 +1,11 @@
 ---
-weight: 10
 id: "set-document-metadata"
-title: "Set document metadata"
 url: "comparison/set-document-metadata"
+title: "Set document metadata"
+productName: "GroupDocs.Comparison Cloud"
+weight: 10
+description: ""
+keywords: ""
 ---
 
  

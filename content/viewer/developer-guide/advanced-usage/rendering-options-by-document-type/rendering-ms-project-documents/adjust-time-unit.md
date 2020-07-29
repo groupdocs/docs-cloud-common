@@ -1,7 +1,10 @@
 ---
 id: "adjust-time-unit"
-title: "Adjust time unit"
 url: "viewer/adjust-time-unit"
+title: "Adjust time unit"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

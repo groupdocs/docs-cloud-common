@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "page-resources"
-title: "Page Resources"
 url: "viewer/page-resources"
+title: "Page Resources"
+productName: "GroupDocs.Viewer Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

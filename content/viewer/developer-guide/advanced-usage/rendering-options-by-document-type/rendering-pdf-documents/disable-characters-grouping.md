@@ -1,7 +1,10 @@
 ---
 id: "disable-characters-grouping"
-title: "Disable characters grouping"
 url: "viewer/disable-characters-grouping"
+title: "Disable characters grouping"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

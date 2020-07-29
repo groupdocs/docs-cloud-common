@@ -1,7 +1,10 @@
 ---
 id: "extract-metadata-by-property-name-match-regex"
-title: "Extract Metadata By Property Name Match Regex"
 url: "metadata/extract-metadata-by-property-name-match-regex"
+title: "Extract Metadata By Property Name Match Regex"
+productName: "GroupDocs.Metadata Cloud"
+description: ""
+keywords: ""
 ---
 
 

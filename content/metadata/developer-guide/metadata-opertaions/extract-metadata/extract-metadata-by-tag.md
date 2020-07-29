@@ -1,7 +1,10 @@
 ---
 id: "extract-metadata-by-tag"
-title: "Extract Metadata By Tag"
 url: "metadata/extract-metadata-by-tag"
+title: "Extract Metadata By Tag"
+productName: "GroupDocs.Metadata Cloud"
+description: ""
+keywords: ""
 ---
 
 

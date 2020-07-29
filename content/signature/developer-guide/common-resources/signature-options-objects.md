@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "signature-options-objects"
-title: "Signature Options Objects"
 url: "signature/signature-options-objects"
+title: "Signature Options Objects"
+productName: "GroupDocs.Signature Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

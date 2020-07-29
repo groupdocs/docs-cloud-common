@@ -1,7 +1,10 @@
 ---
-weight: 6
 id: "groupdocs-classification-cloud"
-title: "GroupDocs.Classification Cloud"
 url: "total/groupdocs-classification-cloud"
+title: "GroupDocs.Classification Cloud"
+productName: "GroupDocs.Total Cloud"
+weight: 6
+description: ""
+keywords: ""
 ---
 

@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "groupdocs-merger-cloud-19-10-release-notes"
-title: "GroupDocs.Merger Cloud 19.10 Release Notes"
 url: "merger/groupdocs-merger-cloud-19-10-release-notes"
+title: "GroupDocs.Merger Cloud 19.10 Release Notes"
+productName: "GroupDocs.Merger Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "rendering-documents"
-title: "Rendering Documents"
 url: "annotation/rendering-documents"
+title: "Rendering Documents"
+productName: "GroupDocs.Annotation Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

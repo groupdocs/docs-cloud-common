@@ -1,8 +1,11 @@
 ---
-weight: 5
 id: "json-request-details"
-title: "JSON Request Details"
 url: "translation/json-request-details"
+title: "JSON Request Details"
+productName: "GroupDocs.Translation Cloud"
+weight: 5
+description: ""
+keywords: ""
 ---
 
 User should put in the requests body following information to translate a document:

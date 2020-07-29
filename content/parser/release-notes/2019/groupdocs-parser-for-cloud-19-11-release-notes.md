@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "groupdocs-parser-for-cloud-19-11-release-notes"
-title: "GroupDocs.Parser for Cloud 19.11 Release Notes"
 url: "parser/groupdocs-parser-for-cloud-19-11-release-notes"
+title: "GroupDocs.Parser for Cloud 19.11 Release Notes"
+productName: "GroupDocs.Parser Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

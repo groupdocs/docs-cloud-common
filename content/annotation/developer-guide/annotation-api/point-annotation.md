@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "point-annotation"
-title: "Point Annotation"
 url: "annotation/point-annotation"
+title: "Point Annotation"
+productName: "GroupDocs.Annotation Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

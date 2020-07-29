@@ -1,8 +1,11 @@
 ---
-weight: 6
 id: "verifysettings"
-title: "VerifySettings"
 url: "signature/verifysettings"
+title: "VerifySettings"
+productName: "GroupDocs.Signature Cloud"
+weight: 6
+description: ""
+keywords: ""
 ---
 
 # VerifySettings #

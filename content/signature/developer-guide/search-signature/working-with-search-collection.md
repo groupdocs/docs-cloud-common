@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "working-with-search-collection"
-title: "Working with Search Collection"
 url: "signature/working-with-search-collection"
+title: "Working with Search Collection"
+productName: "GroupDocs.Signature Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

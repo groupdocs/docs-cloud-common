@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "add-metadata"
-title: "Add Metadata"
 url: "metadata/add-metadata"
+title: "Add Metadata"
+productName: "GroupDocs.Metadata Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 

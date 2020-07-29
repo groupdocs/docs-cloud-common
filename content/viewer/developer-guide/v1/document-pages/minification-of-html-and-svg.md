@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "minification-of-html-and-svg"
-title: "Minification of HTML and SVG"
 url: "viewer/minification-of-html-and-svg"
+title: "Minification of HTML and SVG"
+productName: "GroupDocs.Viewer Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

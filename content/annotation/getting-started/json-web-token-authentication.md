@@ -1,8 +1,11 @@
 ---
-weight: 8
 id: "json-web-token-authentication"
-title: "JSON Web Token Authentication"
 url: "annotation/json-web-token-authentication"
+title: "JSON Web Token Authentication"
+productName: "GroupDocs.Annotation Cloud"
+weight: 8
+description: ""
+keywords: ""
 ---
 
 

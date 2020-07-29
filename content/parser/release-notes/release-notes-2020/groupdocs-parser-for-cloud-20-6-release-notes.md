@@ -1,7 +1,10 @@
 ---
 id: "groupdocs-parser-for-cloud-20-6-release-notes"
-title: "GroupDocs.Parser for Cloud 20.6 Release Notes"
 url: "parser/groupdocs-parser-for-cloud-20-6-release-notes"
+title: "GroupDocs.Parser for Cloud 20.6 Release Notes"
+productName: "GroupDocs.Parser Cloud"
+description: ""
+keywords: ""
 ---
 
 

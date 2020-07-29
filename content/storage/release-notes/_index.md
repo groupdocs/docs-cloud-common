@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "release-notes"
-title: "Release Notes"
 url: "storage/release-notes"
+title: "Release Notes"
+productName: "GroupDocs.Storage Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 ### Release Notes ###

@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "parse-by-template"
-title: "Parse by Template"
 url: "parser/parse-by-template"
+title: "Parse by Template"
+productName: "GroupDocs.Parser Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

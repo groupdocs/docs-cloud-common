@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "get-template"
-title: "Get Template"
 url: "parser/get-template"
+title: "Get Template"
+productName: "GroupDocs.Parser Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 

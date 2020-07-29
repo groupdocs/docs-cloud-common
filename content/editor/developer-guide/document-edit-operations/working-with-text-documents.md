@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "working-with-text-documents"
-title: "Working with Text Documents"
 url: "editor/working-with-text-documents"
+title: "Working with Text Documents"
+productName: "GroupDocs.Editor Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 

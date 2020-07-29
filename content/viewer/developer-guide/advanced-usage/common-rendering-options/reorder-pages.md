@@ -1,7 +1,10 @@
 ---
 id: "reorder-pages"
-title: "Reorder pages"
 url: "viewer/reorder-pages"
+title: "Reorder pages"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "inforesult"
-title: "InfoResult"
 url: "signature/inforesult"
+title: "InfoResult"
+productName: "GroupDocs.Signature Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 # InfoResult #

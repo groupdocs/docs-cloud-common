@@ -1,7 +1,10 @@
 ---
 id: "groupdocs-viewer-cloud-20-5-release-notes"
-title: "GroupDocs.Viewer Cloud 20.5 Release Notes"
 url: "viewer/groupdocs-viewer-cloud-20-5-release-notes"
+title: "GroupDocs.Viewer Cloud 20.5 Release Notes"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
 This page contains release notes for GroupDocs.Viewer Cloud 20.5.

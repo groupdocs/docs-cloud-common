@@ -1,8 +1,11 @@
 ---
-weight: 16
 id: "attachments"
-title: "Working with Attachments"
 url: "viewer/attachments"
+title: "Working with Attachments"
+productName: "GroupDocs.Viewer Cloud"
+weight: 16
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

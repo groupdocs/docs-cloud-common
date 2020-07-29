@@ -1,8 +1,11 @@
 ---
-weight: 9
 id: "json-web-token-authentication"
-title: "JSON Web Token Authentication"
 url: "conversion/json-web-token-authentication"
+title: "JSON Web Token Authentication"
+productName: "GroupDocs.Conversion Cloud"
+weight: 9
+description: ""
+keywords: ""
 ---
 
 

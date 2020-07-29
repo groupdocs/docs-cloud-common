@@ -1,8 +1,11 @@
 ---
-weight: 10
 id: "compare-sensitivity"
-title: "Compare sensitivity"
 url: "comparison/compare-sensitivity"
+title: "Compare sensitivity"
+productName: "GroupDocs.Comparison Cloud"
+weight: 10
+description: ""
+keywords: ""
 ---
 
  

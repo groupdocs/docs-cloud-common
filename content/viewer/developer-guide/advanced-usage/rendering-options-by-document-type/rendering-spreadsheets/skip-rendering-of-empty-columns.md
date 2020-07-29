@@ -1,7 +1,10 @@
 ---
 id: "skip-rendering-of-empty-columns"
-title: "Skip rendering of empty columns"
 url: "viewer/skip-rendering-of-empty-columns"
+title: "Skip rendering of empty columns"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

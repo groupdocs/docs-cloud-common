@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "groupdocs-annotation-cloud-19-5-release-notes"
-title: "GroupDocs.Annotation Cloud 19.5 Release Notes"
 url: "annotation/groupdocs-annotation-cloud-19-5-release-notes"
+title: "GroupDocs.Annotation Cloud 19.5 Release Notes"
+productName: "GroupDocs.Annotation Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

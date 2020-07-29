@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "parse-by-template-of-a-document-inside-a-container"
-title: "Parse by Template of a Document Inside a Container"
 url: "parser/parse-by-template-of-a-document-inside-a-container"
+title: "Parse by Template of a Document Inside a Container"
+productName: "GroupDocs.Parser Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

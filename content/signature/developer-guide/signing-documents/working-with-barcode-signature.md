@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "working-with-barcode-signature"
-title: "Working with Barcode Signature"
 url: "signature/working-with-barcode-signature"
+title: "Working with Barcode Signature"
+productName: "GroupDocs.Signature Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

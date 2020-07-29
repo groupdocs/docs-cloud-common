@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "move-pages"
-title: "Move Pages"
 url: "merger/move-pages"
+title: "Move Pages"
+productName: "GroupDocs.Merger Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

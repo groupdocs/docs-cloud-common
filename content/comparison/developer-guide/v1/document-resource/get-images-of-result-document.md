@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "get-images-of-result-document"
-title: "Get Images of Result Document"
 url: "comparison/get-images-of-result-document"
+title: "Get Images of Result Document"
+productName: "GroupDocs.Comparison Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

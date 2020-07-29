@@ -1,7 +1,10 @@
 ---
 id: "fliprotate-pages"
-title: "Flip/rotate pages"
 url: "viewer/fliprotate-pages"
+title: "Flip/rotate pages"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "supported-languages"
-title: "Supported Languages"
 url: "translation/supported-languages"
+title: "Supported Languages"
+productName: "GroupDocs.Translation Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 GroupDocs.Translation Cloud supports 9 languages and 16 language pairs. User should specify language pair by putting in the request’s:

@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "supported-file-formats"
-title: "Supported File Formats"
 url: "classification/supported-file-formats"
+title: "Supported File Formats"
+productName: "GroupDocs.Classification Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 

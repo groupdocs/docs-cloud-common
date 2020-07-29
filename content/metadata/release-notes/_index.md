@@ -1,6 +1,9 @@
 ---
 id: "release-notes"
-title: "Release Notes"
 url: "metadata/release-notes"
+title: "Release Notes"
+productName: "GroupDocs.Metadata Cloud"
+description: ""
+keywords: ""
 ---
 

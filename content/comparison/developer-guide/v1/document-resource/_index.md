@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "document-resource"
-title: "Document Resource"
 url: "comparison/document-resource"
+title: "Document Resource"
+productName: "GroupDocs.Comparison Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

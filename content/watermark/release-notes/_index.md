@@ -1,7 +1,10 @@
 ---
 id: "release-notes"
-title: "Release Notes"
 url: "watermark/release-notes"
+title: "Release Notes"
+productName: "GroupDocs.Watermark Cloud"
+description: ""
+keywords: ""
 ---
 
 ### Release Notes ###

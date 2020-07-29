@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "technical-support"
-title: "Technical Support"
 url: "metadata/technical-support"
+title: "Technical Support"
+productName: "GroupDocs.Metadata Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

@@ -1,7 +1,10 @@
 ---
 id: "working-with-files"
-title: "Working With Files"
 url: "metadata/working-with-files"
+title: "Working With Files"
+productName: "GroupDocs.Metadata Cloud"
+description: ""
+keywords: ""
 ---
 
 

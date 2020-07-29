@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "classifyfile-request-parameters"
-title: "classify/file Request Rarameters"
 url: "classification/classifyfile-request-parameters"
+title: "classify/file Request Rarameters"
+productName: "GroupDocs.Classification Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 |Parameter|In|Type|#Default value|Comment

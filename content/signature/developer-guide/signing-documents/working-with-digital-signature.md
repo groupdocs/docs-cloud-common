@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "working-with-digital-signature"
-title: "Working with Digital Signature"
 url: "signature/working-with-digital-signature"
+title: "Working with Digital Signature"
+productName: "GroupDocs.Signature Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

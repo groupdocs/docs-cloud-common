@@ -1,8 +1,11 @@
 ---
-weight: 10
 id: "fonts-resource"
-title: "Fonts Resource"
 url: "viewer/fonts-resource"
+title: "Fonts Resource"
+productName: "GroupDocs.Viewer Cloud"
+weight: 10
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

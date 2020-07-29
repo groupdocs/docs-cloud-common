@@ -1,8 +1,11 @@
 ---
-weight: 6
 id: "supported-qr-codes"
-title: "Supported QR-Codes"
 url: "signature/supported-qr-codes"
+title: "Supported QR-Codes"
+productName: "GroupDocs.Signature Cloud"
+weight: 6
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

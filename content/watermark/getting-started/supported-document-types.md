@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "supported-document-types"
-title: "Supported Document Formats"
 url: "watermark/supported-document-types"
+title: "Supported Document Formats"
+productName: "GroupDocs.Watermark Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 

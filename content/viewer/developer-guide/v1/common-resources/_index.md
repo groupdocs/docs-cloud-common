@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "common-resources"
-title: "Common Resources"
 url: "viewer/common-resources"
+title: "Common Resources"
+productName: "GroupDocs.Viewer Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 ### Articles in this section ###

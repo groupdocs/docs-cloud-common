@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "common-resources"
-title: "Common Resources"
 url: "assembly/common-resources"
+title: "Common Resources"
+productName: "GroupDocs.Assembly Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 {{expand title#"C#"}}{{/expand}}

@@ -1,7 +1,10 @@
 ---
-weight: 3
 id: "working-with-barcodes"
-title: "Working With Barcodes"
 url: "assembly/working-with-barcodes"
+title: "Working With Barcodes"
+productName: "GroupDocs.Assembly Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 

@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "inforesult"
-title: "InfoResult"
 url: "viewer/inforesult"
+title: "InfoResult"
+productName: "GroupDocs.Viewer Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 # InfoResult #

@@ -1,8 +1,11 @@
 ---
-weight: 10
 id: "compare-multiple-documents-with-specific-compare-settings"
-title: "Compare multiple documents with specific compare settings"
 url: "comparison/compare-multiple-documents-with-specific-compare-settings"
+title: "Compare multiple documents with specific compare settings"
+productName: "GroupDocs.Comparison Cloud"
+weight: 10
+description: ""
+keywords: ""
 ---
 
  

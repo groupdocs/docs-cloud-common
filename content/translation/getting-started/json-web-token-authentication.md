@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "json-web-token-authentication"
-title: "JSON Web Token Authentication"
 url: "translation/json-web-token-authentication"
+title: "JSON Web Token Authentication"
+productName: "GroupDocs.Translation Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 # What is a JSON Web Token (JWT)? #

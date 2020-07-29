@@ -1,7 +1,10 @@
 ---
-weight: 1
 id: "getting-started"
-title: "Getting Started"
 url: "classification/getting-started"
+title: "Getting Started"
+productName: "GroupDocs.Classification Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 

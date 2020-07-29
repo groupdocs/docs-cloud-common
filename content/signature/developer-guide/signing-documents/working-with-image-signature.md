@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "working-with-image-signature"
-title: "Working with Image Signature"
 url: "signature/working-with-image-signature"
+title: "Working with Image Signature"
+productName: "GroupDocs.Signature Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

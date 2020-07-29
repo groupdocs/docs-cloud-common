@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "extract-formatted-text"
-title: "Extract Formatted Text"
 url: "parser/extract-formatted-text"
+title: "Extract Formatted Text"
+productName: "GroupDocs.Parser Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 

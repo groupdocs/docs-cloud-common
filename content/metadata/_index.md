@@ -1,7 +1,10 @@
 ---
 id: "metadata"
-title: "GroupDocs.Metadata Cloud Product Family"
 url: "metadata"
+title: "GroupDocs.Metadata Cloud Product Family"
+productName: "GroupDocs.Metadata Cloud"
+description: ""
+keywords: ""
 ---
 
 [GroupDocs.Metadata Cloud](https://products.groupdocs.cloud/metadata) is a REST API for managing metadata in the documents of different file formats. It provides easy to use metadata extracting and modifying methods. It also allows you to search and remove existing metadata in a document.

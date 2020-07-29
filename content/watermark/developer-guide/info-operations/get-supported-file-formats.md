@@ -1,7 +1,10 @@
 ---
 id: "get-supported-file-formats"
-title: "Get Supported File Formats"
 url: "watermark/get-supported-file-formats"
+title: "Get Supported File Formats"
+productName: "GroupDocs.Watermark Cloud"
+description: ""
+keywords: ""
 ---
 
 

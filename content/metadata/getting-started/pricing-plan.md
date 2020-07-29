@@ -1,8 +1,11 @@
 ---
-weight: 10
 id: "pricing-plan"
-title: "Pricing Plan"
 url: "metadata/pricing-plan"
+title: "Pricing Plan"
+productName: "GroupDocs.Metadata Cloud"
+weight: 10
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

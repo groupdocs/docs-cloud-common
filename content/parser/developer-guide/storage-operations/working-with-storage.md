@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "working-with-storage"
-title: "Working With Storage"
 url: "parser/working-with-storage"
+title: "Working With Storage"
+productName: "GroupDocs.Parser Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

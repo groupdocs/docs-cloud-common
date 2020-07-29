@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "groupdocs-viewer-cloud-19-3-release-notes"
-title: "GroupDocs.Viewer Cloud 19.3 Release Notes"
 url: "viewer/groupdocs-viewer-cloud-19-3-release-notes"
+title: "GroupDocs.Viewer Cloud 19.3 Release Notes"
+productName: "GroupDocs.Viewer Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

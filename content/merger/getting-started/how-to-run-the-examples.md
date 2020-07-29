@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "how-to-run-the-examples"
-title: "How to Run the Examples"
 url: "merger/how-to-run-the-examples"
+title: "How to Run the Examples"
+productName: "GroupDocs.Merger Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 

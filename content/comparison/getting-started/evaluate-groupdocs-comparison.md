@@ -1,8 +1,11 @@
 ---
-weight: 5
 id: "evaluate-groupdocs-comparison"
-title: "Evaluate GroupDocs.Comparison"
 url: "comparison/evaluate-groupdocs-comparison"
+title: "Evaluate GroupDocs.Comparison"
+productName: "GroupDocs.Comparison Cloud"
+weight: 5
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "groupdocs-annotation-cloud-17-12-release-notes"
-title: "GroupDocs.Annotation Cloud 17.12 Release Notes"
 url: "annotation/groupdocs-annotation-cloud-17-12-release-notes"
+title: "GroupDocs.Annotation Cloud 17.12 Release Notes"
+productName: "GroupDocs.Annotation Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 ## Major Features ##

@@ -1,7 +1,10 @@
 ---
 id: "add-metadata-by-tag"
-title: "Add Metadata By Tag"
 url: "metadata/add-metadata-by-tag"
+title: "Add Metadata By Tag"
+productName: "GroupDocs.Metadata Cloud"
+description: ""
+keywords: ""
 ---
 
 

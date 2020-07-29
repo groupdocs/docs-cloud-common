@@ -1,7 +1,10 @@
 ---
 id: "set-metadata-by-tag"
-title: "Set Metadata By Tag"
 url: "metadata/set-metadata-by-tag"
+title: "Set Metadata By Tag"
+productName: "GroupDocs.Metadata Cloud"
+description: ""
+keywords: ""
 ---
 
 

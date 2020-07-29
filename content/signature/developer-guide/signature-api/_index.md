@@ -1,8 +1,11 @@
 ---
-weight: 13
 id: "signature-api"
-title: "Working with Signature API"
 url: "signature/signature-api"
+title: "Working with Signature API"
+productName: "GroupDocs.Signature Cloud"
+weight: 13
+description: ""
+keywords: ""
 ---
 
 ## Signature API ##

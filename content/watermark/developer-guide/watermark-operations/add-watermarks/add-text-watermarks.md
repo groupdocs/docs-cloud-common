@@ -1,7 +1,10 @@
 ---
 id: "add-text-watermarks"
-title: "Add Text Watermarks"
 url: "watermark/add-text-watermarks"
+title: "Add Text Watermarks"
+productName: "GroupDocs.Watermark Cloud"
+description: ""
+keywords: ""
 ---
 
 

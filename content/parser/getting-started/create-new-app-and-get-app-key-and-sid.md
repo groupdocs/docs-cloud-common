@@ -1,8 +1,11 @@
 ---
-weight: 9
 id: "create-new-app-and-get-app-key-and-sid"
-title: "Create New App and Get App Key and SID"
 url: "parser/create-new-app-and-get-app-key-and-sid"
+title: "Create New App and Get App Key and SID"
+productName: "GroupDocs.Parser Cloud"
+weight: 9
+description: ""
+keywords: ""
 ---
 
 

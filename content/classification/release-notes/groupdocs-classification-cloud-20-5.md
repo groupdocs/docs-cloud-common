@@ -1,7 +1,10 @@
 ---
 id: "groupdocs-classification-cloud-20-5"
-title: "GroupDocs.Classification Cloud 20.5"
 url: "classification/groupdocs-classification-cloud-20-5"
+title: "GroupDocs.Classification Cloud 20.5"
+productName: "GroupDocs.Classification Cloud"
+description: ""
+keywords: ""
 ---
 
 ## Major Features ##

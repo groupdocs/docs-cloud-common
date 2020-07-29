@@ -1,8 +1,11 @@
 ---
-weight: 10
 id: "get-list-of-changes-of-comparings"
-title: "Get list of changes of comparings"
 url: "comparison/get-list-of-changes-of-comparings"
+title: "Get list of changes of comparings"
+productName: "GroupDocs.Comparison Cloud"
+weight: 10
+description: ""
+keywords: ""
 ---
 
  

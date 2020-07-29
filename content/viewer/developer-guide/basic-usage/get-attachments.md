@@ -1,7 +1,10 @@
 ---
 id: "get-attachments"
-title: "Get attachments"
 url: "viewer/get-attachments"
+title: "Get attachments"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

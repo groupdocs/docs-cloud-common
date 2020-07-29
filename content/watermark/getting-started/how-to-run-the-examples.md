@@ -1,8 +1,11 @@
 ---
-weight: 8
 id: "how-to-run-the-examples"
-title: "How to Run the Examples"
 url: "watermark/how-to-run-the-examples"
+title: "How to Run the Examples"
+productName: "GroupDocs.Watermark Cloud"
+weight: 8
+description: ""
+keywords: ""
 ---
 
 

@@ -1,7 +1,10 @@
 ---
-weight: 7
 id: "groupdocs-storage-cloud"
-title: "GroupDocs.Storage Cloud"
 url: "total/groupdocs-storage-cloud"
+title: "GroupDocs.Storage Cloud"
+productName: "GroupDocs.Total Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 

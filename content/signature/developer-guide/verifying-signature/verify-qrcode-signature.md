@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "verify-qrcode-signature"
-title: "Verify QRCode Signature"
 url: "signature/verify-qrcode-signature"
+title: "Verify QRCode Signature"
+productName: "GroupDocs.Signature Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

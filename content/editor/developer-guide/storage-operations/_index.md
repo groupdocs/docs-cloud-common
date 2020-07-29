@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "storage-operations"
-title: "Storage Operations"
 url: "editor/storage-operations"
+title: "Storage Operations"
+productName: "GroupDocs.Editor Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 ### Storage Operations ###

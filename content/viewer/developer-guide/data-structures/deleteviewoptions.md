@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "deleteviewoptions"
-title: "DeleteViewOptions"
 url: "viewer/deleteviewoptions"
+title: "DeleteViewOptions"
+productName: "GroupDocs.Viewer Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 # DeleteViewOptions #

@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "how-to-work-with-files-and-storage"
-title: "How to work with Files and Storage"
 url: "total/how-to-work-with-files-and-storage"
+title: "How to work with Files and Storage"
+productName: "GroupDocs.Total Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
  

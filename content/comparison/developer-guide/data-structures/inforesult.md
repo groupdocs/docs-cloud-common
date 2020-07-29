@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "inforesult"
-title: "InfoResult"
 url: "comparison/inforesult"
+title: "InfoResult"
+productName: "GroupDocs.Comparison Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 ## InfoResult ##

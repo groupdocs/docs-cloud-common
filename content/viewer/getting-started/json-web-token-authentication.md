@@ -1,8 +1,11 @@
 ---
-weight: 8
 id: "json-web-token-authentication"
-title: "JSON Web Token Authentication"
 url: "viewer/json-web-token-authentication"
+title: "JSON Web Token Authentication"
+productName: "GroupDocs.Viewer Cloud"
+weight: 8
+description: ""
+keywords: ""
 ---
 
 

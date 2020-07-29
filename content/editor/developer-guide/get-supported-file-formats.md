@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "get-supported-file-formats"
-title: "Get Supported File Formats"
 url: "editor/get-supported-file-formats"
+title: "Get Supported File Formats"
+productName: "GroupDocs.Editor Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 

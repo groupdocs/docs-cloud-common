@@ -1,8 +1,11 @@
 ---
-weight: 8
 id: "working-with-storage"
-title: "Working With Storage"
 url: "translation/working-with-storage"
+title: "Working With Storage"
+productName: "GroupDocs.Translation Cloud"
+weight: 8
+description: ""
+keywords: ""
 ---
 
  

@@ -1,8 +1,11 @@
 ---
-weight: 10
 id: "working-with-storage-api"
-title: "Working with Storage API"
 url: "signature/working-with-storage-api"
+title: "Working with Storage API"
+productName: "GroupDocs.Signature Cloud"
+weight: 10
+description: ""
+keywords: ""
 ---
 
 

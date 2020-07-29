@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "working-with-folder"
-title: "Working With Folder"
 url: "editor/working-with-folder"
+title: "Working With Folder"
+productName: "GroupDocs.Editor Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 

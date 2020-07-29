@@ -1,7 +1,10 @@
 ---
-weight: 4
 id: "storage"
-title: "Working with Storage"
 url: "storage/storage"
+title: "Working with Storage"
+productName: "GroupDocs.Storage Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 

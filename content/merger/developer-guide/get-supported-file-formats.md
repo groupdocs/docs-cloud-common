@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "get-supported-file-formats"
-title: "Get Supported File Formats"
 url: "merger/get-supported-file-formats"
+title: "Get Supported File Formats"
+productName: "GroupDocs.Merger Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

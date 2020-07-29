@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "groupdocs-conversion-cloud-17-12-release-notes"
-title: "GroupDocs.Conversion Cloud 17.12 Release Notes"
 url: "conversion/groupdocs-conversion-cloud-17-12-release-notes"
+title: "GroupDocs.Conversion Cloud 17.12 Release Notes"
+productName: "GroupDocs.Conversion Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

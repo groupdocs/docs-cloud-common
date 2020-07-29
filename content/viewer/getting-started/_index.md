@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "getting-started"
-title: "Getting Started"
 url: "viewer/getting-started"
+title: "Getting Started"
+productName: "GroupDocs.Viewer Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 ## Overview ##

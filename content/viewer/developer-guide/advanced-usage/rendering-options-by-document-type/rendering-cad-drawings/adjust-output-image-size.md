@@ -1,7 +1,10 @@
 ---
 id: "adjust-output-image-size"
-title: "Adjust output image size"
 url: "viewer/adjust-output-image-size"
+title: "Adjust output image size"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

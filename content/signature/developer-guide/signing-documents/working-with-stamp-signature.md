@@ -1,8 +1,11 @@
 ---
-weight: 6
 id: "working-with-stamp-signature"
-title: "Working with Stamp Signature"
 url: "signature/working-with-stamp-signature"
+title: "Working with Stamp Signature"
+productName: "GroupDocs.Signature Cloud"
+weight: 6
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

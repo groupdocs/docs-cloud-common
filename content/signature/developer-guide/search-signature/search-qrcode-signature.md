@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "search-qrcode-signature"
-title: "Search QRCode Signature"
 url: "signature/search-qrcode-signature"
+title: "Search QRCode Signature"
+productName: "GroupDocs.Signature Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

@@ -1,8 +1,11 @@
 ---
-weight: 10
 id: "supported-platforms"
-title: "Supported Platforms"
 url: "editor/supported-platforms"
+title: "Supported Platforms"
+productName: "GroupDocs.Editor Cloud"
+weight: 10
+description: ""
+keywords: ""
 ---
 
 ## Supported Platforms ##

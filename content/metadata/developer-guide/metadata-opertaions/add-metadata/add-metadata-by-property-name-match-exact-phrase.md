@@ -1,7 +1,10 @@
 ---
 id: "add-metadata-by-property-name-match-exact-phrase"
-title: "Add Metadata By Property Name Match Exact Phrase"
 url: "metadata/add-metadata-by-property-name-match-exact-phrase"
+title: "Add Metadata By Property Name Match Exact Phrase"
+productName: "GroupDocs.Metadata Cloud"
+description: ""
+keywords: ""
 ---
 
 

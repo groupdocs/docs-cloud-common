@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "folders"
-title: "Working with Folders"
 url: "storage/folders"
+title: "Working with Folders"
+productName: "GroupDocs.Storage Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 

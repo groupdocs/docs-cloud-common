@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "image-representation-of-document-pages"
-title: "Image Representation of Document Pages"
 url: "annotation/image-representation-of-document-pages"
+title: "Image Representation of Document Pages"
+productName: "GroupDocs.Annotation Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

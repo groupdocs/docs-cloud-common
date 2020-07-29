@@ -1,7 +1,10 @@
 ---
 id: "add-metadata-by-property-name-match-regex"
-title: "Add Metadata By Property Name Match Regex"
 url: "metadata/add-metadata-by-property-name-match-regex"
+title: "Add Metadata By Property Name Match Regex"
+productName: "GroupDocs.Metadata Cloud"
+description: ""
+keywords: ""
 ---
 
 

@@ -1,7 +1,10 @@
 ---
 id: "image-viewer-adjust-image-size"
-title: "Image Viewer - Adjust image size"
 url: "viewer/image-viewer-adjust-image-size"
+title: "Image Viewer - Adjust image size"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

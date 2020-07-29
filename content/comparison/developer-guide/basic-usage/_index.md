@@ -1,8 +1,11 @@
 ---
-weight: 8
 id: "basic-usage"
-title: "Basic usage"
 url: "comparison/basic-usage"
+title: "Basic usage"
+productName: "GroupDocs.Comparison Cloud"
+weight: 8
+description: ""
+keywords: ""
 ---
 
 

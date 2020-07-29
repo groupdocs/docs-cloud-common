@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "format"
-title: "Format"
 url: "comparison/format"
+title: "Format"
+productName: "GroupDocs.Comparison Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 ## Format ##

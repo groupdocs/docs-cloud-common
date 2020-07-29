@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "parse-by-template-defined-as-an-object"
-title: "Parse by Template Defined as an Object"
 url: "parser/parse-by-template-defined-as-an-object"
+title: "Parse by Template Defined as an Object"
+productName: "GroupDocs.Parser Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "groupdocs-assembly-for-cloud-19-3"
-title: "GroupDocs.Assembly for Cloud 19.3"
 url: "assembly/groupdocs-assembly-for-cloud-19-3"
+title: "GroupDocs.Assembly for Cloud 19.3"
+productName: "GroupDocs.Assembly Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

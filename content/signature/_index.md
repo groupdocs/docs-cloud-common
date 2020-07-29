@@ -1,6 +1,9 @@
 ---
 id: "signature"
-title: "GroupDocs.Signature Cloud"
 url: "signature"
+title: "GroupDocs.Signature Cloud"
+productName: "GroupDocs.Signature Cloud"
+description: ""
+keywords: ""
 ---
 

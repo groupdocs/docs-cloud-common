@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "changes-resource"
-title: "Changes Resource"
 url: "comparison/changes-resource"
+title: "Changes Resource"
+productName: "GroupDocs.Comparison Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

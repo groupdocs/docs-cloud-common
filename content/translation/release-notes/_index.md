@@ -1,7 +1,10 @@
 ---
 id: "release-notes"
-title: "Release Notes"
 url: "translation/release-notes"
+title: "Release Notes"
+productName: "GroupDocs.Translation Cloud"
+description: ""
+keywords: ""
 ---
 
 

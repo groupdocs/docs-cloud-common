@@ -1,8 +1,11 @@
 ---
-weight: 6
 id: "technical-support"
-title: "Technical Support"
 url: "comparison/technical-support"
+title: "Technical Support"
+productName: "GroupDocs.Comparison Cloud"
+weight: 6
+description: ""
+keywords: ""
 ---
 
 

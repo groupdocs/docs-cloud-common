@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "get-stream-of-result-document"
-title: "Get Stream of Result Document"
 url: "comparison/get-stream-of-result-document"
+title: "Get Stream of Result Document"
+productName: "GroupDocs.Comparison Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

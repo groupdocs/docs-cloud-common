@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "move-a-file-to-another-location"
-title: "Move a File to Another Location"
 url: "storage/move-a-file-to-another-location"
+title: "Move a File to Another Location"
+productName: "GroupDocs.Storage Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 

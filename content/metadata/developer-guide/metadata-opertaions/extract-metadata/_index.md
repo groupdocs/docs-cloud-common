@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "extract-metadata"
-title: "Extract Metadata"
 url: "metadata/extract-metadata"
+title: "Extract Metadata"
+productName: "GroupDocs.Metadata Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

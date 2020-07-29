@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "supported-document-formats"
-title: "Supported Document Formats"
 url: "comparison/supported-document-formats"
+title: "Supported Document Formats"
+productName: "GroupDocs.Comparison Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 # GroupDocs.Comparison Cloud Supported Document Formats #

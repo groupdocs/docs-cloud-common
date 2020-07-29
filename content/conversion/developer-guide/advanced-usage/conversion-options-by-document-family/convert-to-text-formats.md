@@ -1,8 +1,11 @@
 ---
-weight: 8
 id: "convert-to-text-formats"
-title: "7. Convert to Text Formats"
 url: "conversion/convert-to-text-formats"
+title: "7. Convert to Text Formats"
+productName: "GroupDocs.Conversion Cloud"
+weight: 8
+description: ""
+keywords: ""
 ---
 
 

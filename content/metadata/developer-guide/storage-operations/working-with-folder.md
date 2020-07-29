@@ -1,7 +1,10 @@
 ---
 id: "working-with-folder"
-title: "Working With Folder"
 url: "metadata/working-with-folder"
+title: "Working With Folder"
+productName: "GroupDocs.Metadata Cloud"
+description: ""
+keywords: ""
 ---
 
 

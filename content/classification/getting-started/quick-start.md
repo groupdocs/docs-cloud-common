@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "quick-start"
-title: "Quick Start"
 url: "classification/quick-start"
+title: "Quick Start"
+productName: "GroupDocs.Classification Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 

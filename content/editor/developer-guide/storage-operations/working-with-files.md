@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "working-with-files"
-title: "Working With Files"
 url: "editor/working-with-files"
+title: "Working With Files"
+productName: "GroupDocs.Editor Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 

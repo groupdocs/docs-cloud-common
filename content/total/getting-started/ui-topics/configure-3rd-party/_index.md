@@ -1,8 +1,11 @@
 ---
-weight: 5
 id: "configure-3rd-party"
-title: "How to Configure 3rd Party Cloud Storages"
 url: "total/configure-3rd-party"
+title: "How to Configure 3rd Party Cloud Storages"
+productName: "GroupDocs.Total Cloud"
+weight: 5
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

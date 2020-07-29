@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "get-supported-file-types"
-title: "Get Supported File Types"
 url: "parser/get-supported-file-types"
+title: "Get Supported File Types"
+productName: "GroupDocs.Parser Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

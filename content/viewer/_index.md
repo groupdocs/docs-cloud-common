@@ -1,6 +1,9 @@
 ---
 id: "viewer"
-title: "GroupDocs.Viewer Cloud"
 url: "viewer"
+title: "GroupDocs.Viewer Cloud"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 

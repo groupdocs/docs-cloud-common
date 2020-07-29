@@ -1,8 +1,11 @@
 ---
-weight: 6
 id: "working-with-folder-api"
-title: "Working with Folder API"
 url: "comparison/working-with-folder-api"
+title: "Working with Folder API"
+productName: "GroupDocs.Comparison Cloud"
+weight: 6
+description: ""
+keywords: ""
 ---
 
 

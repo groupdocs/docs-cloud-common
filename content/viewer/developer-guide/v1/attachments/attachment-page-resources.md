@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "attachment-page-resources"
-title: "Attachment Page Resources"
 url: "viewer/attachment-page-resources"
+title: "Attachment Page Resources"
+productName: "GroupDocs.Viewer Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

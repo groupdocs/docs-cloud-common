@@ -1,8 +1,11 @@
 ---
-weight: 6
 id: "supported-platforms"
-title: "Supported Platforms"
 url: "watermark/supported-platforms"
+title: "Supported Platforms"
+productName: "GroupDocs.Watermark Cloud"
+weight: 6
+description: ""
+keywords: ""
 ---
 
 ## Supported Platforms ##

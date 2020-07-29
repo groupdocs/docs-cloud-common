@@ -1,7 +1,10 @@
 ---
 id: "get-document-information"
-title: "Get Document Information"
 url: "metadata/get-document-information"
+title: "Get Document Information"
+productName: "GroupDocs.Metadata Cloud"
+description: ""
+keywords: ""
 ---
 
 

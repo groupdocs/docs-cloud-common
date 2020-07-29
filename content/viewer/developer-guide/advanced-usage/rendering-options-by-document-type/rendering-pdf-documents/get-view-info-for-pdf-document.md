@@ -1,7 +1,10 @@
 ---
 id: "get-view-info-for-pdf-document"
-title: "Get View Info for PDF Document"
 url: "viewer/get-view-info-for-pdf-document"
+title: "Get View Info for PDF Document"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

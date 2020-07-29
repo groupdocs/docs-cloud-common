@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "working-with-spreadsheets"
-title: "Working with Spreadsheets"
 url: "editor/working-with-spreadsheets"
+title: "Working with Spreadsheets"
+productName: "GroupDocs.Editor Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 

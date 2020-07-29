@@ -1,7 +1,10 @@
 ---
 id: "limit-count-of-items-to-render"
-title: "Limit count of items to render"
 url: "viewer/limit-count-of-items-to-render"
+title: "Limit count of items to render"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "supported-document-formats"
-title: "Supported Document Formats"
 url: "classification/supported-document-formats"
+title: "Supported Document Formats"
+productName: "GroupDocs.Classification Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 # GroupDocs.Classification Cloud Supported Document Formats #

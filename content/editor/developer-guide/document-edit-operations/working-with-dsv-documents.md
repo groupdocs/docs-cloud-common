@@ -1,8 +1,11 @@
 ---
-weight: 5
 id: "working-with-dsv-documents"
-title: "Working with DSV Documents"
 url: "editor/working-with-dsv-documents"
+title: "Working with DSV Documents"
+productName: "GroupDocs.Editor Cloud"
+weight: 5
+description: ""
+keywords: ""
 ---
 
 

@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "verify-barcode-signature"
-title: "Verify Barcode Signature"
 url: "signature/verify-barcode-signature"
+title: "Verify Barcode Signature"
+productName: "GroupDocs.Signature Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

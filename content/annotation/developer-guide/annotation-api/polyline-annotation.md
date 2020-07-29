@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "polyline-annotation"
-title: "Polyline Annotation"
 url: "annotation/polyline-annotation"
+title: "Polyline Annotation"
+productName: "GroupDocs.Annotation Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

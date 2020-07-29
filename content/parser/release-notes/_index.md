@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "release-notes"
-title: "Release Notes"
 url: "parser/release-notes"
+title: "Release Notes"
+productName: "GroupDocs.Parser Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 ### Release Notes ###

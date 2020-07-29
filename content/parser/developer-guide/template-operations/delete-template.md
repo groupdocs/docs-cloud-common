@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "delete-template"
-title: "Delete Template"
 url: "parser/delete-template"
+title: "Delete Template"
+productName: "GroupDocs.Parser Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 

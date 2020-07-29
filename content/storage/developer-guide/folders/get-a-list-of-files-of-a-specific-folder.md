@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "get-a-list-of-files-of-a-specific-folder"
-title: "Get a list of Files of a Specific Folder"
 url: "storage/get-a-list-of-files-of-a-specific-folder"
+title: "Get a list of Files of a Specific Folder"
+productName: "GroupDocs.Storage Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 

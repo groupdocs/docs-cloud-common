@@ -1,8 +1,11 @@
 ---
-weight: 10
 id: "pricing-plan"
-title: "Pricing Plan"
 url: "parser/pricing-plan"
+title: "Pricing Plan"
+productName: "GroupDocs.Parser Cloud"
+weight: 10
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

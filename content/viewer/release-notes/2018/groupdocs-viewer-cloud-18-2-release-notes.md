@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "groupdocs-viewer-cloud-18-2-release-notes"
-title: "GroupDocs.Viewer Cloud 18.2 Release Notes"
 url: "viewer/groupdocs-viewer-cloud-18-2-release-notes"
+title: "GroupDocs.Viewer Cloud 18.2 Release Notes"
+productName: "GroupDocs.Viewer Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 ## Major Features ##

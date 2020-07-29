@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "groupdocs-storage-cloud-18-3-release-notes"
-title: "GroupDocs.Storage Cloud 18.3 Release Notes"
 url: "storage/groupdocs-storage-cloud-18-3-release-notes"
+title: "GroupDocs.Storage Cloud 18.3 Release Notes"
+productName: "GroupDocs.Storage Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 ## Major Features ##

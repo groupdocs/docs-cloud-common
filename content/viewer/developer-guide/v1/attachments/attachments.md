@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "attachments"
-title: "Attachments"
 url: "viewer/attachments"
+title: "Attachments"
+productName: "GroupDocs.Viewer Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

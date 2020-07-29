@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "remove-metadata"
-title: "Remove Metadata"
 url: "metadata/remove-metadata"
+title: "Remove Metadata"
+productName: "GroupDocs.Metadata Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 

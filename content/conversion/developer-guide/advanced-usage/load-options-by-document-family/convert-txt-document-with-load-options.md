@@ -1,8 +1,11 @@
 ---
-weight: 8
 id: "convert-txt-document-with-load-options"
-title: "8. Convert TXT Document with Load Options"
 url: "conversion/convert-txt-document-with-load-options"
+title: "8. Convert TXT Document with Load Options"
+productName: "GroupDocs.Conversion Cloud"
+weight: 8
+description: ""
+keywords: ""
 ---
 
 

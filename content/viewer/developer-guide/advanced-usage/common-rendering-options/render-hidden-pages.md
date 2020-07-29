@@ -1,7 +1,10 @@
 ---
 id: "render-hidden-pages"
-title: "Render hidden pages"
 url: "viewer/render-hidden-pages"
+title: "Render hidden pages"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

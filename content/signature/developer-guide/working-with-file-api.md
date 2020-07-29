@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "working-with-file-api"
-title: "Working with File Api"
 url: "signature/working-with-file-api"
+title: "Working with File Api"
+productName: "GroupDocs.Signature Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 

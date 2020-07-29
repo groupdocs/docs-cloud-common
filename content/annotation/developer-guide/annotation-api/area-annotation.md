@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "area-annotation"
-title: "Area Annotation"
 url: "annotation/area-annotation"
+title: "Area Annotation"
+productName: "GroupDocs.Annotation Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

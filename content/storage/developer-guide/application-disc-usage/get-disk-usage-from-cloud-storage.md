@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "get-disk-usage-from-cloud-storage"
-title: "Get Disk Usage from Cloud Storage"
 url: "storage/get-disk-usage-from-cloud-storage"
+title: "Get Disk Usage from Cloud Storage"
+productName: "GroupDocs.Storage Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

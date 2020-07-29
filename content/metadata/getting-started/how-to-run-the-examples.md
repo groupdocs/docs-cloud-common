@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "how-to-run-the-examples"
-title: "How to Run the Examples"
 url: "metadata/how-to-run-the-examples"
+title: "How to Run the Examples"
+productName: "GroupDocs.Metadata Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 

@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "authenticating-api-requests"
-title: "Authenticating API Requests"
 url: "total/authenticating-api-requests"
+title: "Authenticating API Requests"
+productName: "GroupDocs.Total Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

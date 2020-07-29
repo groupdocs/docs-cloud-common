@@ -1,7 +1,10 @@
 ---
 id: "adjust-text-overflow-in-cells"
-title: "Adjust text overflow in cells"
 url: "viewer/adjust-text-overflow-in-cells"
+title: "Adjust text overflow in cells"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

@@ -1,7 +1,10 @@
 ---
 id: "extract-metadata-by-property-name-match-exact-phrase"
-title: "Extract Metadata By Property Name Match Exact Phrase"
 url: "metadata/extract-metadata-by-property-name-match-exact-phrase"
+title: "Extract Metadata By Property Name Match Exact Phrase"
+productName: "GroupDocs.Metadata Cloud"
+description: ""
+keywords: ""
 ---
 
 

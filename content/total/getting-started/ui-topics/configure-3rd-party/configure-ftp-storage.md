@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "configure-ftp-storage"
-title: "Configure FTP Storage"
 url: "total/configure-ftp-storage"
+title: "Configure FTP Storage"
+productName: "GroupDocs.Total Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "extract-pages"
-title: "Extract Pages"
 url: "merger/extract-pages"
+title: "Extract Pages"
+productName: "GroupDocs.Merger Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

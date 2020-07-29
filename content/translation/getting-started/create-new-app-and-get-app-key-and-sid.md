@@ -1,8 +1,11 @@
 ---
-weight: 6
 id: "create-new-app-and-get-app-key-and-sid"
-title: "Create New App and Get App Key and SID"
 url: "translation/create-new-app-and-get-app-key-and-sid"
+title: "Create New App and Get App Key and SID"
+productName: "GroupDocs.Translation Cloud"
+weight: 6
+description: ""
+keywords: ""
 ---
 
 # Create a New Application #

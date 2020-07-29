@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "common-structures"
-title: "Common structures"
 url: "signature/common-structures"
+title: "Common structures"
+productName: "GroupDocs.Signature Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 # Common data structures #

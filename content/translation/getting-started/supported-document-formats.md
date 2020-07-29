@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "supported-document-formats"
-title: "Supported Document Formats"
 url: "translation/supported-document-formats"
+title: "Supported Document Formats"
+productName: "GroupDocs.Translation Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 |FORMAT|DESCRIPTION

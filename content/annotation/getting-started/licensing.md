@@ -1,8 +1,11 @@
 ---
-weight: 6
 id: "licensing"
-title: "Licensing"
 url: "annotation/licensing"
+title: "Licensing"
+productName: "GroupDocs.Annotation Cloud"
+weight: 6
+description: ""
+keywords: ""
 ---
 
 

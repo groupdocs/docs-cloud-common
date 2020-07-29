@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "licensing"
-title: "Licensing"
 url: "classification/licensing"
+title: "Licensing"
+productName: "GroupDocs.Classification Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 

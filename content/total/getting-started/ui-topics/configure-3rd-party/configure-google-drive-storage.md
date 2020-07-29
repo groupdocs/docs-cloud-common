@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "configure-google-drive-storage"
-title: "Configure Google Drive Storage"
 url: "total/configure-google-drive-storage"
+title: "Configure Google Drive Storage"
+productName: "GroupDocs.Total Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

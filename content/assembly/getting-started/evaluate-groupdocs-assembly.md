@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "evaluate-groupdocs-assembly"
-title: "Evaluate GroupDocs.Assembly"
 url: "assembly/evaluate-groupdocs-assembly"
+title: "Evaluate GroupDocs.Assembly"
+productName: "GroupDocs.Assembly Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "quickstart"
-title: "Quickstart"
 url: "translation/quickstart"
+title: "Quickstart"
+productName: "GroupDocs.Translation Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 ####   ####

@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "get-streams-of-images-of-result-document"
-title: "Get Streams of Images of Result Document"
 url: "comparison/get-streams-of-images-of-result-document"
+title: "Get Streams of Images of Result Document"
+productName: "GroupDocs.Comparison Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "infosettings"
-title: "InfoSettings"
 url: "signature/infosettings"
+title: "InfoSettings"
+productName: "GroupDocs.Signature Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 # InfoSettings #

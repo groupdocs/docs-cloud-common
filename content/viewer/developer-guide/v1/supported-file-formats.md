@@ -1,8 +1,11 @@
 ---
-weight: 13
 id: "supported-file-formats"
-title: "Supported File Formats"
 url: "viewer/supported-file-formats"
+title: "Supported File Formats"
+productName: "GroupDocs.Viewer Cloud"
+weight: 13
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

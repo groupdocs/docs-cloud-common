@@ -1,7 +1,10 @@
 ---
 id: "adjust-page-size"
-title: "Adjust page size"
 url: "viewer/adjust-page-size"
+title: "Adjust page size"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

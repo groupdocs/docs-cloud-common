@@ -1,8 +1,11 @@
 ---
-weight: 3
 id: "working-with-signature-search"
-title: "Working with Signature Search"
 url: "signature/working-with-signature-search"
+title: "Working with Signature Search"
+productName: "GroupDocs.Signature Cloud"
+weight: 3
+description: ""
+keywords: ""
 ---
 
 

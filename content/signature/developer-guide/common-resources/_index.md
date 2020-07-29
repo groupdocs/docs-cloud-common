@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "common-resources"
-title: "Common Resources"
 url: "signature/common-resources"
+title: "Common Resources"
+productName: "GroupDocs.Signature Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

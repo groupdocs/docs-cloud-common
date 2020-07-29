@@ -1,7 +1,10 @@
 ---
 id: "image-viewer-adjust-quality-for-jpg"
-title: "Image Viewer - Adjust quality for JPG"
 url: "viewer/image-viewer-adjust-quality-for-jpg"
+title: "Image Viewer - Adjust quality for JPG"
+productName: "GroupDocs.Viewer Cloud"
+description: ""
+keywords: ""
 ---
 
  

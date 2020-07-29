@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "check-presence-of-a-storage"
-title: "Check Presence of a Storage"
 url: "storage/check-presence-of-a-storage"
+title: "Check Presence of a Storage"
+productName: "GroupDocs.Storage Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 

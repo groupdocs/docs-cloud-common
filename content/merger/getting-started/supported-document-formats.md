@@ -1,8 +1,11 @@
 ---
-weight: 4
 id: "supported-document-formats"
-title: "Supported Document Formats"
 url: "merger/supported-document-formats"
+title: "Supported Document Formats"
+productName: "GroupDocs.Merger Cloud"
+weight: 4
+description: ""
+keywords: ""
 ---
 
 

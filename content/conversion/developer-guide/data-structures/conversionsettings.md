@@ -1,8 +1,11 @@
 ---
-weight: 1
 id: "conversionsettings"
-title: "1. ConversionSettings"
 url: "conversion/conversionsettings"
+title: "1. ConversionSettings"
+productName: "GroupDocs.Conversion Cloud"
+weight: 1
+description: ""
+keywords: ""
 ---
 
 # ConversionSettings #

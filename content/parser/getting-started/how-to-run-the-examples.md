@@ -1,8 +1,11 @@
 ---
-weight: 7
 id: "how-to-run-the-examples"
-title: "How to Run the Examples"
 url: "parser/how-to-run-the-examples"
+title: "How to Run the Examples"
+productName: "GroupDocs.Parser Cloud"
+weight: 7
+description: ""
+keywords: ""
 ---
 
 ## Running GroupDocs.Parser Cloud Examples ##

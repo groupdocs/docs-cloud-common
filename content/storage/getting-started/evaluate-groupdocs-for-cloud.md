@@ -1,8 +1,11 @@
 ---
-weight: 5
 id: "evaluate-groupdocs-for-cloud"
-title: "Evaluate GroupDocs for Cloud"
 url: "storage/evaluate-groupdocs-for-cloud"
+title: "Evaluate GroupDocs for Cloud"
+productName: "GroupDocs.Storage Cloud"
+weight: 5
+description: ""
+keywords: ""
 ---
 
 {{< alert style="info" >}}

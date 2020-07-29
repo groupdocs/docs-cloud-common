@@ -1,8 +1,11 @@
 ---
-weight: 5
 id: "supported-platforms"
-title: "Supported Platforms"
 url: "metadata/supported-platforms"
+title: "Supported Platforms"
+productName: "GroupDocs.Metadata Cloud"
+weight: 5
+description: ""
+keywords: ""
 ---
 
 ## Supported Platforms ##

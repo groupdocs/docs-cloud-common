@@ -1,8 +1,11 @@
 ---
-weight: 2
 id: "get-document-information"
-title: "Get Document Information"
 url: "merger/get-document-information"
+title: "Get Document Information"
+productName: "GroupDocs.Merger Cloud"
+weight: 2
+description: ""
+keywords: ""
 ---
 
 

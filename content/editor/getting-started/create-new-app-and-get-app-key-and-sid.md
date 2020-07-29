@@ -1,8 +1,11 @@
 ---
-weight: 8
 id: "create-new-app-and-get-app-key-and-sid"
-title: "Create New App and Get App Key and SID"
 url: "editor/create-new-app-and-get-app-key-and-sid"
+title: "Create New App and Get App Key and SID"
+productName: "GroupDocs.Editor Cloud"
+weight: 8
+description: ""
+keywords: ""
 ---
 
 
