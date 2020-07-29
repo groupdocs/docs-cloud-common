@@ -76,11 +76,10 @@ enableGitInfo               = true
 
     MoreServices = [ 
             { Name = "API Reference", CssClass = "fas fa-book", Href = "https://apireference.groupdocs.cloud" },
-            { Name = "Code Samples", CssClass = "fas fa-code", Href = "https://groupdocs.github.io" },
+            { Name = "Code Samples", CssClass = "fas fa-code", Href = "https://groupdocscloud.github.io" },
             { Name = "Live Demos", CssClass = "fas fa-desktop", Href = "https://groupdocsapp.github.io" },
             { Name = "Free Consulting", CssClass = "fas fa-headset", Href = "https://groupdocs-free-consulting.github.io" },
-            { Name = "Free Support", CssClass = "fas fa-user", Href = "https://forum.groupdocs.cloud" },
-            { Name = "Paid Support", CssClass = "fas fa-user-tie", Href = "https://helpdesk.groupdocs.cloud" }
+            { Name = "Free Support", CssClass = "fas fa-user", Href = "https://forum.groupdocs.cloud" }
     ]
 
 
