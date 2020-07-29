@@ -5,7 +5,7 @@ title: "Supported Document Formats"
 url: "editor/supported-document-formats"
 ---
 
-{{toc/}}
+
 
 # Supported Document Formats #
 
