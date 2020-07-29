@@ -5,4 +5,3 @@ title: "GroupDocs.Annotation Cloud"
 url: "total/groupdocs-annotation-cloud"
 ---
 
-{{documentTree root#"document:groupdocscloud:annotationcloud.WebHome"/}}

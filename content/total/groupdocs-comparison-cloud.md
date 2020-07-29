@@ -5,4 +5,3 @@ title: "GroupDocs.Comparison Cloud"
 url: "total/groupdocs-comparison-cloud"
 ---
 
-{{documentTree root#"document:groupdocscloud:comparisoncloud.WebHome"/}}

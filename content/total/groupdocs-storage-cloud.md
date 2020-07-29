@@ -5,4 +5,3 @@ title: "GroupDocs.Storage Cloud"
 url: "total/groupdocs-storage-cloud"
 ---
 
-{{documentTree root#"document:groupdocscloud:gdstoragecloud.WebHome"/}}
