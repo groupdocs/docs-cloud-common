@@ -16,11 +16,15 @@
 
    <!-- Only include the tracking when using `hugo` or adding `--environment production` -->
    {{- if eq (getenv "HUGO_ENV") "production" | or (eq hugo.Environment "production") -}}
-   <meta name="google-site-verification" content="n0rtymY2bXXsnMn_HlCrA-IUeTfvuNV4hs_gW83kNkU">
-   <meta name="google-site-verification" content="QsvolQStNoH5gGgY2mESUljn4pZ4kMod1jsDKvAKg0w">
-   {{- if .Site.Params.google_tag_manager_id -}}
-       {{- partial "google_tag_manager.html" . -}}
-   {{- end -}}        
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125550954-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-27946748-3');
+    </script>
    {{- end -}}
     
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/fontawesome.min.css">

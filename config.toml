@@ -37,7 +37,6 @@ enableGitInfo               = true
 
 [Params]
     contentDir              = "content"
-    google_tag_manager_id   = "GTM-WZTNN8"
     sitemapMax              = 49999
 
     disableSearch           = true
