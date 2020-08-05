@@ -10,3 +10,6 @@ keywords: ""
 ---
 
 
+
+Please note the GroupDocs.Storage Cloud product line will be **discontinued **from **31st December 2020**. We have already shifted to a Micro Service Architecture. Below are the details of how to seamlessly integrate our Cloud Storage with existing GroupDocs Cloud products.
+

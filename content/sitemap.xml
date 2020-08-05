@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>https://docs2.groupdocs.cloud/</loc>
+        <loc>https://docs.groupdocs.cloud/</loc>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://docs2.groupdocs.cloud/total</loc>
+        <loc>https://docs.groupdocs.cloud/total</loc>
         <priority>0.9</priority>
-    </url>    
+    </url>  
     <url>
-        <loc>https://docs2.groupdocs.cloud/assembly/</loc>
+        <loc>https://docs.groupdocs.cloud/annotation/</loc>
         <priority>0.9</priority>
-    </url>
+    </url>  
     <url>
-        <loc>https://docs2.groupdocs.cloud/annotation/</loc>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://docs2.groupdocs.cloud/classification/</loc>
+        <loc>https://docs.groupdocs.cloud/assembly/</loc>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://docs2.groupdocs.cloud/comparison/</loc>
+        <loc>https://docs.groupdocs.cloud/classification/</loc>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://docs2.groupdocs.cloud/conversion/</loc>
+        <loc>https://docs.groupdocs.cloud/comparison/</loc>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://docs2.groupdocs.cloud/editor/</loc>
+        <loc>https://docs.groupdocs.cloud/conversion/</loc>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://docs2.groupdocs.cloud/merger/</loc>
+        <loc>https://docs.groupdocs.cloud/editor/</loc>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://docs2.groupdocs.cloud/metadata/</loc>
+        <loc>https://docs.groupdocs.cloud/merger/</loc>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://docs2.groupdocs.cloud/parser/</loc>
+        <loc>https://docs.groupdocs.cloud/metadata/</loc>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://docs.groupdocs.cloud/parser/</loc>
         <priority>0.9</priority>
     </url>      
     <url>
-        <loc>https://docs2.groupdocs.cloud/signature/</loc>
+        <loc>https://docs.groupdocs.cloud/signature/</loc>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://docs2.groupdocs.cloud/storage/</loc>
+        <loc>https://docs.groupdocs.cloud/storage/</loc>
         <priority>0.9</priority>
     </url>
      <url>
-        <loc>https://docs2.groupdocs.cloud/translation/</loc>
+        <loc>https://docs.groupdocs.cloud/translation/</loc>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://docs2.groupdocs.cloud/viewer/</loc>
+        <loc>https://docs.groupdocs.cloud/viewer/</loc>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://docs2.groupdocs.cloud/watermark/</loc>
+        <loc>https://docs.groupdocs.cloud/watermark/</loc>
         <priority>0.9</priority>
     </url>
 </urlset>
