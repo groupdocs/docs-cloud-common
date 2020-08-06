@@ -7,14 +7,6 @@ weight: 4
 description: ""
 keywords: ""
 ---
-
-
-
-
-
-
-# Delete a Particular File from GroupDocs Cloud Storage #
-
 This API allows you to delete specific file from [GroupDocs Cloud Storage](https://dashboard.groupdocs.cloud/).
 
 ## API Explorer ##
@@ -23,37 +15,24 @@ This API allows you to delete specific file from [GroupDocs Cloud Storage](htt
 
 ## cURL Example ##
 
+Request
 
-
-
-
- Request
-
-```html 
+```html
 curl -v "https://api.groupdocs.cloud/v1.0/storage/file?path#test.doc" \
 -X DELETE \
 -H "Content-Type: application/json" \
 -H "Accept: application/json" \
--H "authorization: Bearer wy_ZmPEeTmXAYKin4qPDnqZj0jged66uI1GEj_6MeKqlZpaTXK6zYXEtMbQacDSeKjLvA9GI18rHc8bUomPnnbymhH_uLF7hCzQ1Z9iW_EsIaYowiExEngeDUOdFUWygfJOhXnwwsDNZcFXY3dA8tCmYHJJXdSPgJnC-KvohHxYsfJTDTm4Fa4ixZWTv_tIqLtw2skNy3pq7TGd10Tifs-l7kPRlxL7OkyJsCY-usqRKEDxRRPKh2FSfx_AfJ5chwZGFlh-zlWwRnsL_w1Khi5WjKxQ-1-37MBa7aXDhjPcdr24s4pke1-jEXvPGvW37DirJjY0kTHTLwxoa3aIMeLWC_IUmQVCnpd6YCoAYI7914GRdMiJXF_SDTk1_T1dXTd9CHQSckWViM4IbD9eJyLOpM0Z8eCV-MNy7XTktFPIBtxbHBSBrxuLGWsxdFPSJEL2-MIA9XCq3hdILQOzNn-LkwIM"
-    
- ```
+-H "authorization: Bearer wy_ZmPEeTmXAYKin4qPDnqZj0jged66uI1GEj_6MeKqlZpaTXK6zYXEtMbQacDSeKjLvA9GI18rHc8bUomPnnbymhH_uLF7hCzQ1Z9iW_EsIaYowiExEngeDUOdFUWygfJOhXnwwsDNZcFXY3dA8tCmYHJJXdSPgJnC-KvohHxYsfJTDTm4Fa4ixZWTv_tIqLtw2skNy3pq7TGd10Tifs-l7kPRlxL7OkyJsCY-usqRKEDxRRPKh2FSfx_AfJ5chwZGFlh-zlWwRnsL_w1Khi5WjKxQ-1-37MBa7aXDhjPcdr24s4pke1-jEXvPGvW37DirJjY0kTHTLwxoa3aIMeLWC_IUmQVCnpd6YCoAYI7914GRdMiJXF_SDTk1_T1dXTd9CHQSckWViM4IbD9eJyLOpM0Z8eCV-MNy7XTktFPIBtxbHBSBrxuLGWsxdFPSJEL2-MIA9XCq3hdILQOzNn-LkwIM"    
+```
 
+Response
 
-
-
- Response
-
-```html 
+```html
 {
   "Code": 200,
   "Status": "OK"
 }
- ```
-
-
-
-
-
+```
 
 ## SDKs ##
 
@@ -61,52 +40,16 @@ Our API is completely independent of your operating system, database system or d
 
 ### SDK Examples ###
 
-
-
-
-
- C#
-
-
-
-
+C#
 {{< gist groupdocscloud 646c8583b210bcc2770ea6a518a30be9 Storage_CSharp_Delete_File.cs >}}
 
-
-
-
-
-
-
- PHP
-
-
-
-
+PHP
 {{< gist groupdocscloud 8db205dcff0fe84f155e4aa371c0b4f4 Storage_Php_Delete_File.php >}}
 
-
-
-
-
-
-
- Ruby
-
-
-
-
+Ruby
 {{< gist groupdocscloud efe67e20dac7c956c2a22b2d80bfa941 Storage_Ruby_Post_Delete_File.rb >}}
 
-
-
-
-
-
-
-
-
-# Delete a Particular File from Third Party Storage #
+## Delete a Particular File from Third Party Storage ##
 
 This API allows you to upload files to the third party storage.
 
@@ -118,37 +61,24 @@ This API allows you to upload files to the third party storage.
 
 ## cURL Example ##
 
+Request
 
-
-
-
- Request
-
-```html 
+```html
 curl -v "https://api.groupdocs.cloud/v1.0/storage/file?path#testfile.doc&#x26;storage#mygoogledrive" 
 -X DELETE \
 -H "Content-Type: application/json" \
 -H "Accept: application/json" \
--H "authorization: Bearer wy_ZmPEeTmXAYKin4qPDnqZj0jged66uI1GEj_6MeKqlZpaTXK6zYXEtMbQacDSeKjLvA9GI18rHc8bUomPnnbymhH_uLF7hCzQ1Z9iW_EsIaYowiExEngeDUOdFUWygfJOhXnwwsDNZcFXY3dA8tCmYHJJXdSPgJnC-KvohHxYsfJTDTm4Fa4ixZWTv_tIqLtw2skNy3pq7TGd10Tifs-l7kPRlxL7OkyJsCY-usqRKEDxRRPKh2FSfx_AfJ5chwZGFlh-zlWwRnsL_w1Khi5WjKxQ-1-37MBa7aXDhjPcdr24s4pke1-jEXvPGvW37DirJjY0kTHTLwxoa3aIMeLWC_IUmQVCnpd6YCoAYI7914GRdMiJXF_SDTk1_T1dXTd9CHQSckWViM4IbD9eJyLOpM0Z8eCV-MNy7XTktFPIBtxbHBSBrxuLGWsxdFPSJEL2-MIA9XCq3hdILQOzNn-LkwIM"
-    
- ```
+-H "authorization: Bearer wy_ZmPEeTmXAYKin4qPDnqZj0jged66uI1GEj_6MeKqlZpaTXK6zYXEtMbQacDSeKjLvA9GI18rHc8bUomPnnbymhH_uLF7hCzQ1Z9iW_EsIaYowiExEngeDUOdFUWygfJOhXnwwsDNZcFXY3dA8tCmYHJJXdSPgJnC-KvohHxYsfJTDTm4Fa4ixZWTv_tIqLtw2skNy3pq7TGd10Tifs-l7kPRlxL7OkyJsCY-usqRKEDxRRPKh2FSfx_AfJ5chwZGFlh-zlWwRnsL_w1Khi5WjKxQ-1-37MBa7aXDhjPcdr24s4pke1-jEXvPGvW37DirJjY0kTHTLwxoa3aIMeLWC_IUmQVCnpd6YCoAYI7914GRdMiJXF_SDTk1_T1dXTd9CHQSckWViM4IbD9eJyLOpM0Z8eCV-MNy7XTktFPIBtxbHBSBrxuLGWsxdFPSJEL2-MIA9XCq3hdILQOzNn-LkwIM"    
+```
 
+Response
 
-
-
- Response
-
-```html 
+```html
 {
   "Code": 200,
   "Status": "OK"
 }
- ```
-
-
-
-
-
+```
 
 ## SDKs ##
 
@@ -156,46 +86,11 @@ Our API is completely independent of your operating system, database system or d
 
 ### SDK Examples ###
 
-
-
-
-
- C#
-
-
-
-
+C#
 {{< gist groupdocscloud 646c8583b210bcc2770ea6a518a30be9 Storage_CSharp_Delete_File_From_Storage.cs >}}
 
-
-
-
-
-
-
- PHP
-
-
-
-
+PHP
 {{< gist groupdocscloud 8db205dcff0fe84f155e4aa371c0b4f4 Storage_Php_Delete_File_From_Storage.php >}}
 
-
-
-
-
-
-
- Ruby
-
-
-
-
+Ruby
 {{< gist groupdocscloud efe67e20dac7c956c2a22b2d80bfa941 Storage_Ruby_Post_Delete_File.rb >}}
-
-
-
-
-
-
-

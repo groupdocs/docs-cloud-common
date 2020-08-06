@@ -7,7 +7,6 @@ weight: 5
 description: ""
 keywords: ""
 ---
-
 {{< alert style="info" >}}
 There are several cloud storage providers in the market. Although GroupDocs for Cloud provides storage facility to its customers but some customers are not comfortable with GroupDocs cloud storage and want to use their own cloud storage or some other 3rd party storage services they are comfortable with.
 
@@ -17,6 +16,3 @@ Following pages provide step by step configuration how to configure GroupDocs fo
 
 There are several cloud storage providers in the market. Although GroupDocs for Cloud provides storage facility to its customers but some customers are not comfortable with 
 {{< /alert >}}
-
-
-

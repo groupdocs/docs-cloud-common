@@ -7,14 +7,6 @@ weight: 3
 description: ""
 keywords: ""
 ---
-
-
-
-
-
-
-# Move a Specific Folder #
-
 This API allows you to move a Folder to another location in the GroupDocs Cloud Storage. If you do not pass source and destination storage names API will move Folder within default Cloud Storage. 
 
 **Note:** If you want to use a Cloud Storage other than GroupDocs Cloud Storage, you need to configure Third Party Storage with Groupdocs for Cloud. Please follow the instructions at [this page]({{< ref "total/getting-started/ui-topics/configure-3rd-party/_index.md" >}}) to configure your required storage.
@@ -25,37 +17,24 @@ This API allows you to move a Folder to another location in the GroupDocs Cloud 
 
 ## cURL Example ##
 
+Request
 
-
-
-
- Request
-
-```html 
+```html
 curl -v "https://api.groupdocs.cloud/v1.0/storage/folder?path#Output/NewFolder&#x26;recursive#true" \
 -X DELETE \
 -H "Content-Type: application/json" \
 -H "Accept: application/json" \
 -H "authorization: Bearer -Qz7_aqlSP2Mb3kvEKNwL69D6GmcSt3yPc8b4T4VP_DOkfjrNdesDYtM4Izzis8JJoRPSqQgOE1QYW41PeWjGomheHLZnsKHktAARwAzaPky0NfcT5LsMhKJMyfiFWMnF1JlDrK2Gn2ku51x-n-DwFaC3EJlwggrLfyyurCLlYd--PU55qj7okiOUxRYcd5C_F-Q2JnnYTdD4yIll33LP8GwaFlzfg5N9g9bc2XWG-9A8fi7yssSm6YqtSjMjrEypJIz4mC7zxwvP6uI39c9u5n-4vYJqoXyvQjCkDPdCZOejK7VnE7RZavDGV4OLjEgBSCh38LdCSUsKR0S2AK18PBIwb_Qf-RXsJtNnnjJdKbD1w-xE-8kfitHir6qdm4Ei-6adyNx0ZThXP3hulyUUErhetIPBVUaM25rWqy-9zflGRPfYrJWzDA27BcP262Thwd1zV3mh2MNptGAeIINChxebNE"
-    
- ```
+```
 
+Response
 
-
-
- Response
-
-```html 
+```html
 {  
   "code": 200,
   "status": "OK"
 }
- ```
-
-
-
-
-
+```
 
 ## SDKs ##
 
@@ -63,46 +42,11 @@ Our API is completely independent of your operating system, database system or d
 
 ### SDK Examples ###
 
-
-
-
-
- C#
-
-
-
-
+C#
 {{< gist groupdocscloud 646c8583b210bcc2770ea6a518a30be9 Storage_CSharp_Post_Move_Folder.cs >}}
 
-
-
-
-
-
-
- PHP
-
-
-
-
+PHP
 {{< gist groupdocscloud 8db205dcff0fe84f155e4aa371c0b4f4 Storage_Php_Post_Move_Folder.php >}}
 
-
-
-
-
-
-
- Ruby
-
-
-
-
+Ruby
 {{< gist groupdocscloud efe67e20dac7c956c2a22b2d80bfa941 Storage_Ruby_Post_Move_Folder.rb >}}
-
-
-
-
-
-
-

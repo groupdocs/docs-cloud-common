@@ -8,9 +8,9 @@ description: ""
 keywords: ""
 ---
 
-To use Amazon S3 storage, you have to create your own account and create a new bucket at [http:~~/~~/aws.amazon.com/](http://aws.amazon.com/). Please follow [http:~~/~~/docs.amazonwebservices.com/AmazonS3/latest/gsg/SigningUpforS3.html](http://docs.amazonwebservices.com/AmazonS3/latest/gsg/SigningUpforS3.html) for more details. You also have to configure Amazon S3 Storage using your Aspose account at  [https://dashboard.groupdocs.cloud](https://dashboard.groupdocs.cloud/#/). Please follow these steps:
+To use Amazon S3 storage, you have to create your own account and create a new bucket at [AWS Amazon](http://aws.amazon.com). Please follow [http://docs.amazonwebservices.com/AmazonS3/latest/gsg/SigningUpforS3.html](http://docs.amazonwebservices.com/AmazonS3/latest/gsg/SigningUpforS3.html) for more details. You also have to configure Amazon S3 Storage using your Aspose account at [Dashboard](https://dashboard.groupdocs.cloud). Please follow these steps:
 
-* Log into  [https://dashboard.groupdocs.cloud](https://dashboard.groupdocs.cloud/#/)
+* Log into  [Dashboard](https://dashboard.groupdocs.cloud)
 * Click **My Storage** Tab
 * Select 'Amazon S3 Storage' from 'Create New Storage' menu
 

@@ -7,16 +7,13 @@ weight: 1
 description: ""
 keywords: ""
 ---
-
 ## Major Features ##
 
-* 
 The SDKs include the following features:
 
-*  Classes, methods and properties have comments and are IDE-friendly
-*  OAuth2 authentication with the GroupDocs API
-*  Usage of Request/Response classes to represent long lists of parameters.
-
+* Classes, methods and properties have comments and are IDE-friendly
+* OAuth2 authentication with the GroupDocs API
+* Usage of Request/Response classes to represent long lists of parameters.
 
 ## Full List of Issues Covering all Changes in this Release ##
 

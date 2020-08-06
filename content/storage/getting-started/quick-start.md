@@ -15,7 +15,7 @@ keywords: ""
 
 # Create an account #
 
-Creating an account is very simple. Go to [https://dashboard.groupdocs.cloud](https://dashboard.groupdocs.cloud/#/) to create a free account. 
+Creating an account is very simple. Go to [Dashboard](https://dashboard.groupdocs.cloud) to create a free account. 
 
 # Create an API client app #
 
@@ -35,7 +35,7 @@ Use the **App SID** and **App key (secret key)** from the API app client you
 
 
 
- C#
+C#
 
 
 
@@ -48,7 +48,7 @@ Use the **App SID** and **App key (secret key)** from the API app client you
 
 
 
- PHP
+PHP
 
 
 
@@ -61,7 +61,7 @@ Use the **App SID** and **App key (secret key)** from the API app client you
 
 
 
- Ruby
+Ruby
 
 
 

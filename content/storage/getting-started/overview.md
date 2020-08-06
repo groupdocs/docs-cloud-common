@@ -7,54 +7,25 @@ weight: 1
 description: ""
 keywords: ""
 ---
-
-
-
-
-
-
-# GroupDocs.Storage Cloud #
-
 GroupDocs.Storage Cloud is a REST API for performing different Storage related operations in Cloud Applications/Websites.
 
 {{< alert style="info" >}}
 Our GroupDocs.Storage Cloud REST API comes with many storage related features crucial to organizations, such as:
 
 * GroupDocs.Storage Cloud APIs support default GroupDocs storage along with 3rd party storage services
-* 
-Supports Files related operations* 
-Upload File
-
-* 
-Download a Particular File
-
-* 
-Move a File to Another Location
-
-* 
-Delete a Particular File
-
-* 
-Check Presence of a File
-
-
-* 
-Supports Folder related operations* 
-Create a New Folder
-
-* 
-Delete a Particular Folder
-
-* 
-Move a Folder to Another Location
-
-* 
-Get a list of Files of a Specific Folder
-
-
+* Supports Files related operations
+  * Upload File
+  * Download a Particular File
+  * Move a File to Another Location
+  * Delete a Particular File
+  * Check Presence of a File
+* Supports Folder related operations
+  * Create a New Folder
+  * Delete a Particular Folder
+  * Move a Folder to Another Location
+  * Get a list of Files of a Specific Folder
 * Disc usage
 {{< /alert >}}
-
 
 ## Security and Authentication ##
 

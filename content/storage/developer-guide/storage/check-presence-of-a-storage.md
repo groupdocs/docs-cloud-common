@@ -7,14 +7,6 @@ weight: 1
 description: ""
 keywords: ""
 ---
-
-
-
-
-
-
-# Check Presence of a Storage #
-
 This API allows you to check if a storage exists in the specified Cloud App.
 
 ## API Explorer ##
@@ -23,38 +15,24 @@ This API allows you to check if a storage exists in the specified Cloud App.
 
 ## cURL Example ##
 
+Request
 
-
-
-
- Request
-
-```html 
+```html
 curl -v "https://api.groupdocs.cloud/v1.1/storage/MyStorage/exist" \
 -X GET \
 -H "Content-Type: application/json" \
 -H "Accept: application/json" \
 -H "authorization: Bearer -Qz7_aqlSP2Mb3kvEKNwL69D6GmcSt3yPc8b4T4VP_DOkfjrNdesDYtM4Izzis8JJoRPSqQgOE1QYW41PeWjGomheHLZnsKHktAARwAzaPky0NfcT5LsMhKJMyfiFWMnF1JlDrK2Gn2ku51x-n-DwFaC3EJlwggrLfyyurCLlYd--PU55qj7okiOUxRYcd5C_F-Q2JnnYTdD4yIll33LP8GwaFlzfg5N9g9bc2XWG-9A8fi7yssSm6YqtSjMjrEypJIz4mC7zxwvP6uI39c9u5n-4vYJqoXyvQjCkDPdCZOejK7VnE7RZavDGV4OLjEgBSCh38LdCSUsKR0S2AK18PBIwb_Qf-RXsJtNnnjJdKbD1w-xE-8kfitHir6qdm4Ei-6adyNx0ZThXP3hulyUUErhetIPBVUaM25rWqy-9zflGRPfYrJWzDA27BcP262Thwd1zV3mh2MNptGAeIINChxebNE"
-    
- ```
+```
+Response
 
-
-
-
- Response
-
-```html 
+```html
 {
   "isExist": true,
   "code": 200,
   "status": "OK"
 }
- ```
-
-
-
-
-
+```
 
 ## SDKs ##
 
@@ -62,51 +40,11 @@ Our API is completely independent of your operating system, database system or d
 
 ### SDK Examples ###
 
-
-
-
-
- C#
-
-
-
-
+C#
 {{< gist groupdocscloud 646c8583b210bcc2770ea6a518a30be9 Storage_CSharp_Get_Is_Storage_Exist.cs >}}
 
-
-
-
-
-
-
- PHP
-
-
-
-
+PHP
 {{< gist groupdocscloud 8db205dcff0fe84f155e4aa371c0b4f4 Storage_Php_Get_Is_Storage_Exist.php >}}
 
-
-
-
-
-
-
- Ruby
-
-
-
-
+Ruby
 {{< gist groupdocscloud efe67e20dac7c956c2a22b2d80bfa941 Storage_Ruby_Is_Storage_Exist.rb >}}
-
-
-
-
-
-
-
- 
-
- 
-
- 
