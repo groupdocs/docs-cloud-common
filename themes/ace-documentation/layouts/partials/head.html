@@ -9,8 +9,7 @@
     <title>
         {{ block "title" . }}
         {{ .Title}} 
-        {{ if .Params.productName }} | {{ .Params.productName }} {{ end }}
-        {{ if ne .Title .Site.Title }} | {{ .Site.Title }} {{ end }}
+        {{ if .Params.productName }} | {{ .Params.productName }} {{ end }}        
         {{ end }}
     </title>
 
