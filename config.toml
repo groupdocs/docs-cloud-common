@@ -1,4 +1,4 @@
-baseURL                     = "https://docs2.groupdocs.com/"
+baseURL                     = "https://docs.groupdocs.cloud/"
 languageCode                = "en-us"
 title                       = "Documentation"
 theme                       = "ace-documentation"
