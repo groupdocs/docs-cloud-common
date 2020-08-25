@@ -65,6 +65,15 @@ li.nav-item.parent > a.nav-link {
   display: none;
 }
 
+.tab-content > .tab-pane > .highlight > pre {
+  border-top: none;
+}
+
+.tab-content > .tab-pane > .gist > .gist-file {
+  border-top: none;
+}
+
+
 .tab-content > .active {
   display: block;
 }
