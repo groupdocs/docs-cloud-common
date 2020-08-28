@@ -48,7 +48,7 @@ For each Application you create in the dashboard, you can only have one refresh_
 
 ### cURL Example ###
 
-Request
+{{< tabs tabTotal="2" tabID="1" tabName1="Request" tabName2="Response" >}} {{< tab tabNum="1" >}}
 
 ```html
 curl -v "https://api.groupdocs.cloud/oauth2/token" \
@@ -57,7 +57,7 @@ curl -v "https://api.groupdocs.cloud/oauth2/token" \
 -H "Accept: application/json"
 ```
 
-Response
+{{< /tab >}} {{< tab tabNum="2" >}}
 
 ```html
 {
@@ -71,6 +71,8 @@ Response
   ".expires":"Thu, 21 Dec 2017 06:23:32 GMT"
 }
 ```
+
+{{< /tab >}} {{< /tabs >}}
 
 ## Obtain new Access/Refresh Token using the Refresh Token ##
 
@@ -88,7 +90,7 @@ The returned ticket will be the same as the above, but a new refresh_token is is
 
 ### cURL Example ###
 
-Request
+{{< tabs tabTotal="2" tabID="2" tabName1="Request" tabName2="Response" >}} {{< tab tabNum="1" >}}
 
 ```html
 curl -v "https://api.groupdocs.cloud/oauth2/token" \
@@ -98,7 +100,7 @@ curl -v "https://api.groupdocs.cloud/oauth2/token" \
 -H "Accept: application/json"
 ```
 
-Response
+{{< /tab >}} {{< tab tabNum="2" >}}
 
 ```html
 {
@@ -113,6 +115,8 @@ Response
 }
 ```
 
+{{< /tab >}} {{< /tabs >}}
+
 ## Call REST API ##
 
 Now that you have the Bearer Token (access_token) generated using the application credentials, you can make API calls and authorize by adding the access token in the ‘Authorization’ header, as it’s defined in the OAuth 2.0 protocol.
@@ -123,7 +127,7 @@ Now that you have the Bearer Token (access_token) generated using the applicatio
 
 ### cURL Example ###
 
-Request
+{{< tabs tabTotal="2" tabID="3" tabName1="Request" tabName2="Response" >}} {{< tab tabNum="1" >}}
 
 ```html
 curl -v "https://api.groupdocs.cloud/v1/viewer/Test.msg/html/attachments/Freescale%20OSC.pdf/pages/1/resources/styles.css" \
@@ -132,7 +136,7 @@ curl -v "https://api.groupdocs.cloud/v1/viewer/Test.msg/html/attachments/Freesca
 -H "authorization: Bearer _J7gynLXEsUVn8fCYlsHqP-Su6G3-TjRUQH328UFoMQ2j7wrh8_n5CcqqDU8Bpx7Pvkoc3I9K1AeDOINokG4a1pmXwfMdExQRt6vQ-356u-OQvZQjoYkDwNyEUObAlDbAw7LFcA1utZKnerf2JV6Q8Gjn00BH-N4IJaUY02jXzppPP7fOdx0RNTiUfAnAuemsDbItsyd-BTT8oIk2AwcTwIZM5ub5eFNYzgIrtrTDxVUMd6oG3-xAuGVM5h2Bc9D-G17pspaLXIEkeqyjSMaOzKHxi-vOUse3i8mRTNhu0gCHXt2q08MR_qMtfgGhT8ZQh-kk8bRTX9QVv-LzcSx7I0PTZkYM8Rha8QVr1aStXehlW2yIGo7YGQobeBnsn2zmIuR1CzczdxfePSQ4evPuoaSuFN9I9swLDFcZYfVdcq3Tk5i"
 ```
 
-Response
+{{< /tab >}} {{< tab tabNum="2" >}}
 
 ```html
     sup {
@@ -181,6 +185,10 @@ Response
 }
 ```
 
+{{< /tab >}} {{< /tabs >}}
+
+{{< tabs tabTotal="2" tabID="4" tabName1="Request" tabName2="Response" >}} {{< tab tabNum="1" >}}
+
 ```html
 
 curl -v "https://api.groupdocs.cloud/v1/viewer/Test.msg/html/attachments/Freescale%20OSC.pdf/pages/1/resources/styles.css" \
@@ -190,7 +198,7 @@ curl -v "https://api.groupdocs.cloud/v1/viewer/Test.msg/html/attachments/Freesca
 
 ```
 
-Response
+{{< /tab >}} {{< tab tabNum="2" >}}
 
 ```html
   sup {
@@ -237,6 +245,8 @@ a:visited {text-decoration:none;}
 }
 ```
 
+{{< /tab >}} {{< /tabs >}}
+
 ## Tokens Lifetime ##
 
 The time of the tokens is finite. By default, the **access_token** lifetime is **1 day**, and the **refresh_token** lifetime is **1 year**. Before you create a new access_token, use it and renew it only before it expires. To detect when an access token expires, you must write specific code that will check for any of these:
@@ -274,5 +284,8 @@ We didn't use registered application ID and application key here, so the resulti
 
 See below implementation of the URL signing algorithm in different languages.
 
-C#  
+{{< tabs tabTotal="1" tabID="5" tabName1="C#" >}} {{< tab tabNum="1" >}}
+
 {{< gist groupdocscloud caf8bcd223759d65afaa07436f251820 Viewer_CSharp_Signing_URL.cs >}}
+
+{{< /tab >}} {{< /tabs >}}

@@ -8,13 +8,6 @@ description: ""
 keywords: ""
 ---
 
-
-
-
-
-
-# Download a Specific File #
-
 This API allows you to download a file from [GroupDocs Cloud Storage](https://dashboard.groupdocs.cloud).
 
 ## API Explorer ##
@@ -23,11 +16,7 @@ This API allows you to download a file from [GroupDocs Cloud Storage](https://da
 
 ## cURL Example ##
 
-
-
-
-
- Request
+{{< tabs tabTotal="2" tabID="1" tabName1="Request" tabName2="Response" >}} {{< tab tabNum="1" >}}
 
 ```html
 curl -v "https://api.groupdocs.cloud/v1.0/storage/file?path#signature.jpg" \
@@ -35,13 +24,9 @@ curl -v "https://api.groupdocs.cloud/v1.0/storage/file?path#signature.jpg" \
 -H "Content-Type: application/json" \
 -H "Accept: application/json" \
 -H "authorization: Bearer wy_ZmPEeTmXAYKin4qPDnqZj0jged66uI1GEj_6MeKqlZpaTXK6zYXEtMbQacDSeKjLvA9GI18rHc8bUomPnnbymhH_uLF7hCzQ1Z9iW_EsIaYowiExEngeDUOdFUWygfJOhXnwwsDNZcFXY3dA8tCmYHJJXdSPgJnC-KvohHxYsfJTDTm4Fa4ixZWTv_tIqLtw2skNy3pq7TGd10Tifs-l7kPRlxL7OkyJsCY-usqRKEDxRRPKh2FSfx_AfJ5chwZGFlh-zlWwRnsL_w1Khi5WjKxQ-1-37MBa7aXDhjPcdr24s4pke1-jEXvPGvW37DirJjY0kTHTLwxoa3aIMeLWC_IUmQVCnpd6YCoAYI7914GRdMiJXF_SDTk1_T1dXTd9CHQSckWViM4IbD9eJyLOpM0Z8eCV-MNy7XTktFPIBtxbHBSBrxuLGWsxdFPSJEL2-MIA9XCq3hdILQOzNn-LkwIM"
-    
 ```
 
-
-
-
-Response
+{{< /tab >}} {{< tab tabNum="2" >}}
 
 ```html
 {
@@ -50,10 +35,7 @@ Response
 }
 ```
 
-
-
-
-
+{{< /tab >}} {{< /tabs >}}
 
 ## SDKs ##
 
@@ -61,50 +43,16 @@ Our API is completely independent of your operating system, database system or d
 
 ### SDK Examples ###
 
-
-
-
-
- C#
-
-
-
+{{< tabs tabTotal="3" tabID="10" tabName1="C#" tabName2="PHP" tabName3="Ruby" >}} {{< tab tabNum="1" >}}
 
 {{< gist groupdocscloud 646c8583b210bcc2770ea6a518a30be9 Storage_CSharp_Get_Download_File.cs >}}
 
-
-
-
-
-
-
- PHP
-
-
-
+{{< /tab >}} {{< tab tabNum="2" >}}
 
 {{< gist groupdocscloud 8db205dcff0fe84f155e4aa371c0b4f4 Storage_Php_Get_Download_File.php >}}
 
-
-
-
-
-
-
- Ruby
-
-
-
+{{< /tab >}} {{< tab tabNum="3" >}}
 
 {{< gist groupdocscloud efe67e20dac7c956c2a22b2d80bfa941 Storage_Ruby_Put_Download_File.rb >}}
 
-
-
-
-
- 
-
- 
-
-
-
+{{< /tab >}} {{< /tabs >}}
