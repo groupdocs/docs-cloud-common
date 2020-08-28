@@ -44,11 +44,11 @@ Our API is completely independent of your operating system, database system or d
 
 {{< tabs tabTotal="3" tabID="10" tabName1="C#" tabName2="PHP" tabName3="Ruby" >}} {{< tab tabNum="1" >}}
 
-{{< gist groupdocscloud 646c8583b210bcc2770ea6a518a30be9 Storage_CSharp_Post_Move_File.cs >}}
+{{< gist groupdocscloud 646c8583b210bcc2770ea6a518a30be9 Storage_CSharp_-Post_Move_File.cs >}}
 
 {{< /tab >}} {{< tab tabNum="2" >}}
 
-{{< gist groupdocscloud 8db205dcff0fe84f155e4aa371c0b4f4 Storage_Php_Post_Move_File.php >}}
+{{< gist groupdocscloud 8db205dcff0fe84f155e4aa371c0b4f4 Storage_Php_-Post_Move_File.php >}}
 
 {{< /tab >}} {{< tab tabNum="3" >}}
 
