@@ -1,9 +1,14 @@
-{{- $productName := path.Dir .Params.Url -}}
+{{- $productName := index (split .Params.Url "/") 0 -}}
 {{- $pagePath := replace .File.Path "\\" "/" -}}
 
 {{- if and .File .Site.Params.GitHubRepo .Site.Params.GitHubEditPath -}}
 <div class="text-right docs-article-edit d-none d-md-block">
-  <a class="flex align-center" href="https://github.com/groupdocs-{{ $productName}}-cloud/docs/blob/master/content/{{ $pagePath }}" target="_blank" rel="noopener">
+  
+{{ if eq $productName "storage" | or (eq $productName "total")}}
+<a class="flex align-center" href="https://github.com/groupdocs/docs-cloud-common/tree/master/content/{{ $pagePath }}" target="_blank" rel="noopener">
+{{ else }}
+<a class="flex align-center" href="https://github.com/groupdocs-{{ $productName}}-cloud/docs/blob/master/content/{{ $pagePath }}" target="_blank" rel="noopener">
+{{ end }}
     <i class="fas fa-pen"></i>
     <span>{{ "Edit" }}</span>
   </a>
