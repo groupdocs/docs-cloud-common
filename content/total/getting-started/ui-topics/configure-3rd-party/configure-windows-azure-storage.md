@@ -8,18 +8,17 @@ description: ""
 keywords: ""
 ---
 
-{{< alert style="info" >}}
-The page contains Windows Azure Storage configuration.
-{{< /alert >}}
-
 You have to complete following steps to configure the Storage:
 
 * Create Azure account if you don't have one
-* Log into [Dashboard](https://dashboard.groupdocs.cloud), open My Storage
-* Select Create New Storage and Windows Azure Storage:  
-![](total/images/StorageList.PNG)
-* Enter Storage Name, Container, Account name, Account key, and connection from your Azure account
-* Save Storage  
+* Log into [Dashboard](https://dashboard.groupdocs.cloud)
+* Access the [Storages](https://dashboard.groupdocs.cloud/storages) page
+* Click on the 'Create New Storage' and select [Azure Storage](https://dashboard.groupdocs.cloud/storages/googledrive/create)\
+![](total/images/ThirdPartyStorageList.PNG)
+
+* Enter Storage Name, Container, Account name, Account key, and Connection from your Azure account\
 ![](total/images/AzureStorage.png)
+
+* Save Storage
 
 Now you can use it by its name in the service API with this account.

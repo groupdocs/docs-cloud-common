@@ -8,21 +8,17 @@ description: ""
 keywords: ""
 ---
 
-{{< alert style="info" >}}
-The page contains FTP Storage configuration.
-{{< /alert >}}
-
 You have to complete following steps to configure the Storage:
 
 * Create FTP storage account. Box.com account is used via FTP in this example
-* Log in at [Dashboard](https://dashboard.groupdocs.cloud), open My Storage
-* Select Create New Storage and FTP Storage
+* Log into [Dashboard](https://dashboard.groupdocs.cloud)
+* Access the [Storages](https://dashboard.groupdocs.cloud/storages) Page
+* Select [FTP Storage](https://dashboard.groupdocs.cloud/storages/ftp/create) from the 'Create New Storage' menu\
+![](total/images/ThirdPartyStorageList.PNG)
 
-![](total/images/StorageList.PNG)
-
-* Enter Storage Name (any name of your choice), FTP server address, user name, password and port number and check if Require explicit SSL over TLS
+* Enter Storage Name (any name of your choice), FTP server address, user name, password and port number and check if Require explicit SSL over TLS\
+![](total/images/BoxFTP.png)
 * Save Storage
 
-![](total/images/BoxFTP.png)
 
 Now you can use it by its name in the service API with this account.

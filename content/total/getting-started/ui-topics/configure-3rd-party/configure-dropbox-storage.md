@@ -8,24 +8,18 @@ description: ""
 keywords: ""
 ---
 
-{{< alert style="info" >}}
-The page contains DropBox Storage configuration.
-{{< /alert >}}
-
 You have to complete following steps to configure Dropbox Storage:
 
-* Go to [Dashboard](https://dashboard.groupdocs.cloud)
-* Select **My Storage** tab
-* Click on **Create New Storage** dropdown menu and select **Dropbox Storage**
+* Log into [Dashboard](https://dashboard.groupdocs.cloud)
+* Access the [Storages](https://dashboard.groupdocs.cloud/storages) Page
+* Select [DropBox Storage](https://dashboard.groupdocs.cloud/storages/dropbox/create) from the 'Create New Storage' menu\
+![](total/images/ThirdPartyStorageList.PNG)
 
-![](total/images/StorageList.PNG)
-
-* Enter **Storage Name** and click on **Generate Access Tokens** button
-
+* Enter **Storage Name** and click on **Generate Token** button\
 ![](total/images/DropBoxStorage.PNG)
 
-* Log into Dropbox and authorizes our app
+* Log into Dropbox and Authorize our app
 * Dropbox will generate your Access Token and you will be redirected to our Dashboard
 * Press **Save** button to create storage
 
-Now you can use this storage name with your API calls.
+Now you can use this storage with your API calls.
