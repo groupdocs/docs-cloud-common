@@ -13,7 +13,7 @@ This API allows you to get disk usage details from specified Cloud Storage. If 
 
 ## API Explorer ##
 
-[GroupDocs.Storage Cloud API Reference](https://apireference.groupdocs.cloud/storage/) lets you to try out [Get Disk Usage API](https://apireference.groupdocs.cloud/storage/#!/Storage/GetDiscUsage) right away in your browser. It allows you to effortlessly interact and try out every single operation that our APIs exposes. Please check [this article]({{< ref "total/getting-started/ui-topics/create-new-app-and-get-app-key-and-sid.md" >}}) to learn how to get your App Key and SID. 
+[GroupDocs.Storage Cloud API Reference](https://apireference.groupdocs.cloud/storage/) lets you to try out [Get Disk Usage API](https://apireference.groupdocs.cloud/storage/#!/Storage/GetDiscUsage) right away in your browser. It allows you to effortlessly interact and try out every single operation that our APIs exposes. Please check [this article]({{< ref "total/getting-started/ui-topics/creating-and-managing-application.md" >}}) to learn how to get your App Key and SID. 
 
 ## cURL Example ##
 

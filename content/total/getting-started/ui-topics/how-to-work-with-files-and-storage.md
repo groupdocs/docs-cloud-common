@@ -7,15 +7,15 @@ weight: 3
 description: ""
 keywords: ""
 ---
-## Using **My Files** tab
+## Using **Files** view
 
 * Log into [Dashboard](https://dashboard.groupdocs.cloud).
-* Click **My Files** Tab.
-* Expand **Storage** drop-down and select the desired Storage e.g "First Storage".
+* Click on the [Files](https://dashboard.groupdocs.cloud/files) Page.
+* Expand **Storage** drop-down and select the desired Storage e.g "Test".
 
-## Uploading Local File to **Default Storage**
+## Uploading Local File to a **Storage**
 
-* Click **Upload a File**
+* Click **Upload**
 * A dialog box appears, browse the desired file from your local machine. e.g "Input.docx" and click **Open**
 * **Close** the dialog box
 **Congratulations**! The file has been successfully uploaded.
@@ -25,9 +25,9 @@ You can also observe the change in free and used space before and after uploadin
 
 ## Creating a New Folder
 
-* Click **Create a Folder**
+* Click **New Folder**
 * Provide the **Folder Name** e.g "MyFolderName"
-* Click **Create** That's it. A folder "MyFolderName" has been successfully created.  
+* Click **Create** and that's it. A folder "MyFolderName" has been successfully created.  
 
 You can also view multiple properties i.e. FolderName, Size and Modified date.
 
@@ -56,3 +56,8 @@ That's it. The file has been successfully copied.
 * Click **Yes** to confirm or click Cancel to return back.
 
 That's it. The file has been successfully deleted.
+
+## Using the API
+
+* Each product has integrated an API to work with storages, files and folders.
+* Please check documentation of the product of your interest to see how you can manage the above mentioned resources through the product's API by using REST API calls.

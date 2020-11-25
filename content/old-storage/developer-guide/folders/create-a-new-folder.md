@@ -14,7 +14,7 @@ This API allows you to create a new Folder in the specified Cloud Storage. If yo
 
 ## API Explorer ##
 
-[GroupDocs.Storage Cloud API Reference](https://apireference.groupdocs.cloud/storage/) lets you to try out [Create Folder API](https://apireference.groupdocs.cloud/storage/#!/Folder/PutCreateFolder) right away in your browser. It allows you to effortlessly interact and try out every single operation that our APIs exposes. Please check [this article]({{< ref "total/getting-started/ui-topics/create-new-app-and-get-app-key-and-sid.md" >}}) to learn how to get your App Key and SID. 
+[GroupDocs.Storage Cloud API Reference](https://apireference.groupdocs.cloud/storage/) lets you to try out [Create Folder API](https://apireference.groupdocs.cloud/storage/#!/Folder/PutCreateFolder) right away in your browser. It allows you to effortlessly interact and try out every single operation that our APIs exposes. Please check [this article]({{< ref "total/getting-started/ui-topics/creating-and-managing-application.md" >}}) to learn how to get your App Key and SID. 
 
 ## cURL Example ##
 

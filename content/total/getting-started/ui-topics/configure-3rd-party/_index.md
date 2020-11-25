@@ -7,12 +7,12 @@ weight: 5
 description: ""
 keywords: ""
 ---
-{{< alert style="info" >}}
-There are several cloud storage providers in the market. Although GroupDocs for Cloud provides storage facility to its customers but some customers are not comfortable with GroupDocs cloud storage and want to use their own cloud storage or some other 3rd party storage services they are comfortable with.
 
-We at GroupDocs for Cloud, want to go beyond limitations and make GroupDocs for Cloud a kind of Gateway between a Developer and the Cloud Storage of his users. This will allow you to write your Application once, and we'll take care of both the File Formats and also letting you support many different Cloud Storage platforms through a single consistent interface.
+Although GroupDocs Cloud provides storage facility to its customers, GroupDocs Cloud is not a real storage provider and therefore there is a [File Retention Policy](https://company.groupdocs.cloud/legal/file-retention-policy) defined which customers needs to understand. 
 
-Following pages provide step by step configuration how to configure GroupDocs for Cloud with other 3rd party cloud storages.
+Some customers are not comfortable with GroupDocs Cloud Storage and they want to use their own cloud storage or some other 3rd party storage services they are comfortable with.
 
-There are several cloud storage providers in the market. Although GroupDocs for Cloud provides storage facility to its customers but some customers are not comfortable with 
-{{< /alert >}}
+We at GroupDocs Cloud, go beyond limitations and make GroupDocs Cloud a kind of Gateway between a Developer and the Cloud Storage he prefers. This will allow you to write your Application once, and we'll take care of both the File Formats and also letting you support many different Cloud Storage platforms through a single consistent interface.
+
+Following pages provides you step by step configuration on how to configure GroupDocs Cloud with other 3rd party cloud storages.
+
