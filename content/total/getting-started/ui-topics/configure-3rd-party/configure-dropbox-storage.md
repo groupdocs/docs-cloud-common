@@ -12,12 +12,8 @@ You have to complete following steps to configure Dropbox Storage:
 
 * Log into [Dashboard](https://dashboard.groupdocs.cloud)
 * Access the [Storages](https://dashboard.groupdocs.cloud/storages) Page
-* Select [DropBox Storage](https://dashboard.groupdocs.cloud/storages/dropbox/create) from the 'Create New Storage' menu\
-![](total/images/ThirdPartyStorageList.PNG)
-
-* Enter **Storage Name** and click on **Generate Token** button\
-![](total/images/DropBoxStorage.PNG)
-
+* Select [DropBox Storage](https://dashboard.groupdocs.cloud/storages/dropbox/create) from the 'Create New Storage' menu
+* Enter **Storage Name** and click on **Generate Token** button
 * Log into Dropbox and Authorize our app
 * Dropbox will generate your Access Token and you will be redirected to our Dashboard
 * Press **Save** button to create storage

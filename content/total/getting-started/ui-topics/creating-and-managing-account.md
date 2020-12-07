@@ -17,8 +17,6 @@ keywords: ""
 
 **Congratulations!** You have successfully signed up with GroupDocs Cloud and you can access your **Dashboard**.
 
-![](total/images/Dashboard.png)
-
 ## Viewing and updating your Subscription and Billing Details
 
 * Access the [Billing / Subcription](https://dashboard.groupdocs.cloud/billing/subscription) menu to view billing details.
