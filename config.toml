@@ -70,7 +70,8 @@ enableGitInfo               = true
             
             { Key = "assembly",         Name = "GroupDocs.Assembly",        Description = "Automate your document generation process with cross platform automation assembly APIs to boost productivity and accuracy" },
             { Key = "classification",   Name = "GroupDocs.Classification",  Description = "Build custom applications to perform documents and text categorization operations using different taxonomies within your applications." },
-            { Key = "translation",   Name = "GroupDocs.Translation",  Description = "Accurately translate text and business documents created in Microsoft Word and Excel file formats into other languages across popular platforms." }
+            { Key = "translation",   Name = "GroupDocs.Translation",  Description = "Accurately translate text and business documents created in Microsoft Word and Excel file formats into other languages across popular platforms." },
+            { Key = "ZZZ",   Name = "ZZZ",  Description = "" }
     ]
 
     MoreServices = [ 

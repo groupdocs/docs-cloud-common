@@ -1,9 +1,15 @@
+{{- if ne .Name "ZZZ" -}}
 <div class="product-container">
-    <h4><a href="{{ .Key }}">{{ .Name }} Cloud Product Family</a></h4>
-    <div class="description-container">
-        {{ .Description }}
-    </div>
-    <div class="buttons-container">        
-        <a class="btn btn-net" href="{{ .Key }}">Documentation</a>        
+    <h3><a href="{{ .Key }}">{{ .Name }} Cloud Product Family</a></h3>
+    <div class="product-description">{{ .Description }}</div>
+    <div class="product-buttons">        
+        <a href="{{ .Key }}"><div class="pdt-btn btn-blue"><i class="fab fa-windows"></i> <span>Documentation</span></div></a>       
+        <a href="https://github.com/groupdocs-{{ .Key }}-cloud"><div class="pdt-btn btn-red"><i class="fab fa-github"></i> <span>GitHub</span></div></a>
     </div>
 </div>    
+{{- else -}}
+<div class="product-container">    
+    <div class="product-description"></div>
+    <div class="product-buttons"></div>
+</div>    
+{{- end -}}
