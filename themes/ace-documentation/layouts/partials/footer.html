@@ -2,7 +2,6 @@
 
 <script src="{{ .Site.BaseURL }}lib/popper.min.js"></script> <!-- Popper.js - dependency of Bootstrap -->
 <script src="{{ .Site.BaseURL }}js/bootstrap.min.js"></script> <!-- Other javascript -->
-
 <script src="{{ .Site.BaseURL }}js/anchor.min.js"></script> <!-- Heading Anchors script -->
 <script>anchors.add('.main h2, .main h3');</script>
 
@@ -10,3 +9,22 @@
 {{ if (findRE "<pre" .Content 1) }}    
     <script type="text/javascript" src="{{ .Site.BaseURL }}plugins/clip.js"></script>
 {{ end }}
+
+<script>
+    (function() {
+      var fess = document.createElement('script');
+      fess.type = 'text/javascript';
+      fess.async = true;
+      // fess.src is URL for FSS JS
+      fess.src = 'https://search.groupdocs.cloud/common/js/fess-ss.min.js';
+      fess.charset = 'utf-8';
+      fess.setAttribute('id', 'fess-ss');
+      fess.setAttribute('fess-url', 'https://search.groupdocs.cloud/json/');
+      fess.setAttribute('popup-result', 'true');
+      fess.setAttribute('enable-thumbnail', 'false');
+      fess.setAttribute('fields-label', 'gdclouddocs');
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(fess, s);
+    })();
+</script>
+ 
