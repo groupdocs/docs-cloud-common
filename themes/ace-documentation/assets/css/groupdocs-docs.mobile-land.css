@@ -1,0 +1,26 @@
+@media (max-width: 1109px) {
+    
+    #top-container{
+        padding: 20px 0;
+    }
+
+    #content-container{
+        width: 100%;
+    }
+
+    #support-buttons-container{
+        display: none;
+    }
+
+    .product-row{
+        border-radius: 0;
+    }
+
+    .product-container{
+        width: 100%;
+    }
+
+    .product-splitter{
+        display: none;
+    }
+}

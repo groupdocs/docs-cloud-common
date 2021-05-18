@@ -1,18 +1,18 @@
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/fontawesome.min.css">
-<link rel="shortcut icon" href="https://cms.admin.containerize.com/templates/groupdocs/favicon.ico" />
-<!-- JS -->
-<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
-<script src="https://menu.containerize.com/Scripts/Containerize.Menu.min.js"></script>
-<!-- 3rd party css -->
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css"/>
-<link rel="stylesheet" type="text/css" href="https://cms.admin.containerize.com/templates/aspose/css/bootstrap.css?v=335"/>
-<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700"/>
+{{ $favicon := resources.Get "favicon.ico" }}
+<link rel="shortcut icon" href="{{ $favicon.Permalink }}" />
 
-<!-- GroupDocs Common CSS -->
-<link rel="stylesheet" type="text/css"  href="https://cms.admin.containerize.com/templates/aspose/css/AsposePtyLtdMenu.css?v2.8"/>
-<link rel="stylesheet" type="text/css" href="https://cms.admin.containerize.com/templates/groupdocs/css/groupdocs.css"/>
-<link rel="stylesheet" type="text/css" href="https://cms.admin.containerize.com/templates/aspose/css/font-awesome.css"/>      
-        
-<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/groupdocs-docs.css"/>
-<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/groupdocs-docs.mobile.css"/>   
+{{ $jquery := resources.Get "js/jquery-3.6.0.slim.min.js" }}
+<script src="{{ $jquery.Permalink }}"></script>
+
+<link rel="dns-prefetch" href="https://fonts.gstatic.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" />
+
+{{ $openSansCss := resources.Get "fonts/open-sans.css" }}
+{{ $bootstrapCss := resources.Get "css/aspose-bootstrap-land.css" }}
+{{ $fontawesomeCss := resources.Get "css/fontawesome-slim-land.css" }}
+{{ $style := resources.Get "css/groupdocs-docs-land.css" }}
+{{ $styleMobile := resources.Get "css/groupdocs-docs.mobile-land.css" }}
+{{ $bundleCss := slice $openSansCss $bootstrapCss $fontawesomeCss $style $styleMobile | resources.Concat "css/bundle.css" | toCSS | minify }}
+
+<link rel="stylesheet" type="text/css" href="{{ $bundleCss.Permalink }}" />
 

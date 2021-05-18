@@ -4,14 +4,18 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="{{ default .Summary .Description }}">
     <meta name="keywords" content={{ delimit .Keywords " " }} >
-    <link rel="canonical" href="{{ .Permalink }}">
-    
+    <link rel="canonical" href="{{ .Permalink }}">    
     <title>
-        {{ block "title" . }}
-        {{ .Title}} 
-        {{ if .Params.productName }} | {{ .Params.productName }} {{ end }}
-        {{ if ne .Title .Site.Title }} | {{ .Site.Title }} {{ end }}
-        {{ end }}
+        {{- block "title" . -}}
+        {{- $titleFull := .Title -}}        
+        {{- if .Params.productName -}} 
+            {{ $titleFull = (print $titleFull " | " .Params.productName) -}} 
+        {{- end -}}        
+        {{- if ne .Title .Site.Title -}} 
+            {{ $titleFull = (print $titleFull " | " .Site.Title) -}}                    
+        {{- end -}}
+        {{- $titleFull -}}         
+        {{- end -}}
     </title>
 
    <!-- Only include the tracking when using `hugo` or adding `--environment production` -->
@@ -22,14 +26,13 @@
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-
         gtag('config', 'UA-27946748-3');
     </script>
    {{- end -}}
     
    {{ if .Params.useLandingCss }}
     {{ partial "head-land-scripts" }}   
-   {{ else}}
-   {{ partial "head-docs-scripts" }}
+   {{ else }}
+    {{ partial "head-docs-scripts" }}
    {{ end }}      
 </head>

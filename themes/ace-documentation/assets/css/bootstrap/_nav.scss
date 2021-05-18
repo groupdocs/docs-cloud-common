@@ -44,19 +44,21 @@ li.nav-item.parent > a.nav-link {
 }
 
 .collapsable-menu-icon[aria-expanded="true"]::before {
-  content: "\f107";
-  font-family: FontAwesome;
+  content: "\f078";
+  font-family: "Font Awesome 5 Free Solid";
   position: absolute;
   right: 0;
   padding-right: 2px;
+  font-size: 0.75rem;
 }
 
 .collapsable-menu-icon[aria-expanded="false"]::before {
-  content: "\f105";
-  font-family: FontAwesome;
+  content: "\f054";
+  font-family: "Font Awesome 5 Free Solid";
   position: absolute;
   right: 0;
   padding-right: 2px;
+  font-size: 0.75rem;
 }
 
 
