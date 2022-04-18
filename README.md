@@ -12,6 +12,7 @@
 | GroupDocs.Merger Cloud    | [![Build Status](https://travis-ci.com/groupdocs-merger-cloud/docs.svg?branch=master)](https://travis-ci.com/groupdocs-merger-cloud/docs)
 | GroupDocs.Metadata Cloud   | [![Build Status](https://travis-ci.com/groupdocs-metadata-cloud/docs.svg?branch=master)](https://travis-ci.com/groupdocs-metadata-cloud/docs)
 | GroupDocs.Parser Cloud     | [![Build Status](https://travis-ci.com/groupdocs-parser-cloud/docs.svg?branch=master)](https://travis-ci.com/groupdocs-parser-cloud/docs)
+| GroupDocs.Rewriter Cloud  | [![Build Status](https://travis-ci.com/groupdocs-rewriter-cloud/docs.svg?branch=master)](https://travis-ci.com/groupdocs-rewriter-cloud/docs)
 | GroupDocs.Signature Cloud  | [![Build Status](https://travis-ci.com/groupdocs-signature-cloud/docs.svg?branch=master)](https://travis-ci.com/groupdocs-signature-cloud/docs)
 | GroupDocs.Translation| [![Build Status](https://travis-ci.com/groupdocs-translation-cloud/docs.svg?branch=master)](https://travis-ci.com/groupdocs-translation-cloud/docs)
 | GroupDocs.Viewer Cloud     | [![Build Status](https://travis-ci.com/groupdocs-viewer-cloud/docs.svg?branch=master)](https://travis-ci.com/groupdocs-viewer-cloud/docs)

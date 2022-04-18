@@ -57,6 +57,12 @@ hideChildren: true
 * [Developer Guide](https://docs.groupdocs.cloud/parser/developer-guide)
 * [Release Notes](https://docs.groupdocs.cloud/parser/release-notes)
 
+## GroupDocs.Rewriter Cloud
+
+* [Getting Started](https://docs.groupdocs.cloud/rewriter/getting-started)
+* [Developer Guide](https://docs.groupdocs.cloud/rewriter/developer-guide)
+* [Release Notes](https://docs.groupdocs.cloud/rewriter/release-notes)
+
 ## GroupDocs.Signature Cloud
 
 * [Getting Started](https://docs.groupdocs.cloud/signature/getting-started)
