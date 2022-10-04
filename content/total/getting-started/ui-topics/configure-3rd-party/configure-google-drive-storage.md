@@ -44,8 +44,10 @@ You have to complete following steps to connect a Google Drive Storage:
 * Open [Dashboard](https://dashboard.groupdocs.cloud)
 * Access the [Storages](https://dashboard.groupdocs.cloud/storages) page
 * Click on the 'Create New Storage' and select [Google Drive Storage](https://dashboard.groupdocs.cloud/storages/googledrive/create)
-* Enter Storage Name, Client Id and Client secret from the generated Client Id at Google console
+* Enter Storage Name (For example: MyGoogleStorage), Client Id and Client secret from the generated Client Id at Google console
 * Push **Generate Refresh Token** button and allow access of our API to your Google Drive files
 * Save Storage
 
-Now you can use it by its name in the service API with this account.
+Now you can use it by its name in the service API with this account. For example:
+
+https://api.groupdocs.cloud/v2.0/conversion/info?FilePath=testfile.txt&StorageName=MyGoogleStorage
