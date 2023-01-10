@@ -29,26 +29,16 @@
         gtag('config', 'UA-27946748-3');
     </script>
 
-    <!-- GA4 - Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y54Z0WSDZ1"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-Y54Z0WSDZ1');
-    </script>
-
-    <script async src="https://www.googletagmanager.com/gtag/js?id=GTM-T42TVBC"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'GTM-T42TVBC');
-    </script>
-        
-    <!-- END OF GA4 - Google tag (gtag.js) -->
+    {{- if .Site.Params.google_tag_manager_id -}}
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','{{ .Site.Params.google_tag_manager_id }}');</script>
+    <!-- End Google Tag Manager -->
+    {{- end -}}
+    
    {{- end -}}
     
    {{ if .Params.useLandingCss }}

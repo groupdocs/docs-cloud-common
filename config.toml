@@ -38,6 +38,7 @@ enableGitInfo               = true
     Rel                     = "sitemap"
 
 [Params]
+    google_tag_manager_id   = "GTM-T42TVBC"
     contentDir              = "content"
     sitemapMax              = 49999
 
