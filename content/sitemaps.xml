@@ -34,7 +34,13 @@
     <loc>https://docs.groupdocs.cloud/sitemaps/parser.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.groupdocs.cloud/sitemaps/rewriter.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.groupdocs.cloud/sitemaps/signature.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://docs.groupdocs.cloud/sitemaps/translation.xml</loc>
   </sitemap>
   <sitemap>
     <loc>https://docs.groupdocs.cloud/sitemaps/viewer.xml</loc>
