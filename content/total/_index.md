@@ -11,7 +11,7 @@ hideChildren: true
 
 |    |    |    |    |
 | ---------- | ------  | ------  | ------  
-| GroupDocs.Annotation Cloud** | [Getting Started](https://docs.groupdocs.cloud/annotation/getting-started) | [Developer Guide](https://docs.groupdocs.cloud/annotation/developer-guide) | [Release Notes](https://docs.groupdocs.cloud/annotation/release-notes)
+| **GroupDocs.Annotation Cloud** | [Getting Started](https://docs.groupdocs.cloud/annotation/getting-started) | [Developer Guide](https://docs.groupdocs.cloud/annotation/developer-guide) | [Release Notes](https://docs.groupdocs.cloud/annotation/release-notes)
 | **GroupDocs.Classification Cloud** | [Getting Started](https://docs.groupdocs.cloud/classification/getting-started) | [Developer Guide](https://docs.groupdocs.cloud/classification/developer-guide) | [Release Notes](https://docs.groupdocs.cloud/classification/release-notes)
 | **GroupDocs.Comparison Cloud** | [Getting Started](https://docs.groupdocs.cloud/comparison/getting-started) | [Developer Guide](https://docs.groupdocs.cloud/comparison/developer-guide) | [Release Notes](https://docs.groupdocs.cloud/comparison/release-notes)
 | **GroupDocs.Conversion Cloud** | [Getting Started](https://docs.groupdocs.cloud/conversion/getting-started) | [Developer Guide](https://docs.groupdocs.cloud/conversion/developer-guide) | [Release Notes](https://docs.groupdocs.cloud/conversion/release-notes)
