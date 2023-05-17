@@ -1,0 +1,1 @@
+call hugo server  

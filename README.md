@@ -1,19 +1,18 @@
-# Containerize.Hugo Cloud Common
+# GroupDocs.Cloud Total documentation and common Hugo theme
 
-[![Build Status](https://travis-ci.com/groupdocs/docs-cloud-common.svg?branch=master)](https://travis-ci.com/groupdocs/docs-cloud-common)
-
-|  Docs      | Build Status   |
+|  Docs      | GitHub repository   |
 | ---------- | ------  
-| GroupDocs.Annotation Cloud | [![Build Status](https://travis-ci.com/groupdocs-annotation-cloud/docs.svg?branch=master)](https://travis-ci.com/groupdocs-annotation-cloud/docs)
-| GroupDocs.Classification Cloud | [![Build Status](https://travis-ci.com/groupdocs-annotation-cloud/docs.svg?branch=master)](https://travis-ci.com/groupdocs-annotation-cloud/docs)
-| GroupDocs.Comparison Cloud | [![Build Status](https://travis-ci.com/groupdocs-comparison-cloud/docs.svg?branch=master)](https://travis-ci.com/groupdocs-comparison-cloud/docs)
-| GroupDocs.Conversion Cloud | [![Build Status](https://travis-ci.com/groupdocs-conversion-cloud/docs.svg?branch=master)](https://travis-ci.com/groupdocs-conversion-cloud/docs)
-| GroupDocs.Editor Cloud     | [![Build Status](https://travis-ci.com/groupdocs-editor-cloud/docs.svg?branch=master)](https://travis-ci.com/groupdocs-editor-cloud/docs)
-| GroupDocs.Merger Cloud    | [![Build Status](https://travis-ci.com/groupdocs-merger-cloud/docs.svg?branch=master)](https://travis-ci.com/groupdocs-merger-cloud/docs)
-| GroupDocs.Metadata Cloud   | [![Build Status](https://travis-ci.com/groupdocs-metadata-cloud/docs.svg?branch=master)](https://travis-ci.com/groupdocs-metadata-cloud/docs)
-| GroupDocs.Parser Cloud     | [![Build Status](https://travis-ci.com/groupdocs-parser-cloud/docs.svg?branch=master)](https://travis-ci.com/groupdocs-parser-cloud/docs)
-| GroupDocs.Rewriter Cloud  | [![Build Status](https://travis-ci.com/groupdocs-rewriter-cloud/docs.svg?branch=master)](https://travis-ci.com/groupdocs-rewriter-cloud/docs)
-| GroupDocs.Signature Cloud  | [![Build Status](https://travis-ci.com/groupdocs-signature-cloud/docs.svg?branch=master)](https://travis-ci.com/groupdocs-signature-cloud/docs)
-| GroupDocs.Translation| [![Build Status](https://travis-ci.com/groupdocs-translation-cloud/docs.svg?branch=master)](https://travis-ci.com/groupdocs-translation-cloud/docs)
-| GroupDocs.Viewer Cloud     | [![Build Status](https://travis-ci.com/groupdocs-viewer-cloud/docs.svg?branch=master)](https://travis-ci.com/groupdocs-viewer-cloud/docs)
-| GroupDocs.Watermark Cloud  | [![Build Status](https://travis-ci.com/groupdocs-watermark-cloud/docs.svg?branch=master)](https://travis-ci.com/groupdocs-watermark-cloud/docs)
+| [GroupDocs.Annotation Cloud](https://docs.groupdocs.cloud/annotation/) | https://github.com/groupdocs-annotation-cloud/docs
+| [GroupDocs.Classification Cloud](https://docs.groupdocs.cloud/classification/) | https://github.com/groupdocs-classification-cloud/docs
+| [GroupDocs.Comparison Cloud](https://docs.groupdocs.cloud/comparison/) | https://github.com/groupdocs-comparison-cloud/docs
+| [GroupDocs.Conversion Cloud](https://docs.groupdocs.cloud/conversion/) | https://github.com/groupdocs-conversion-cloud/docs
+| [GroupDocs.Editor Cloud](https://docs.groupdocs.cloud/editor/) | https://github.com/groupdocs-editor-cloud/docs
+| [GroupDocs.Merger Cloud](https://docs.groupdocs.cloud/merger/) | https://github.com/groupdocs-merger-cloud/docs
+| [GroupDocs.Metadata Cloud](https://docs.groupdocs.cloud/metadata/) |https://github.com/groupdocs-metadata-cloud/docs
+| [GroupDocs.Parser Cloud](https://docs.groupdocs.cloud/parser/) | https://github.com/groupdocs-parser-cloud/docs
+| [GroupDocs.Rewriter Cloud](https://docs.groupdocs.cloud/rewriter/) | https://github.com/groupdocs-rewriter-cloud/docs
+| [GroupDocs.Signature Cloud](https://docs.groupdocs.cloud/signature/) | https://github.com/groupdocs-signature-cloud/docs
+| [GroupDocs.Translation](https://docs.groupdocs.cloud/translation/) | https://github.com/groupdocs-translation-cloud/docs
+| [GroupDocs.Viewer Cloud](https://docs.groupdocs.cloud/viewer/) | https://github.com/groupdocs-viewer-cloud/docs
+| [GroupDocs.Watermark Cloud](https://docs.groupdocs.cloud/watermark/) | https://github.com/groupdocs-watermark-cloud/docs
+
