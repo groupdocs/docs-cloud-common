@@ -1,0 +1,44 @@
+{{- if .Site.Params.showFeedbackForm }}
+    
+<a name="feedback"></a>
+<div id="feedback" class="gdoc-feedback">
+
+<div id="feedback_tab_vote" class="gdoc-feedback__tab active">
+    <h2 class="gdoc-feedback__header">Was this page helpful?</h2>
+
+    <div class="gdoc-feedback__actions">
+        <button id="feedback_no" class="gdoc-feedback__button">Not really</button>
+        <button id="feedback_yes" class="gdoc-feedback__button gdoc-feedback__button--primary">Yes, thanks</button>
+    </div>
+
+</div>
+<div id="feedback_tab_yes" class="gdoc-feedback__tab">
+    <h2 class="gdoc-feedback__header">Any additional feedback you'd like to share with us?</h2>
+    <textarea id="feedback_yes_msg" class="gdoc-feedback__msg"></textarea>
+    <div class="gdoc-feedback__actions">
+        <button id="feedback_yes_skip" class="gdoc-feedback__button gdoc-feedback__button--label">Skip</button>
+        <button id="feedback_yes_send" class="gdoc-feedback__button gdoc-feedback__button--primary">Send</button>
+    </div>
+
+</div>
+<div id="feedback_tab_no" class="gdoc-feedback__tab">
+    <h2 class="gdoc-feedback__header">Please tell us how we can improve this page.</h2>
+    <textarea id="feedback_no_msg" class="gdoc-feedback__msg"></textarea>
+    <div class="gdoc-feedback__actions">
+        <button id="feedback_no_skip" class="gdoc-feedback__button gdoc-feedback__button--label">Skip</button>
+        <button id="feedback_no_send" class="gdoc-feedback__button gdoc-feedback__button--primary">Send</button>
+    </div>
+
+</div>
+<div id="feedback_tab_thanks" class="gdoc-feedback__tab">
+    
+    <h2 class="gdoc-feedback__header">Thank you for your feedback!</h2>
+    <p class="gdoc-feedback__text">We value your opinion. Your feedback will help us improve our documentation.</p>
+
+</div>
+
+
+</div>
+
+
+{{ end }}

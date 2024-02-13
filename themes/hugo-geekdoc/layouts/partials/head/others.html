@@ -1,0 +1,118 @@
+<script src="{{ index (index .Site.Data.assets "main.js") "src" | relURL }}"></script>
+
+<link
+  rel="preload"
+  as="font"
+  href="{{ "fonts/Inter-Regular.woff2" | relURL }}"
+  type="font/woff2"
+  crossorigin="anonymous"
+/>
+<link
+  rel="preload"
+  as="font"
+  href="{{ "fonts/Inter-Medium.woff2" | relURL }}"
+  type="font/woff2"
+  crossorigin="anonymous"
+/>
+
+<link
+  rel="preload"
+  as="font"
+  href="{{ "fonts/Inter-Bold.woff2" | relURL }}"
+  type="font/woff2"
+  crossorigin="anonymous"
+/>
+
+<link
+  rel="preload"
+  as="font"
+  href="{{ "fonts/Inter-ExtraBold.woff2" | relURL }}"
+  type="font/woff2"
+  crossorigin="anonymous"
+/>
+
+<link
+  rel="preload"
+  as="font"
+  href="{{ "fonts/OpenSans-SemiBold.woff2" | relURL }}"
+  type="font/woff2"
+  crossorigin="anonymous"
+/>
+
+<link
+  rel="preload"
+  as="font"
+  href="{{ "fonts/RobotoMono-Medium.woff2" | relURL }}"
+  type="font/woff2"
+  crossorigin="anonymous"
+/>
+
+
+<link
+  rel="preload"
+  href="/color-groupdocs.css?v=22.12.0"
+  as="style"
+/>
+<link
+  rel="stylesheet"
+  href="/color-groupdocs.css?v=22.12.0"
+  media="all"
+/> 
+
+
+<link
+  rel="preload"
+  href="/main-groupdocs.css?v=23.6.0"
+  as="style"
+/>
+<link
+  rel="stylesheet"
+  href="/main-groupdocs.css?v=23.6.0"
+  media="all"
+/> 
+
+
+<link
+  rel="preload"
+  href="/mobile-groupdocs.css?v=23.4.0"
+  as="style"
+/>
+<link
+  rel="stylesheet"
+  href="/mobile-groupdocs.css?v=23.4.0"
+  media="all"
+/>
+
+<link
+  rel="preload"
+  href="{{ index (index .Site.Data.assets "print.scss") "src" | relURL }}"
+  as="style"
+/>
+<link
+  rel="stylesheet"
+  href="{{ index (index .Site.Data.assets "print.scss") "src" | relURL }}"
+  media="print"
+/>
+
+<link
+  rel="preload"
+  href="/custom.css?v=23.4.0"
+  as="style"
+/>
+<link
+  rel="stylesheet"
+  href="/custom.css?v=23.4.0"
+  media="all"
+/>
+
+
+
+{{- with .OutputFormats.Get "html" }}
+  {{ printf `<link href=%q rel=%q type=%q />` .Permalink .Rel .MediaType.Type | safeHTML }}
+{{- end }}
+
+{{- if (default false $.Site.Params.GeekdocOverwriteHTMLBase) }}
+  <base href="{{ .Site.BaseURL }}" />
+{{- end }}
+
+{{ printf "<!-- %s -->" "Made with Geekdoc theme https://github.com/thegeeklab/hugo-geekdoc" | safeHTML }}

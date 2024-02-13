@@ -1,0 +1,36 @@
+{{ define "main" }}
+{{ $navEnabled := default true .Page.Params.GeekdocNav }}
+
+{{ $fullWidthClass := default "" }}
+
+{{- if eq true .Page.Params.FullWidth }}
+  {{- $fullWidthClass = "gdoc-markdown__full-width" }}
+{{- end }}
+
+
+{{ if $navEnabled }}
+  {{ partial "page-header" . }}
+{{ else }}
+  <div class="gdoc-list-header">
+  {{ partial "page-header" . }}
+  </div> 
+{{ end }}
+
+
+  <article
+    class="gdoc-markdown  gdoc-markdown__align--{{ default "left" (.Page.Params.GeekdocAlign | lower) }} {{$fullWidthClass}}"
+  >
+   
+    
+    {{ if $navEnabled }}
+    <h1>{{ partial "utils/title" . }}</h1>
+{{ else }}
+    <h1 class="gdoc-list-title">{{ partial "utils/title" . }}</h1>
+{{ end }}
+    
+    
+    
+    {{ partial "utils/content" . }}
+    {{ partial "children" . }}
+  </article>
+{{ end }}

@@ -1,0 +1,25 @@
+<!-- note|tip|important|caution|warning -->
+{{ $type := default "note" (.Get "style") }}
+
+{{- if eq "info" $type }}
+  {{- $type = "note" }}
+{{- end }}
+
+{{- if eq "success" $type }}
+  {{- $type = "tip" }}
+{{- end }}
+
+{{- if eq "danger" $type }}
+  {{- $type = "warning" }}
+{{- end }}
+
+{{ $icon := .Get "icon" }}
+{{ $title := default ($type | title) (.Get "title") }}
+
+<blockquote class="gdoc-hint {{ $type | lower }}">
+ 
+  <div class="gdoc-hint__header">
+    <i class="gdoc-hint__icon {{ $type | lower }}" title="{{ $title }}"></i>
+    <div class="gdoc-hint__name {{ $type | lower }}">{{$title }}</div></div> 
+  <div class="gdoc-hint__text">{{ .Inner | $.Page.RenderString }}</div>
+</blockquote>
