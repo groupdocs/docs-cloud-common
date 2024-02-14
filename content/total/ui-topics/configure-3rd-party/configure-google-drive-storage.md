@@ -17,25 +17,26 @@ You have to complete following steps to connect a Google Drive Storage:
 * Go to Google API console: [https://code.google.com/apis/console](https://code.google.com/apis/console)
 * Create a new Project
 
-![](total/images/GoogleDriveCreateProject_1.PNG)
+![](/total/images/GoogleDriveCreateProject_1.PNG)
 
 * In "APIs & Services" menu Enable Google Drive API
 
-![](total/images/GoogleDriveEnableAPIs_2.PNG)
-![](total/images/GoogleDriveEnableAPIs_3.PNG)
+![](/total/images/GoogleDriveEnableAPIs_2.PNG)
+
+![](/total/images/GoogleDriveEnableAPIs_3.PNG)
 
 * Go to Credential options and add information in OAuth consent screen
 
-![](total/images/GoogleDriveCredential_4.PNG)
+![](/total/images/GoogleDriveCredential_4.PNG)
 
 * Create "OAuth client ID" API credentials
 
-![](total/images/GoogleDriveCredential_5.PNG)
+![](/total/images/GoogleDriveCredential_5.PNG)
 
 * Select Web Application and More options
 * Add https://dashboard.groupdocs.cloud/storages/googledrive/callback to Authorized Redirect URIs
 
-![](total/images/GoogleDriveCredential_6.PNG)
+![](/total/images/GoogleDriveCredential_6.PNG)
 
 * Push Create button
 

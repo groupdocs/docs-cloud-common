@@ -6,7 +6,8 @@ productName: "GroupDocs.Total Cloud"
 weight: 10
 description: ""
 keywords: ""
-hideChildren: true
+hideChildren: True
+fullWidth: True
 ---
 
 |    |    |    |    |

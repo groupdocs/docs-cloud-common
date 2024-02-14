@@ -54,7 +54,7 @@ The basic concept and how it works is described in the next image:\
 
 ## Applications ##
 
-To access the REST API using JWT Token, you need to [create an application]({{< ref "total/getting-started/ui-topics/creating-and-managing-application.md" >}}). To register new applications, login into the [Dashboard Developer](https://dashboard.groupdocs.cloud) site using your GroupDocs Account, and go to the [Applicaitons](https://dashboard.groupdocs.cloud/applications) view. Once you create a new application, we will issue a **client_id** and **client_secret** that you can use to obtain an JWT Token in order to authenticate your REST API calls. (You can generate new secrets for your Applications, but make sure you update it when issuing new access tokens using those credentials.)
+To access the REST API using JWT Token, you need to [create an application]({{< ref "total/ui-topics/creating-and-managing-application.md" >}}). To register new applications, login into the [Dashboard Developer](https://dashboard.groupdocs.cloud) site using your GroupDocs Account, and go to the [Applicaitons](https://dashboard.groupdocs.cloud/applications) view. Once you create a new application, we will issue a **client_id** and **client_secret** that you can use to obtain an JWT Token in order to authenticate your REST API calls. (You can generate new secrets for your Applications, but make sure you update it when issuing new access tokens using those credentials.)
 
 ## Get JWT Access Token ##
 
@@ -75,26 +75,24 @@ The endpoint acts as an authorization server and it verifies your credentials, i
 
 ### cURL Example ###
 
-{{< tabs tabTotal="2" tabID="1" tabName1="Request" tabName2="Response" >}} {{< tab tabNum="1" >}}
 
-```html
+{{< tabs "example1">}}
+{{< tab "Request" >}}
+```bash
 curl --location --request POST 'https://api.groupdocs.cloud/connect/token' \
      --header 'Content-Type: application/x-www-form-urlencoded' \
      --data-urlencode 'grant_type=client_credentials' \
      --data-urlencode 'client_id=XXYYXXYY' \
      --data-urlencode 'client_secret=XXYYXXYY'
 ```
-
-{{< /tab >}} {{< tab tabNum="2" >}}
-
-```html
+{{< /tab >}} {{< tab "Resonse" >}}
+```json
 {
     "access_token": "eyJhbGciOiJSUzI1UiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE2MDUxMTA3MTMsImV4cCI6MUYwNTE5NzExMywiaXNzIjoiaHR0cHM6Ly9hcGkuZ3JvdXBkb2NzLmNsb3VkIiwiYXVkIjpbImh0dHBzOi8vYXBpLmdyb3VwZG9jcy5jbG91ZC9yZXNvdXJjZXMiLCJhcGkuYmlsbGluZyIsImFwaS5pZGVudGl0eSIsImFwaS5wcm9kdWN0cyIsImFwaS5zdG9yYWdlIl0sImNsaWVudF9pZCI6IjNlZmYwMGFlLWIxNzctNDRiZC04NTVlLTkxNzlkZmNiN2M4OSIsImNsaWVudR9kZWZhdWx0X3N0b3JhZ2UiOiJkY2Y0MjkyMC1hNjc1LTRjNTEtOTdlMi1kZWJhNGFkZjg4ZWYiLCJjbGllbnRfaWRlbnRpdHlfdXNlcl9pZCI6Ijc5MjMyMSIsInNjb3BlIjpbImFwaS5iaWxsaW5nIiwiYXBpLmlkZW50aXR5IiwiYXBpLnByb2R1Y3RzIiwiYXBpLnN0b3JhZ2UiXX0.DuDw85-xsxMfiddMhqK0RCcHTWkviDDKqsNVH1Rcnab1LsYaW_76d7IXPLvHMO6LMzGJ2WOsvqiO5Tk4bezd04p0OvTXJLF4TQ4GP6lPcw4p5GWayyLljOxZiDPgmfpH3J8F3H0Qr-9PJyMreeZ-x8h8jzO65HLhdw0NOFfABaJ0NJkuMqhI0bGfZd2BalfxKoCfUFajzXvq5oFuCtC8t7G-81QSTC0L2waSjH9ET6MY1F-7HSV3fxFBswcIdx383N30VjCh3HFml8xScHFtVHGsyc7XFBWWzhTcMxQKrRVcgdLGg6DvS3W47cbIpXjfQ-p0nFj1briayLOK-GaZ8Q",
     "expires_in": 86400,
     "token_type": "Bearer"
 }
 ```
-
 {{< /tab >}} {{< /tabs >}}
 
 ## Call REST API ##
@@ -107,19 +105,17 @@ Now that you have the Bearer Token (access_token) generated using the applicatio
 
 ### cURL Example ###
 
-{{< tabs tabTotal="2" tabID="3" tabName1="Request" tabName2="Response" >}} {{< tab tabNum="1" >}}
-
-```html
+{{< tabs "example2">}}
+{{< tab "Request" >}}
+```bash
 curl -v "https://api.groupdocs.cloud/v1/viewer/Test.msg/html/attachments/Freescale%20OSC.pdf/pages/1/resources/styles.css" \
      -X GET \
      -H "Content-Type: application/json" \
      -H "authorization: Bearer _J7gynLXEsUVn8fCYlsHqP-Su6G3-TjRUQH328UFoMQ2j7wrh8_n5CcqqDU8Bpx7Pvkoc3I9K1AeDOINokG4a1pmXwfMdExQRt6vQ-356u-OQvZQjoYkDwNyEUObAlDbAw7LFcA1utZKnerf2JV6Q8Gjn00BH-N4IJaUY02jXzppPP7fOdx0RNTiUfAnAuemsDbItsyd-BTT8oIk2AwcTwIZM5ub5eFNYzgIrtrTDxVUMd6oG3-xAuGVM5h2Bc9D-G17pspaLXIEkeqyjSMaOzKHxi-vOUse3i8mRTNhu0gCHXt2q08MR_qMtfgGhT8ZQh-kk8bRTX9QVv-LzcSx7I0PTZkYM8Rha8QVr1aStXehlW2yIGo7YGQobeBnsn2zmIuR1CzczdxfePSQ4evPuoaSuFN9I9swLDFcZYfVdcq3Tk5i"
-```
-
-{{< /tab >}} {{< tab tabNum="2" >}}
-
-```html
-    sup {
+ ```
+{{< /tab >}} {{< tab "Resonse" >}}
+```css
+  sup {
     top: -0.4em;
     vertical-align: baseline;
     position: relative;
@@ -164,24 +160,21 @@ curl -v "https://api.groupdocs.cloud/v1/viewer/Test.msg/html/attachments/Freesca
     width: 49.58333em;
 }
 ```
-
 {{< /tab >}} {{< /tabs >}}
 
-{{< tabs tabTotal="2" tabID="4" tabName1="Request" tabName2="Response" >}} {{< tab tabNum="1" >}}
 
-```html
 
+{{< tabs "example3">}}
+{{< tab "Request" >}}
+```bash
 curl -v "https://api.groupdocs.cloud/v1/viewer/Test.msg/html/attachments/Freescale%20OSC.pdf/pages/1/resources/styles.css" \
      -X GET \
      -H "Content-Type: application/json" \
      -H "authorization: Bearer _J7gynLXEsUVn8fCYlsHqP-Su6G3-TjRUQH328UFoMQ2j7wrh8_n5CcqqDU8Bpx7Pvkoc3I9K1AeDOINokG4a1pmXwfMdExQRt6vQ-356u-OQvZQjoYkDwNyEUObAlDbAw7LFcA1utZKnerf2JV6Q8Gjn00BH-N4IJaUY02jXzppPP7fOdx0RNTiUfAnAuemsDbItsyd-BTT8oIk2AwcTwIZM5ub5eFNYzgIrtrTDxVUMd6oG3-xAuGVM5h2Bc9D-G17pspaLXIEkeqyjSMaOzKHxi-vOUse3i8mRTNhu0gCHXt2q08MR_qMtfgGhT8ZQh-kk8bRTX9QVv-LzcSx7I0PTZkYM8Rha8QVr1aStXehlW2yIGo7YGQobeBnsn2zmIuR1CzczdxfePSQ4evPuoaSuFN9I9swLDFcZYfVdcq3Tk5i"
-
 ```
-
-{{< /tab >}} {{< tab tabNum="2" >}}
-
-```html
-  sup {
+{{< /tab >}} {{< tab "Resonse" >}}
+```css
+sup {
   top: -0.4em;
   vertical-align: baseline;
   position: relative;
@@ -224,7 +217,6 @@ a:visited {text-decoration:none;}
   width: 49.58333em;
 }
 ```
-
 {{< /tab >}} {{< /tabs >}}
 
 ## Token Lifetime ##
