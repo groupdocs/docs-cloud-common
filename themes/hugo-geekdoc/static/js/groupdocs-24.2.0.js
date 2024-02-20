@@ -1,8 +1,8 @@
 /* Feedback */
 document.addEventListener("DOMContentLoaded",  ()=> {
 
-    const FEEDBACK_FORM_VERSION = "22.10";
-    const FEEDBACK_API_ENDPOINT = "https://docs.groupdocs.com/api/feedback";
+    const FEEDBACK_FORM_VERSION = "24.2";
+    const FEEDBACK_API_ENDPOINT = "https://docs.groupdocs.cloud/api/feedback";
 
     const feedbackData = {page:window.location.pathname, pageTitle: document.title, referrer:  document.referrer, appVersion: FEEDBACK_FORM_VERSION };
     const feedbackForm = document.querySelector("#feedback");
@@ -128,7 +128,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
 /* Search block */
 document.addEventListener("DOMContentLoaded", ()=>{
     var MOBILE_SCREEN_WIDTH = 1024;
-    var SEARCH_URL = "https://search.groupdocs.com/q/[query].html"
+    var SEARCH_URL = "https://search.groupdocs.cloud/q/[query].html"
     var searchToggle = document.querySelector('#search_toggle');
     var searchClose =  document.querySelector('#search_close');
     var menuBlock = document.querySelector('.gdoc-header__menu-inner');
