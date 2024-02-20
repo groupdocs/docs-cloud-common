@@ -2539,7 +2539,7 @@ a.gdoc-list-app__button {
     background: var(--list-button-background);
     box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.04), 0px 2px 6px rgba(0, 0, 0, 0.04), 0px 0px 1px rgba(0, 0, 0, 0.04);
     border-radius: 5px;
-    width: 7.5rem;
+    width: 8rem;
     height: 3rem;
     display: flex;
     align-items: center;
@@ -2550,6 +2550,11 @@ a.gdoc-list-app__button {
     font-weight: 500;
     color: var(--header-font-color);
 }
+
+a.gdoc-list-app__button_large {
+    width: 12rem;
+}
+
 a.gdoc-list-app__button:visited {color: var(--header-font-color);}
 a.gdoc-list-app__button--net {
     background-image: url(img/groupdocs-stack.svg#net);
@@ -2565,7 +2570,14 @@ a.gdoc-list-app__button--nodejs {
     background-image: url(img/groupdocs-stack.svg#nodejs);
     background-size: 1.5rem;
 }
-
+a.gdoc-list-app__button--document_blue {
+    background-image: url(img/groupdocs-stack.svg#document_blue);
+    
+}
+a.gdoc-list-app__button--github {
+    background-image: url(img/groupdocs-stack.svg#github);
+    
+}
 
 
 h2.gdoc-list-title {
