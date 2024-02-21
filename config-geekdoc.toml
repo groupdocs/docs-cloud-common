@@ -69,7 +69,7 @@ pluralizeListTitles = false
     GitHubDateFormat        = 'January 2, 2006'
 
     # Render partial, script and stylesheet for the feedback form
-    showFeedbackForm        = false
+    showFeedbackForm        = true
 
 [Params.Sitemap]
 	changeFreq              = "weekly"
