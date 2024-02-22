@@ -7,6 +7,7 @@ weight: 3
 description: ""
 keywords: ""
 ---
+
 ## Using **Files** view
 
 * Log into [Dashboard](https://dashboard.groupdocs.cloud).

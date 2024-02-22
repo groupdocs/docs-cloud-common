@@ -10,7 +10,7 @@ keywords: ""
 
 You have to complete following steps to connect a Google Drive Storage:
 
-# Google Drive Configurations
+## Google Drive Configurations
 
 * Create Google account if you don't have one (Google Plus account can be used)
 * (Optional) Install Google Drive application at your PC (see [https://drive.google.com](https://drive.google.com))
@@ -40,7 +40,7 @@ You have to complete following steps to connect a Google Drive Storage:
 
 * Push Create button
 
-# GroupDocs Cloud Configuration
+## GroupDocs Cloud Configuration
 
 * Open [Dashboard](https://dashboard.groupdocs.cloud)
 * Access the [Storages](https://dashboard.groupdocs.cloud/storages) page

@@ -7,6 +7,7 @@ weight: 1
 description: ""
 keywords: ""
 ---
+
 ## Creating a Free Account
 
 * Go to [Dashboard](https://dashboard.groupdocs.cloud). You will be redirected to our Single Sign On application to authenticate to our services.

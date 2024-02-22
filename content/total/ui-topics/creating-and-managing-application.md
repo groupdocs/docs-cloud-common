@@ -7,6 +7,7 @@ weight: 2
 description: ""
 keywords: ""
 ---
+
 ## Create New Application
 
 1. Log into [Dashboard](https://dashboard.groupdocs.cloud).
