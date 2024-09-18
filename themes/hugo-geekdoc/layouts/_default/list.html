@@ -1,5 +1,6 @@
 {{ define "main" }}
 {{ $navEnabled := default true .Page.Params.GeekdocNav }}
+{{ $showFeedbackForm := default .Site.Params.showFeedbackForm .Page.Params.showFeedbackForm }}
 
 {{ $fullWidthClass := default "" }}
 
@@ -21,7 +22,7 @@
     class="gdoc-markdown  gdoc-markdown__align--{{ default "left" (.Page.Params.GeekdocAlign | lower) }} {{$fullWidthClass}}"
   >
     <h1>{{ partial "utils/title" . }}
-      {{- if .Site.Params.showFeedbackForm }}
+      {{- if $showFeedbackForm }}
         <a class="gdoc-feedback-link" href="#feedback">
           <svg  class="gdoc-feedback-link__icon">
             <use xlink:href="/img/groupdocs-stack.svg#thumb_up"></use>

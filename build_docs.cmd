@@ -1,1 +1,1 @@
-call hugo server  
+call hugo server --config=config-geekdoc.toml
