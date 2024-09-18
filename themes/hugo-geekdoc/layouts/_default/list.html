@@ -20,17 +20,19 @@
   <article
     class="gdoc-markdown  gdoc-markdown__align--{{ default "left" (.Page.Params.GeekdocAlign | lower) }} {{$fullWidthClass}}"
   >
-   
-    
-    {{ if $navEnabled }}
-    <h1>{{ partial "utils/title" . }}</h1>
-{{ else }}
-    <h1 class="gdoc-list-title">{{ partial "utils/title" . }}</h1>
-{{ end }}
-    
-    
+    <h1>{{ partial "utils/title" . }}
+      {{- if .Site.Params.showFeedbackForm }}
+        <a class="gdoc-feedback-link" href="#feedback">
+          <svg  class="gdoc-feedback-link__icon">
+            <use xlink:href="/img/groupdocs-stack.svg#thumb_up"></use>
+          </svg>
+          <span class="gdoc-feedback-link__label">Leave&nbsp;feedback</span>
+        </a>
+      {{ end }}
+    </h1>
     
     {{ partial "utils/content" . }}
     {{ partial "children" . }}
+    {{ partial "feedback-form" . }}
   </article>
 {{ end }}
