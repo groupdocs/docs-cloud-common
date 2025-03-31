@@ -71,6 +71,9 @@ pluralizeListTitles = false
     # Render partial, script and stylesheet for the feedback form
     showFeedbackForm        = true
 
+    aiSearchEndpoint        = "https://docsearch.api.aspose.cloud/ask"
+    aiSearchScopes          = [ "viewer_cloud", "conversion_cloud"
+                            ]
 [Params.Sitemap]
 	changeFreq              = "weekly"
 	priority                = 0.5
