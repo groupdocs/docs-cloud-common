@@ -12,7 +12,6 @@
     padding: 0px 8px 0px 8px;
     border: solid 1px #cccccc;
     border-radius: 3px;
-    background-color: #ffffff;
     margin-bottom: 30px;
     margin-right: 1px;
     position: relative;
@@ -28,7 +27,7 @@
         border: none;
         outline: none;
         font-family: $font-family-base;
-        color: #222222;
+        color: rgb(206, 211, 216);
         background-color: transparent;
         padding-right: 55px;
     }
@@ -40,7 +39,7 @@
         border: none;
         outline: none;
         white-space: nowrap;
-        background-color: #b2bac1;
+        background-color: #FFFFFF16;
         font-family: $font-family-base;
         color: #ffffff;
         cursor: pointer;
@@ -50,7 +49,7 @@
         border-top-right-radius: 3px;
 
         &:hover {
-            background-color: #8d969d;
+            background-color: #FFFFFF10;
         }
     }
 }
@@ -76,9 +75,9 @@
     bottom: 10%;
     right: 10%;
     padding: 20px;
-    border: solid 1px #cccccc;
-    box-shadow: 0px 0px 5px 3px rgba(68,68,68,1);
-    background-color: #ffffff;
+    border: solid 1px #404040;
+    box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.8);
+    background-color: #1e1e1e;
 
     & > header {
         display: flex;
@@ -92,30 +91,29 @@
             height: 40px;
             padding: 0px 2px 0px 10px;
             padding-right: 80px;
-            border: solid 1px #cccccc;
+            border: solid 1px #404040;
             border-radius: 3px;
-            background-color: #ffffff;
+            background-color: #2d2d2d;
             font-size: 16px;
             position: relative;
 
             #aiSearchResultsField {
-            flex-grow: 1;
-            margin-right: 7px;
-            border: none;
-            outline: none;
-            font-family: $font-family-base;
-            color: #222222;
-            background-color: transparent;
+                flex-grow: 1;
+                margin-right: 7px;
+                border: none;
+                outline: none;
+                font-family: $font-family-base;
+                color: #e0e0e0;
+                background-color: transparent;
             }
 
             #aiSearchResultsButton {
                 height: 40px;
                 padding: 0px 18px;
-               
                 border: none;
                 outline: none;
                 white-space: nowrap;
-                background-color: #558fff;
+                background-color: #4a6fa5;
                 font-family: $font-family-base;
                 font-weight: 600;
                 color: #ffffff;
@@ -125,7 +123,7 @@
                 border-top-right-radius: 3px;
                 border-bottom-right-radius: 3px;
                 &:hover {
-                    background-color:#4172d4;
+                    background-color: #385986;
                 }
             }
         }
@@ -150,7 +148,7 @@
         flex-grow: 1;
         overflow: auto;
         padding: 10px 0px;
-        color: rgb(15, 23, 39);
+        color: #d0d0d0;
 
         #aiSearchResultsPreloader {
             margin-top: 15px;
@@ -161,7 +159,7 @@
             }
 
             & > p {
-                color: #666666;
+                color: #888888;
                 font-style: italic;
             }
         }
@@ -170,21 +168,21 @@
             display: none;
             font-size: 16px;
             font-weight: 500;
-            color: #aa0000;
+            color: #ff4444;
         }
 
         pre {
             padding: 10px;
-            border: solid 1px #c2c2c2;
-            background-color: #f8f9fa;
+            border: solid 1px #404040;
+            background-color: #2d2d2d;
+            color: #d0d0d0;
         }
     }
 
     & > aside {
         display: none;
-        
         padding: 10px 20px;
-        border-top: solid 1px #cccccc;
+        border-top: solid 1px #404040;
         margin: 0 -20px;
         margin-top: 20px;
 
@@ -193,7 +191,7 @@
             margin-bottom: 15px;
             font-weight: 500;
             font-size: 18px;
-            color: rgb(15, 23, 39);
+            color: #d0d0d0;
         }
 
         #aiSearchRelatedArticles {
@@ -207,19 +205,18 @@
 
             & > a {
                 display: block;
-                /* min-width: 200px; */
                 margin: 0px 15px 5px 0px;
                 padding: 12px 15px;
                 border-radius: 3px;
-               
                 text-decoration: none;
                 white-space: nowrap;
                 overflow: hidden;
-                background-color: #f3f5f7;
+                background-color: #2d2d2d;
+                color: #d0d0d0;
 
                 &:hover {
                     text-decoration: none;
-                    
+                    background-color: #383838;
                 }
             }
         }
