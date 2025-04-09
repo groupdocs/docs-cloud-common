@@ -72,7 +72,10 @@ pluralizeListTitles = false
     showFeedbackForm        = true
 
     aiSearchEndpoint        = "https://docsearch.api.aspose.cloud/ask"
-    aiSearchScopes          = [ "viewer_cloud", "conversion_cloud"
+    aiSearchScopes          = [ "viewer_cloud", "conversion_cloud",
+                                "annotation_cloud", "editor_cloud",
+                                "merger_cloud", "signature_cloud",
+                                "comparison_cloud"
                             ]
 [Params.Sitemap]
 	changeFreq              = "weekly"
