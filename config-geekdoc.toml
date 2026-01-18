@@ -32,9 +32,9 @@ pluralizeListTitles = false
         style               = "github"
 
 [outputs]
-    home                    = [ "HTML", "SITEMAP"]
-    section                 = [ "HTML" ]
-    page                    = [ "HTML" ]
+    home                    = [ "HTML", "SITEMAP", "Markdown"]
+    section                 = [ "HTML", "Markdown" ]
+    page                    = [ "HTML", "Markdown" ]
 
 [outputFormats.SITEMAP]
     MediaType               = "application/xml"
@@ -77,6 +77,9 @@ pluralizeListTitles = false
                                 "merger_cloud", "signature_cloud",
                                 "comparison_cloud"
                             ]
+							
+	llmsTXT = true							
+	
 [Params.Sitemap]
 	changeFreq              = "weekly"
 	priority                = 0.5

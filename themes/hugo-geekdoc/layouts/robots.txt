@@ -2,3 +2,9 @@ User-agent: *
 Disallow: /tags/*
 
 Sitemap: {{ "sitemap.xml" | absURL }}
+{{/* LLMS */}}
+{{- $llmsGoTXT := resources.Get "llms.go.txt" -}}
+{{- if and $llmsGoTXT .Site.Params.llmsTXT -}}
+  {{- $llmsTXT := $llmsGoTXT | resources.ExecuteAsTemplate "llms.txt" . -}}
+  llms-txt: {{ $llmsTXT.Permalink }}
+{{- end -}}
